@@ -16,7 +16,8 @@ infoboxes:
     image_size:
       text: 300px
     caption:
-      text: Russian casualties and damaged armoured vehicles in the aftermath of the
+      text:
+        Russian casualties and damaged armoured vehicles in the aftermath of the
         battle on 4 March in Hostomel
     date:
       text: 25 February – 1 April 2022
@@ -155,30 +156,30 @@ description: The Battle of Hostomel was a battle fought for control over the
   with Irpin, Bucha, Highway M06, and Vyshhorod as the most dangerous places in
   the Kyiv Oblast.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(73).jpg
 ---
-        
+
 ![Antonov Airport after Russian invasion of Ukraine and Mriya](https://wikipedia.org/wiki/Special:Redirect/file/Antonov_Airport_after_Russian_invasion_of_Ukraine_and_Mriya.jpg?)
 The **Battle of Hostomel** was a battle fought for control over the town of Hostomel between the Russian and Ukrainian armed forces during the 2022 Russian invasion of Ukraine. As part of the Kyiv offensive, the Russian forces sought control over Hostomel, Bucha and Irpin in order to encircle and besiege the Ukrainian capital city Kyiv from the west. Due to the intensity of the Kyiv offensive, the Kyiv Oblast State Administration named Hostomel, along with Irpin, Bucha, Highway M06, and Vyshhorod as the most dangerous places in the Kyiv Oblast.
 
-
-
 ## Prelude
+
 On 24 February 2022, Russian airborne forces arrived via helicopters and battled Ukrainian forces for control of the Hostomel Airport. Ukrainian forces initially evicted the Russian airborne troops from the airport, but were soon engaged by Russian reinforcements. On 25 February 2022, the Russian forces re-captured the Hostomel Airport from the Ukrainians. As a result, the battle shifted from the airport to the nearby town as the Russian forces began to establish a foothold in Hostomel and press their advance.
 
 ## Battle
 
-
 ### 25–28 February 2022
+
 ![Battle of Hostomel, 04.03.2021, Stuck Russian BMD-4](https://wikipedia.org/wiki/Special:Redirect/file/Battle_of_Hostomel%2C_04.03.2021%2C_Stuck_Russian_BMD-4.jpg?)
 Following the battle of the airport, Ukrainian and Russian forces began to engage each other in and around Hostomel. Videos posted on social media showed a Russian tank column burning in the outskirts of the town and Ukrainian Mi-24s firing rockets at Russian positions over a residential area. Kadyrovites were reported to have moved into the outskirts of the town or into the airport in preparations to assassinate the Ukrainian president Volodymyr Zelenskyy. The Security Service of Ukraine reported that the Kadyrovites convoy consisted of over 250 pieces of equipment and more than 1,500 of the "best fighters of the Chechen Republic". Ukrainian intelligence stated they received these reports from elements of the FSB who oppose the invasion.
 
 On 26 February 2022, acting on the earlier intelligence report, Ukrainian forces intercepted and destroyed a Chechen strike group tasked with assassinating President Zelenskyy. Elsewhere, Ukrainian UAVs spotted two locations near Hostomel where the Chechen fighters were assembling. The Ukrainian National Guard and Alpha Group later attacked those locations, destroying a column of Russian armored vehicles in the process. According to Ukrainian officials, Magomed Tushayev, a Chechen General and head of the 141st Motorized Regiment of the National Guard of Russia, was killed during the attack. Ukrainian forces reported that the Kadyrovites sustained heavy casualties as a result of these attacks.
 
 ### 1–5 March 2022
+
 ![Battle of Hostomel, 04.03.2021, Damaged Russian BMD-2](https://wikipedia.org/wiki/Special:Redirect/file/Battle_of_Hostomel%2C_04.03.2021%2C_Damaged_Russian_BMD-2.jpg?)
 ![Battle of Hostomel, 04.03.2022, Damaged Russian BTR-MD](https://wikipedia.org/wiki/Special:Redirect/file/Battle_of_Hostomel%2C_04.03.2022%2C_Damaged_Russian_BTR-MD.jpg?)
-
 
 Residents of Hostomel reported constant shelling and airstrikes by Russian forces have deprived them of water, food, electricity, and medicine. The constant bombardment have also prevented the residents from receiving humanitarian aid, evacuate from the town, or even remove corpses from the street. Kadyrovites were reported operating closer to the Hostomel Airport and were robbing residents, while Russian soldiers were pressing their advance into Hostomel. Eyewitnesses reported Russian soldiers firing on an ambulance.
 
@@ -191,6 +192,7 @@ One journalist named Ruslan Vinichenko detailed his six-day captivity by the Rus
 On 5 March 2022, Russian forces captured Hostomel and prevented civilians from evacuating the town.
 
 ## Ukrainian counter-attacks
+
 On 7 March 2022, the mayor of Hostomel, Yuri Prylypko, along with several other volunteers, were killed by Russian troops while distributing food and medicine to residents. His body was reportedly booby trapped by Russian forces. When the local priest came to pick up his body, a sympathetic Russian soldier stopped the priest from getting close, disarmed the trap, and helped load the mayor's body onto a wheelbarrow to be transported away. Yuri was buried near the local church with honors. At some point, Ukrainian forces recaptured some parts of Hostomel. Russian forces responded by deploying two Battalion tactical groups to Hostomel in preparations for an offensive.
 
 On 8 March 2022, Ukrainian forces repelled a Russian night offensive in Hostomel. It was announced that Ukrainian forces were preparing a large-scale evacuation and humanitarian aid delivery for the residents of Hostomel. The next day, Ukrainian forces conducted a large-scale evacuation across Kyiv Oblast, including in Hostomel. Up to 20,000 civilians were evacuated in the Kyiv Oblast. The evacuation continued into the next day.
@@ -204,6 +206,7 @@ On 14 March 2022, Ramzan Kadyrov, head of the Chechen Republic, claimed to have 
 On 16 March 2022, Ukrainian forces launched a counter offensive against Russian forces around Kyiv, including Hostomel. According to Andriy Nebitov, the head of the Kyiv region police, Ukrainian forces were able to break through Russian positions after conducting artillery strikes. He further claimed the counterattack disrupted the Russian forces' plan to attack Kyiv directly.
 
 ## Russian forces withdrawal
+
 On 1 April 2022, Oleksandr Pavlyuk, the head of the Kyiv Regional Military Administration, claimed that Russian forces had left Hostomel. On 2 April 2022, the whole of Kyiv Oblast, where Hostomel is located in, was declared free of Russian Military by the Ukrainian Ministry of Defense after Russian troops had left the area.
 
 On 28 September 2022, the Prosecutor General of Ukraine and National Police of Ukraine published CCTV footage showing OMON and Rosgvardiya soldiers shooting at civilians in Hostomel during the battle.

@@ -95,6 +95,7 @@ description: The battle of Rubizhne was a military engagement that started on 15
   Rubizhne. According to Serhiy Haidai, the governor of Luhansk Oblast, one
   person was killed and several were injured.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(97).jpg
 ---
 

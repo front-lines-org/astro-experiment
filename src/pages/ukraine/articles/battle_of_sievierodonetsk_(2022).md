@@ -13,7 +13,8 @@ infoboxes:
     image:
       text: Attack on the center of Severodonetsk by Russian forces.jpg
     caption:
-      text: Smoke from the Azot chemical plant after being attacked by Russian forces
+      text:
+        Smoke from the Azot chemical plant after being attacked by Russian forces
         in the city
       links:
         - text: Azot chemical plant
@@ -33,7 +34,8 @@ infoboxes:
     result:
       text: Russian victory
     territory:
-      text: Russian forces capture the city of Sievierodonetsk and the settlements of
+      text:
+        Russian forces capture the city of Sievierodonetsk and the settlements of
         Syrotyne, Voronove and Borivske.
       links:
         - text: Syrotyne
@@ -153,8 +155,8 @@ infoboxes:
     strength2:
       text: Unknown
     casualties1:
-      text: 'ISW claim: Heavy Ukrainian claim: 10-11,000 killed (2,000 LPR
-        servicemen), 20,000+ wounded'
+      text: "ISW claim: Heavy Ukrainian claim: 10-11,000 killed (2,000 LPR
+        servicemen), 20,000+ wounded"
       links:
         - text: ISW
           type: internal
@@ -162,10 +164,10 @@ infoboxes:
       formatting:
         bold:
           - ISW claim
-          - 'Ukrainian claim:'
+          - "Ukrainian claim:"
     casualties2:
-      text: 'ISW claim: Heavy Ukrainian claim: 161+ killed, wounded or captured
-        Russian claim (as of 22 May): 200+ killed'
+      text: "ISW claim: Heavy Ukrainian claim: 161+ killed, wounded or captured
+        Russian claim (as of 22 May): 200+ killed"
       links:
         - text: ISW
           type: internal
@@ -173,10 +175,10 @@ infoboxes:
       formatting:
         bold:
           - ISW claim
-          - 'Ukrainian claim:'
-          - 'Russian claim (as of 22 May):'
+          - "Ukrainian claim:"
+          - "Russian claim (as of 22 May):"
     casualties3:
-      text: 'Ukrainian claim (13 April–26 May): 1,100 civilians killed'
+      text: "Ukrainian claim (13 April–26 May): 1,100 civilians killed"
       formatting:
         bold:
           - Ukrainian claim (13 April–26 May)
@@ -189,6 +191,7 @@ description: The Battle of Sievierodonetsk was a military engagement in the
   Sievierodonetsk and the neighbouring city of Lysychansk were the only notable
   parts of the oblast that remained under Ukrainian control.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(8).jpg
 ---
 

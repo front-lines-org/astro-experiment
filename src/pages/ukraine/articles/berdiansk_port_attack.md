@@ -6,7 +6,8 @@ infoboxes:
       text: Біля порту Бердянська ЗСУ знищили російський десантний корабель
         «Саратов».jpg
     caption:
-      text: The Alligator-class landing ship Saratov on fire, with the Ropucha-class
+      text:
+        The Alligator-class landing ship Saratov on fire, with the Ropucha-class
         landing ships Caesar Kunikov and Novocherkassk steaming out of port
         after the attack
       formatting:
@@ -47,7 +48,7 @@ infoboxes:
           type: internal
           page: ukraine
     units2:
-      text: '*19th Missile Brigade (Ukraine)'
+      text: "*19th Missile Brigade (Ukraine)"
       links:
         - text: 19th Missile Brigade
           type: internal
@@ -73,6 +74,7 @@ description: The Berdiansk port attack was a strike carried out by Ukrainian
   heaviest naval loss suffered by Russia during the invasion, and one of
   Ukraine's most significant successes.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(21).jpg
 ---
 

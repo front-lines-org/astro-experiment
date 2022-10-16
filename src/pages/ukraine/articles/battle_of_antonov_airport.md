@@ -14,7 +14,8 @@ infoboxes:
     image:
       text: Взятие под контроль аэродрома на территории Украины 004.png
     caption:
-      text: Russian troops at Antonov Airport, with the Antonov An-225 Mriya ablaze in
+      text:
+        Russian troops at Antonov Airport, with the Antonov An-225 Mriya ablaze in
         its hangar in the background
       links:
         - type: internal
@@ -37,14 +38,15 @@ infoboxes:
       links:
         - text: Analysis
           type: internal
-          page: ''
+          page: ""
           anchor: Analysis
         - text: Aftermath
           type: internal
-          page: ''
+          page: ""
           anchor: Aftermath
     territory:
-      text: Russian capture of Antonov Airport (subsequent Russian withdrawal on 28
+      text:
+        Russian capture of Antonov Airport (subsequent Russian withdrawal on 28
         March 2022)
       links:
         - type: internal
@@ -215,19 +217,21 @@ infoboxes:
           type: internal
           page: Mi-24
     casualties1:
-      text: 'Per Russia: None (second assault wave) Per Ukraine: Several helicopters
-        shot down'
+      text:
+        "Per Russia: None (second assault wave) Per Ukraine: Several helicopters
+        shot down"
       formatting:
         bold:
-          - 'Per Russia:'
-          - 'Per Ukraine:'
+          - "Per Russia:"
+          - "Per Ukraine:"
     casualties2:
-      text: 'Per Russia: 200 killed Per Ukraine: Several Ukrainian National Guardsmen
-        captured'
+      text:
+        "Per Russia: 200 killed Per Ukraine: Several Ukrainian National Guardsmen
+        captured"
       formatting:
         bold:
-          - 'Per Russia:'
-          - 'Per Ukraine:'
+          - "Per Russia:"
+          - "Per Ukraine:"
     image_size:
       text: 300px
 title: Battle of Antonov Airport
@@ -243,6 +247,7 @@ description: The Battle of Antonov Airport, also known as the Battle of Hostomel
   Kyiv, which would allow Russian troops to airlift more troops and heavier
   equipment to directly threaten the city.
 author: Wikipedia
+pubDate: 14 Jul 2022
 authorUrl: https://wikipedia.org
 publishDate: 2022-08-13
 img: ukraine(24).jpg

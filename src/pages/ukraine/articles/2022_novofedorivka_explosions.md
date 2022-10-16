@@ -11,6 +11,7 @@ description: A series of large explosions occurred at the Saky airbase in the
   one person was killed, over a dozen injured, and 252 residents moved to
   temporary shelter due to damage to apartment blocks.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(68).jpg
 ---
 

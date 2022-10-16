@@ -16,7 +16,8 @@ infoboxes:
     date:
       text: 6 September 2022 – present
     partof:
-      text: the 2022 Russian invasion of Ukraine, the Northeastern Ukraine offensive
+      text:
+        the 2022 Russian invasion of Ukraine, the Northeastern Ukraine offensive
         and the Eastern Ukraine offensive
       links:
         - text: 2022 Russian invasion of Ukraine
@@ -142,7 +143,8 @@ infoboxes:
           page: Balakliia
         - text: Shevchenkove
           type: internal
-          page: Shevchenkove, Shevchenkove settlement hromada, Kupiansk Raion, Kharkiv
+          page:
+            Shevchenkove, Shevchenkove settlement hromada, Kupiansk Raion, Kharkiv
             Oblast
         - type: internal
           page: Kupiansk
@@ -185,6 +187,7 @@ description: An ongoing counteroffensive by the Armed Forces of Ukraine on
   in the east of the country. By 9 September, the counteroffensive in Kharkiv
   Oblast led to a breakthrough.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(46).jpg
 ---
 

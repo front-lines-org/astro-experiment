@@ -5,7 +5,8 @@ infoboxes:
     image:
       text: Destruction in Kharkiv.jpg
     partof:
-      text: the northeastern Ukraine offensive and eastern Ukraine offensive of the
+      text:
+        the northeastern Ukraine offensive and eastern Ukraine offensive of the
         2022 Russian invasion of Ukraine
       links:
         - text: northeastern Ukraine offensive
@@ -134,9 +135,10 @@ description: The battle of Kharkiv was a military engagement that took place
   Russian military early in the invasion. By 13 May, Ukrainian forces pushed
   Russian units attempting to encircle the city back towards the Russian border.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(5).jpg
 ---
-        
+
 The **battle of Kharkiv** was a military engagement that took place from February to May 2022 in and around the city of Kharkiv in Ukraine, as part of the northeastern Ukraine offensive and eastern Ukraine offensive during the 2022 Russian invasion of Ukraine. Kharkiv, located just 30 km south of the Russia–Ukraine border and a predominately Russian-speaking city, is the second-largest city in Ukraine and was considered a major target for the Russian military early in the invasion.
 
 By 13 May, Ukrainian forces pushed Russian units attempting to encircle the city back towards the Russian border. Additionally, it was reported that Russia had withdrawn units from the area. The Institute for the Study of War opined that Ukraine had "likely won the battle of Kharkiv". However, by 20 May, Russian forces were again shelling Kharkiv city.
@@ -145,8 +147,8 @@ On 12 June, Amnesty International claimed it found the evidence of widespread us
 
 ## Battle
 
-
 ### Commencement of operations (24–28 February)
+
 ![Apartment block in Kharkiv damaged during Russian invasion](https://wikipedia.org/wiki/Special:Redirect/file/Apartment_block_in_Kharkiv_damaged_during_Russian_invasion.jpg?)
 On 24 February, Russian forces amassed in Belgorod crossed the border and began advancing towards Kharkiv, meeting Ukrainian resistance. Pavlo Fedosenko, commander of the 92nd Mechanized Brigade, noted that explosions were heard outside his military unit at 4 a.m. The Russian artillery fired barrages at the city, killing a young boy.
 
@@ -167,12 +169,13 @@ Later on 28 February, Terekhov reported that Russian forces were beginning to de
 Later on 28 February, Human Rights Watch stated that Russian forces used cluster bombs in the Industrialnyi, Saltivskyi and Shevchenkivskyi districts of the city. Human Rights Watch noted that the use of cluster bombs is prohibited by the 2010 Convention on Cluster Munitions and that their use "might constitute a war crime", due to the threat they pose to civilians.
 
 ### Intensified fighting (1 March – 2 April)
+
 ![Shelling of Kharkiv regional state administration, 01 March 2022.webm](https://wikipedia.org/wiki/Special:Redirect/file/Shelling_of_Kharkiv_regional_state_administration%2C_01_March_2022.webm?)
 ![Kharkiv downtown street destroyed by Russian bombardment](https://wikipedia.org/wiki/Special:Redirect/file/Kharkiv_downtown_street_destroyed_by_Russian_bombardment.jpg?)
-![Myronosytska 1 after Russian shelling on 2 March 2022 (05)](https://wikipedia.org/wiki/Special:Redirect/file/Myronosytska_1_after_Russian_shelling_on_2_March_2022_(05).jpg?)
-![Kharkiv (Krasnodarska Street) after shelling, 7 March 2022 (2)](https://wikipedia.org/wiki/Special:Redirect/file/Kharkiv_(Krasnodarska_Street)_after_shelling%2C_7_March_2022_(2).jpg?)
-![Russian rockets in Kharkiv (01)](https://wikipedia.org/wiki/Special:Redirect/file/Russian_rockets_in_Kharkiv_(01).jpg?)
-![Kharkiv after Russian shelling, 31 March 2022 (11)](https://wikipedia.org/wiki/Special:Redirect/file/Kharkiv_after_Russian_shelling%2C_31_March_2022_(11).jpg?)
+![Myronosytska 1 after Russian shelling on 2 March 2022 (05)](<https://wikipedia.org/wiki/Special:Redirect/file/Myronosytska_1_after_Russian_shelling_on_2_March_2022_(05).jpg?>)
+![Kharkiv (Krasnodarska Street) after shelling, 7 March 2022 (2)](<https://wikipedia.org/wiki/Special:Redirect/file/Kharkiv_(Krasnodarska_Street)_after_shelling%2C_7_March_2022_(2).jpg?>)
+![Russian rockets in Kharkiv (01)](<https://wikipedia.org/wiki/Special:Redirect/file/Russian_rockets_in_Kharkiv_(01).jpg?>)
+![Kharkiv after Russian shelling, 31 March 2022 (11)](<https://wikipedia.org/wiki/Special:Redirect/file/Kharkiv_after_Russian_shelling%2C_31_March_2022_(11).jpg?>)
 On the morning of 1 March, a Russian 3M54-1 Kalibr missile struck Freedom Square in central Kharkiv, detonating in front of the Kharkiv Oblast administrative building. The Slovene consulate was destroyed in the blast. An opera house and a concert hall were also damaged. At least 24 people were wounded and 29 were killed, according to the regional administration.
 
 The Biathlon Federation of Ukraine later reported that one of the Ukrainian soldiers killed in Kharkiv on 1 March was Yevgeny Malyshev, a biathlete and former member of the Ukrainian national team.
@@ -208,6 +211,7 @@ On 28 March, Kharkiv Mayor Ihor Terekhov said that about 30% of city's residents
 Amid the heightened Russian shelling of Kharkiv on 31 March 2022, Russian authorities attributed an explosion at an oil supply depot approximately 25 mi north of the border in Belgorod within Russia to an attack by two Ukrainian Mi-24 military helicopters. Meanwhile, the Russians claimed to have killed, on the same day, more than 100 "extremists and mercenaries" from Western countries in Kharkiv with a high-precision Iskander missile strike on a defense base.
 
 ### Russian bypass (April)
+
 On 2 April, according to Synyehubov, the Russians were bypassing Izyum to continue to the Luhansk and Donetsk regions. On 3 April 2022, the Ukrainian government stated that two Russian soldiers had been killed and 28 others hospitalised after Ukrainian civilians handed out poisoned cakes to Russian soldiers of the Russian 3rd Motor Rifle Division in Kharkiv.
 
 Despite limited Russian withdrawals to the north of the city and the Ukrainian forcing of the road to Chuhuiv, on 4 April, the Ukraine's defence ministry warned that the invaders were preparing to launch a new assault to take the city from the east.
@@ -219,20 +223,22 @@ On 17 April, Synyehubov claimed on Telegram that the villages of Bazaliyivka, Le
 On 27 April, Kharkiv remained partially encircled. On 29 April, Synyehubov said that since the war started, more than 2,000 buildings in the city were either damaged or destroyed. He also said that on 28 April, due to almost non-stop shelling, five civilians were killed. Also on 29 April it was reported that the village Ruska Lozova, near Kharkiv, was retaken by Ukraine.
 
 ### Ukrainian counteroffensive (1–13 May)
+
 In May 2022, Ukrainian forces began a counter-offensive to drive Russian forces out of the city and towards the international border. By 12 May, the United Kingdom Ministry of Defense reported that Russia had withdrawn units from the Kharkiv area.
 
 On 2 May, the Institute for the Study of War (ISW) reported that Ukraine retook the village of Staryi Saltiv, 40 km east of the city.
 
-On 6 May, the ISW described a Ukrainian counteroffensive "along a broad arc" north and east of Kharkiv, reporting that Ukraine had recaptured "several villages," including Tsyrkuny, Peremoha and part of Cherkaski Tyshky. The ISW speculated that Ukraine "may successfully push Russian forces out of artillery range of Kharkiv in the coming days." On 7 May, Ukrainian forces reported that five villages northeast of Kharkiv had been retaken. Quoting a Ukrainian official, *The New York Times* said that the battle for Kharkiv was not over, but that at the moment, Ukraine was dominating. The advance north and east, made mainly by the 92nd Mechanized Brigade and the 93rd Mechanized Brigade, forced the Russian forces to retreat across the Donets river while blowing the bridges behind them.
+On 6 May, the ISW described a Ukrainian counteroffensive "along a broad arc" north and east of Kharkiv, reporting that Ukraine had recaptured "several villages," including Tsyrkuny, Peremoha and part of Cherkaski Tyshky. The ISW speculated that Ukraine "may successfully push Russian forces out of artillery range of Kharkiv in the coming days." On 7 May, Ukrainian forces reported that five villages northeast of Kharkiv had been retaken. Quoting a Ukrainian official, _The New York Times_ said that the battle for Kharkiv was not over, but that at the moment, Ukraine was dominating. The advance north and east, made mainly by the 92nd Mechanized Brigade and the 93rd Mechanized Brigade, forced the Russian forces to retreat across the Donets river while blowing the bridges behind them.
 
 On 10 May, Ukrainian forces claimed to have recaptured four settlements. This counteroffensive, if successful, could bring Ukrainian forces within several kilometres of the Russian border.
 
 By 13 May, the ISW opined that Ukraine had "likely won the battle of Kharkiv". The Mayor of Kharkiv said to the BBC: "There was no shelling in the city for the last five days. There was only one attempt from Russians to hit the city with a missile rocket near Kharkiv airport, but the missile was eliminated by Ukrainian Air Defence."
 
 ### Continued fighting, September counteroffensive and Russian retreat
-![Housing and Communal College in Kharkiv after Russian rocket strike (10)](https://wikipedia.org/wiki/Special:Redirect/file/Housing_and_Communal_College_in_Kharkiv_after_Russian_rocket_strike_(10).jpg?)
-![Palace of culture of railroad workers after Russian shelling on 18 August 2022 (01)](https://wikipedia.org/wiki/Special:Redirect/file/Palace_of_culture_of_railroad_workers_after_Russian_shelling_on_18_August_2022_(01).jpg?)
-![Fire at an energy infrastructure facility after Russian shelling, 2022-09-11 (01)](https://wikipedia.org/wiki/Special:Redirect/file/Fire_at_an_energy_infrastructure_facility_after_Russian_shelling%2C_2022-09-11_(01).jpg?)
+
+![Housing and Communal College in Kharkiv after Russian rocket strike (10)](<https://wikipedia.org/wiki/Special:Redirect/file/Housing_and_Communal_College_in_Kharkiv_after_Russian_rocket_strike_(10).jpg?>)
+![Palace of culture of railroad workers after Russian shelling on 18 August 2022 (01)](<https://wikipedia.org/wiki/Special:Redirect/file/Palace_of_culture_of_railroad_workers_after_Russian_shelling_on_18_August_2022_(01).jpg?>)
+![Fire at an energy infrastructure facility after Russian shelling, 2022-09-11 (01)](<https://wikipedia.org/wiki/Special:Redirect/file/Fire_at_an_energy_infrastructure_facility_after_Russian_shelling%2C_2022-09-11_(01).jpg?>)
 After the Ukrainian counteroffensive, Russian forces were driven back to defensive positions, some of which were within miles of the Russia-Ukraine international border. Despite this, they continued to shell various Kharkiv suburbs, as well as the city proper, killing numerous civilians and wounding dozens more.
 
 On 20 May, Russian forces again shelled several villages in the Kharkiv district, including the city of Kharkiv itself, using BM-21 Grad, BM-27 Uragan and BM-30 Smerch multiple rocket launchers.
@@ -259,12 +265,13 @@ On 11 September, Russian army shelled infrastructure facilities in central and e
 
 ## Casualties
 
-
 ### Civilian casualties
+
 During the battle, at least 606 civilians were killed due to Russian shelling and fighting for the city. Due to the fog of war, it is impossible to tabulate total casualties for the Battle of Kharkiv. Additionally, various skirmishes around Kharkiv's suburbs have led to casualties for both the Russian and Ukrainian Armed Forces.
 
 ### Military casualties
-![Russian soldiers frozen to death in fields near Chuhuiv, Ukraine (March 2022) 02](https://wikipedia.org/wiki/Special:Redirect/file/Russian_soldiers_frozen_to_death_in_fields_near_Chuhuiv%2C_Ukraine_(March_2022)_02.jpg?)
+
+![Russian soldiers frozen to death in fields near Chuhuiv, Ukraine (March 2022) 02](<https://wikipedia.org/wiki/Special:Redirect/file/Russian_soldiers_frozen_to_death_in_fields_near_Chuhuiv%2C_Ukraine_(March_2022)_02.jpg?>)
 Like the civilian death toll, the true number of military casualties is impossible to estimate due to the fog of war and opposing governments' inflation or deflation of numbers in order to boost morale.
 
 By March 29, the Ukrainian government claimed to have killed over 2,400 Russian troops. On 3 March, Ukraine claimed to have destroyed a 120-man unit of airborne soldiers. On 26 March, Ukraine claimed to have killed 645 soldiers from a single unit. On 29 March, Ukraine claimed to have completely destroyed 2 battalion tactical groups and inflicted casualties on others, killing up to 1,500 soldiers. On 30 May, the Ukrainians repatriated the bodies of 62 Russian servicemen in the Kharkiv Region.
@@ -272,10 +279,11 @@ By March 29, the Ukrainian government claimed to have killed over 2,400 Russian 
 The Russian government, on the other hand, gave very sparse updates as to Ukrainian casualties but claimed to have killed up to 300 Ukrainian fighters by 2 April, including 130 mercenaries, although this number is likely much higher due to the irregularity of Russian updates.
 
 ## War crimes
+
 On 13 June, Amnesty International published a report saying that Russian forces had carried out a "relentless campaign of indiscriminate bombardments" in the battle, including the use of banned cluster munitions, scatterable land mines, and Grad rockets. Amnesty stated that these attacks constituted war crimes and potentially represented deliberate targeting of civilians.
 
 ## See also
- * Russian occupation of Kharkiv Oblast
 
+- Russian occupation of Kharkiv Oblast
 
 ## References

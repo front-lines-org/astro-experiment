@@ -181,14 +181,16 @@ description: "The eastern Ukraine offensive is an ongoing theatre of operation
   offensive in this theatre of operations and is considered to be the second
   strategic phase of the invasion."
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(104).jpg
 ---
-        
+
 The **eastern Ukraine offensive** is an ongoing theatre of operation in the 2022 Russian invasion of Ukraine that affects three provinces (oblasts) in the eastern part of Ukraine: Donetsk Oblast and Luhansk Oblast (collectively the Donbas) and Kharkiv Oblast. The invasion is an escalation or intensification of the Russo-Ukrainian War, which had been waged between Ukraine and Russian proxies since 2014.
 
 The battle of Donbas is a major offensive in this theatre of operations and is considered to be the second strategic phase of the invasion. By July, Russian forces and their separatist allies had captured the cities of Sievierodonetsk, Lysychansk, Rubizhne and Izium.
 
 ## Overview
+
 Sporadic fighting had been taking place since 2014 between Ukrainian forces and Russian-backed separatists from the Donetsk People's Republic during the war in Donbas.
 
 On 24 February 2022, Russian forces and their separatist allies launched an offensive thrust along lines of contact into the Donbas.
@@ -199,18 +201,19 @@ On 18 April, Ukrainian and Russian authorities announced the beginning of the ba
 
 ## Timeline
 
-
 ### February
+
 ![Reporter’s Notebook - On Tour with the Ukrainian Military 01](https://wikipedia.org/wiki/Special:Redirect/file/Reporter%E2%80%99s_Notebook_-_On_Tour_with_the_Ukrainian_Military_01.jpg?)
 On the morning of 25 February, Russian forces advanced from the Donetsk People's Republic (DPR) towards Mariupol. They came up against Ukrainian forces in Pavlopil. The Ukrainians were victorious, destroying at least 20 Russian tanks in the process. In the evening the Russian Navy began an amphibious assault 70 kilometers (43 miles) from Mariupol, along the coast of the Sea of Azov. In Starobilsk, the Ukrainian Armed Forces reportedly destroyed a group of Russian soldiers attempting to cross the river Aidar during a battle. Starobilsk was reported to have been heavily damaged by Russian artillery barrages the next day, 26 February, while Russian forces continued to bombard Mariupol with artillery throughout the day
 
 On the morning of 27 February, it was reported that a Russian tank column was quickly advancing towards Mariupol from the DPR, but the attack was prevented by Ukrainian forces. Six Russian soldiers were captured. Luhansk Oblast governor Serhiy Haidai stated that Stanytsia Luhanska and Shchastia were captured by Russian forces, who practically destroyed the settlements with shelling. Donetsk Oblast governor Pavlo Kyrylenko also accused them of destroying Volnovakha.
 
 ### March
+
 ![Ukrainian civilians are evacuated from Volnovakha in the Donetsk region](https://wikipedia.org/wiki/Special:Redirect/file/Ukrainian_civilians_are_evacuated_from_Volnovakha_in_the_Donetsk_region.jpg?)
 ![Russian bombing of Mariupol](https://wikipedia.org/wiki/Special:Redirect/file/Russian_bombing_of_Mariupol.jpg?)
 ![Встреча подразделений ВС РФ и ЛНР в Новоайдаре 007](https://wikipedia.org/wiki/Special:Redirect/file/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%92%D0%A1_%D0%A0%D0%A4_%D0%B8_%D0%9B%D0%9D%D0%A0_%D0%B2_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B0%D0%B9%D0%B4%D0%B0%D1%80%D0%B5_007.png?)
-![Vehicle recaptured by Ukrainian forces in Luhansk Oblast, 12 March 2022 (01)](https://wikipedia.org/wiki/Special:Redirect/file/Vehicle_recaptured_by_Ukrainian_forces_in_Luhansk_Oblast%2C_12_March_2022_(01).jpg?)
+![Vehicle recaptured by Ukrainian forces in Luhansk Oblast, 12 March 2022 (01)](<https://wikipedia.org/wiki/Special:Redirect/file/Vehicle_recaptured_by_Ukrainian_forces_in_Luhansk_Oblast%2C_12_March_2022_(01).jpg?>)
 ![Bombing of buildings in Sievierodonetsk by Russian troops](https://wikipedia.org/wiki/Special:Redirect/file/Bombing_of_buildings_in_Sievierodonetsk_by_Russian_troops.jpg?)
 On 1 March, Ukrainian forces began a counteroffensive toward Horlivka, which had been controlled by the DPR since late 2014.
 
@@ -248,8 +251,8 @@ Late on 29 March, local officials reported a series of explosions outside the Ru
 
 ### Battle of Donbas (April–present)
 
-
 #### April
+
 ![Russian drone shot down by National Guard of Ukraine, 23 April 2022](https://wikipedia.org/wiki/Special:Redirect/file/Russian_drone_shot_down_by_National_Guard_of_Ukraine%2C_23_April_2022.jpg?)
 After Russia abandoned its offensive to capture Kyiv, it shifted its attention to eastern and southern Ukraine. The Russian military began redeploying units from northern Ukraine to the east, but many of these troops appeared to be nearly combat-ineffective due to heavy losses. However, Russia still amassed tens of thousands of troops, declaring its aim to fully capture the Donetsk and Luhansk Oblasts. It managed to secure Izium on 1 April, although heavy fighting continued around the settlement over the next few days.
 
@@ -268,10 +271,11 @@ On the same day, it was reported that Russian and LNR troops had entered the cit
 In the following days, Russia continued its attempts to break through the Ukrainian defenses, possibly to encircle the Izium-Donetsk City salient. Fighting was concentrated at Sievierodonetsk, Rubizhne, Popasna, Marinka, Kharkiv, and Izium. Russia, the LPR, and DPR made limited gains, capturing a number of villages and the towns of Popivka, Pischane, Zhytlivka, and Kreminna. However, their overall advance was slow, and stalled in most areas of the frontline. Ukraine also mounted a growing number of counter-attacks at Izium and Kharkiv, gradually expelling Russian forces from a number of settlements. On 30 April, Ukraine launched a large-scale counter-offensive at Kharkiv, retaking the city's suburbs and several more towns over the following days.
 
 #### May–August
+
 ![Выход боевиков из Азовстали 001](https://wikipedia.org/wiki/Special:Redirect/file/%D0%92%D1%8B%D1%85%D0%BE%D0%B4_%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%90%D0%B7%D0%BE%D0%B2%D1%81%D1%82%D0%B0%D0%BB%D0%B8_001.png?)
 ![Робоча поїздка Президента України до Запорізької області та на Донбас 43](https://wikipedia.org/wiki/Special:Redirect/file/%D0%A0%D0%BE%D0%B1%D0%BE%D1%87%D0%B0_%D0%BF%D0%BE%D1%97%D0%B7%D0%B4%D0%BA%D0%B0_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_%D0%B4%D0%BE_%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%BE%D1%97_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%96_%D1%82%D0%B0_%D0%BD%D0%B0_%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81_43.jpg?)
-![War in Luhansk Oblast (2022-06-14) 01](https://wikipedia.org/wiki/Special:Redirect/file/War_in_Luhansk_Oblast_(2022-06-14)_01.jpg?)
-By 4 May, Russian forces had been pushed back to such a distance that most of their artillery could no longer strike Kharkiv. Meanwhile, Russian and DPR/LPR forces continued their unsuccessful attempts to break through Ukrainian defenses at Izium and the Donetsk-Luhansk frontline. At this point, the *Institute for the Study of Warfare* research organization described the continuing Russian offensive operations as "ineffectual".
+![War in Luhansk Oblast (2022-06-14) 01](<https://wikipedia.org/wiki/Special:Redirect/file/War_in_Luhansk_Oblast_(2022-06-14)_01.jpg?>)
+By 4 May, Russian forces had been pushed back to such a distance that most of their artillery could no longer strike Kharkiv. Meanwhile, Russian and DPR/LPR forces continued their unsuccessful attempts to break through Ukrainian defenses at Izium and the Donetsk-Luhansk frontline. At this point, the _Institute for the Study of Warfare_ research organization described the continuing Russian offensive operations as "ineffectual".
 
 On 7 May, Russian forces destroyed several bridges in an attempt to slow down the Ukrainian counter-offensive at Kharkiv. On the same day, Russia and separatist troops also captured Popasna, though other attacks continued to fail. Following the capture of Popasna, Russia attempted to encircle Sievierodonetsk. On 10 May, Ukraine made further major gains at Kharkiv, forcing Russia to redeploy forces from the Izium frontline to the north. In addition, Ukrainian artillery destroyed an entire Russian battalion tactical group attempting a river crossing in the battle of the Siverskyi Donets.
 
@@ -285,11 +289,12 @@ On 23 May, Russian forces took control of Lyman and attacked Avdiivka. Researche
 
 Ukrainian defence adviser Yuriy Sak has said "The most pressing need at the moment is the so-called multi-launch rocket systems, the MLRS, because they have a longer fire range than what we have at the moment, and they will allow us to redress the imbalance in artillery in the east, and of course this will be a game changer." On 31 May, the United States announced a military aid package that included precision rocket systems with a range of 80 km.
 
-After a fierce month-long battle that ruined much of the city, Russian and LPR forces captured Sievierodonetsk along the Siverskyi Donets river on 25 June. On the same day, the Battle of Lysychansk began. On 2 July, the Battle of Lysychansk ended with Russian victory, and the following day Russian LPR forces declared full control of the entire Luhansk region. On 4 July, *The Guardian* reported that after the fall of the Luhansk oblast, that Russian invasion troops would continue their invasion into the adjacent Donetsk oblast to attack the cities of Sloviansk and Bakhmut. On 9 July, a Russian rocket attack on two residential buildings in Chasiv Yar killed at least 48 people.
+After a fierce month-long battle that ruined much of the city, Russian and LPR forces captured Sievierodonetsk along the Siverskyi Donets river on 25 June. On the same day, the Battle of Lysychansk began. On 2 July, the Battle of Lysychansk ended with Russian victory, and the following day Russian LPR forces declared full control of the entire Luhansk region. On 4 July, _The Guardian_ reported that after the fall of the Luhansk oblast, that Russian invasion troops would continue their invasion into the adjacent Donetsk oblast to attack the cities of Sloviansk and Bakhmut. On 9 July, a Russian rocket attack on two residential buildings in Chasiv Yar killed at least 48 people.
 
 On 25–26 July, after an "operational pause" by the Russians had concluded, Russian sources reported that the towns of Berestove, Novoluhanske, and the nearby Vuhlehirska Power Station had been captured. The Institute for the Study of War (ISW) suggested Ukrainian defenders likely conduced a deliberate withdrawal from the area.
 
 #### September
+
 In early September 2022, Ukraine began a major counteroffensive, regaining several settlements in the Kharhkiv region.
 
 The Deputy Chief of the Main Operational Directorate of Ukraine's General Staff, Oleksiy Hromov, alleged on 1 September that Russian president Vladimir Putin had ordered Russian forces to capture the entirety of Donetsk Oblast by 15 September via a renewed offensive. Hromov further alleged that Russia was going to rotate its recently established 3rd Army Corps to the Donetsk front. A senior U.S. defense official dismissed the purported deployment of the "older, unfit, and ill-trained" 3rd Army Corps personnel as being unable to increase Russia's overall combat power in Ukraine.
@@ -299,126 +304,127 @@ On 4 September, Zelenskyy announced the liberation of a village in Donetsk Oblas
 On 9 September, Ukrainian forces reached the outskirts of Kupiansk and destroyed the main bridge over the Oskol river in the city center, limiting the ability of the Russian Army to retreat or to bring in reinforcements. In the morning of 10 September, Ukrainian soldiers posted pictures of the Ukrainian flag being raised in front of the town hall. Also on 10 September, Izium, a central command post of the Russians in the region, fell to Ukrainian forces, "with thousands of Russian soldiers abandoning ammunition stockpiles and equipment as they fled." On 11 September, it was reported that the Ukranians had retaken Velykyi Burluk in Kharkiv Oblast, just 15 mi from the border with Russia. Russia responded with missile strikes on civilian areas and on non-military infrastructure facilities like power stations.
 
 ### October
+
 On 1 October, Ukrainian forces encircled and entered Lyman. According to Russia's Ministry of Denfense, Russian forces had retreated from Lyman.
 
 ## Order of battle
 
-
 ### Russia and pro-Russian separatists
- * 1st Guards Tank Army
- * 4th Guards Tank Division
- * 423rd Motor Rifle Regiment
- * 13th Tank Regiment
- * 144th Guards Motor Rifle Division
- * 2nd CAA
- * 30th Separate Motorized Infantry Brigade
- * 5th CAA
- * 150th Rifle Division
- * 68th Tank Regiment
- * 6th CAA
- * 138th Separate Mechanized Brigade
- * 8th CAA
- * 150th Rifle Division
- * 20th CAA
- * 3rd Motor Rifle Division
- * 35th CAA
- * 1st Guards Tank Army
- * 68th Army Corps
- * 64th Guards Motor Rifle Brigade
- * 41st CAA
- * 74th Separate Guards Motor Rifle Brigade
- * 45th Engineer Regiment
- * 58th CAA
- * 90th Guards Tank Division
- * 232nd Rocket Artillery Brigade
- * 4th Tank Division
- * 71st Motor Rifle Regiment
- * Central Grouping of Forces
- * Russian Airborne Forces
- * 76th Guards Air Assault Division
- * 106th Airborne Division
- * Russian Naval Infantry
- * 810th Guards Naval Infantry Brigade
- * Black Sea Fleet
- * Baltic Fleet
- * 11th Army Corps
- * Northern Fleet
- * Pacific Fleet
- * Logistical Support of the Russian Armed Forces
- * Russian Railway Troops
- * 29th Separate Railway Brigade
- * Emblem of the GRU.svg GRU
- * Spetsnaz emblem.svg Spetsnaz GRU
- * 3rd Guards Spetsnaz Brigade
- * National Guard of Russia
- * 141st Special Motorized Regiment
- * North Battalion
- * DPR Armed Forces
- * 1st Army Corps
- * Republican Guard
- * Pyatnashka Brigade
- * Sparta Battalion
- * Somalia Battalion
- * Vostok Battalion
- * Luhansk People's Militia
- * 2nd Army Corps
- * Prizrak Brigade
- * Cossack battalions
- * Wagner Group
- * DSHRG Rusich
- * Prizrak Brigade
- * Cossack battalions
- * Wagner Group
- * DSHRG Rusich
 
+- 1st Guards Tank Army
+- 4th Guards Tank Division
+- 423rd Motor Rifle Regiment
+- 13th Tank Regiment
+- 144th Guards Motor Rifle Division
+- 2nd CAA
+- 30th Separate Motorized Infantry Brigade
+- 5th CAA
+- 150th Rifle Division
+- 68th Tank Regiment
+- 6th CAA
+- 138th Separate Mechanized Brigade
+- 8th CAA
+- 150th Rifle Division
+- 20th CAA
+- 3rd Motor Rifle Division
+- 35th CAA
+- 1st Guards Tank Army
+- 68th Army Corps
+- 64th Guards Motor Rifle Brigade
+- 41st CAA
+- 74th Separate Guards Motor Rifle Brigade
+- 45th Engineer Regiment
+- 58th CAA
+- 90th Guards Tank Division
+- 232nd Rocket Artillery Brigade
+- 4th Tank Division
+- 71st Motor Rifle Regiment
+- Central Grouping of Forces
+- Russian Airborne Forces
+- 76th Guards Air Assault Division
+- 106th Airborne Division
+- Russian Naval Infantry
+- 810th Guards Naval Infantry Brigade
+- Black Sea Fleet
+- Baltic Fleet
+- 11th Army Corps
+- Northern Fleet
+- Pacific Fleet
+- Logistical Support of the Russian Armed Forces
+- Russian Railway Troops
+- 29th Separate Railway Brigade
+- Emblem of the GRU.svg GRU
+- Spetsnaz emblem.svg Spetsnaz GRU
+- 3rd Guards Spetsnaz Brigade
+- National Guard of Russia
+- 141st Special Motorized Regiment
+- North Battalion
+- DPR Armed Forces
+- 1st Army Corps
+- Republican Guard
+- Pyatnashka Brigade
+- Sparta Battalion
+- Somalia Battalion
+- Vostok Battalion
+- Luhansk People's Militia
+- 2nd Army Corps
+- Prizrak Brigade
+- Cossack battalions
+- Wagner Group
+- DSHRG Rusich
+- Prizrak Brigade
+- Cossack battalions
+- Wagner Group
+- DSHRG Rusich
 
 ### Ukraine
+
 ![Эмблема МВД Украины](https://wikipedia.org/wiki/Special:Redirect/file/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9C%D0%92%D0%94_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B.svg?)
- * 4th Tank Brigade
- * 10th Mountain Assault Brigade
- * 17th Tank Brigade
- * 53rd Mechanized Brigade
- * 56th Motorized Brigade
- * 128th Mountain Assault Brigade
- * Georgian Legion
- * [[file:Insignia of the Sheikh Mansur battalion.png|20px]] Sheikh Mansur Battalion
- * [[file:Flag of Chechen Republic of Ichkeria (with Coat of Arms).svg|23px]] Separate Special-Purpose battalion
- * Ukrainian Volunteer Corps
- * 2nd Separate Battalion
- * Ukrainian Air Assault Forces
- * 80th Air Assault Brigade
- * 81st Airmobile Brigade
- * Ukrainian Naval Infantry
- * 36th Separate Marine Brigade
- * Ukrainian Air Force
- * Territorial Defense Forces
- * 227th Kharkiv Territorial Defense Battalion
- * International Legion of Territorial Defense of Ukraine
- * Kastuś Kalinoŭski Battalion (Belarusian contingent)
- * Freedom of Russia Legion
- * International Legion of Territorial Defense of Ukraine
- * Kastuś Kalinoŭski Battalion (Belarusian contingent)
- * Freedom of Russia Legion
- * National Guard of Ukraine
- * 12th Operational Brigade
- * 23rd Separate Protection of Public Order Brigade
- * 4th Rapid Reaction Brigade
- * Azov Special Operations Detachment
- * Donbas Battalion
- * Special Tasks Patrol Police
- * Sich Battalion
- * National Police of Ukraine
- * Ukrainian Border Guard
- * Ukrainian guerrillas
-Ukrainian Ministry of Internal Affairs Irregular civilian volunteers (militia)
+
+- 4th Tank Brigade
+- 10th Mountain Assault Brigade
+- 17th Tank Brigade
+- 53rd Mechanized Brigade
+- 56th Motorized Brigade
+- 128th Mountain Assault Brigade
+- Georgian Legion
+- [[file:Insignia of the Sheikh Mansur battalion.png|20px]] Sheikh Mansur Battalion
+- [[file:Flag of Chechen Republic of Ichkeria (with Coat of Arms).svg|23px]] Separate Special-Purpose battalion
+- Ukrainian Volunteer Corps
+- 2nd Separate Battalion
+- Ukrainian Air Assault Forces
+- 80th Air Assault Brigade
+- 81st Airmobile Brigade
+- Ukrainian Naval Infantry
+- 36th Separate Marine Brigade
+- Ukrainian Air Force
+- Territorial Defense Forces
+- 227th Kharkiv Territorial Defense Battalion
+- International Legion of Territorial Defense of Ukraine
+- Kastuś Kalinoŭski Battalion (Belarusian contingent)
+- Freedom of Russia Legion
+- International Legion of Territorial Defense of Ukraine
+- Kastuś Kalinoŭski Battalion (Belarusian contingent)
+- Freedom of Russia Legion
+- National Guard of Ukraine
+- 12th Operational Brigade
+- 23rd Separate Protection of Public Order Brigade
+- 4th Rapid Reaction Brigade
+- Azov Special Operations Detachment
+- Donbas Battalion
+- Special Tasks Patrol Police
+- Sich Battalion
+- National Police of Ukraine
+- Ukrainian Border Guard
+- Ukrainian guerrillas
+  Ukrainian Ministry of Internal Affairs Irregular civilian volunteers (militia)
 
 ## See also
- * Kyiv offensive (2022)
- * Northeastern Ukraine offensive
- * Southern Ukraine offensive
 
+- Kyiv offensive (2022)
+- Northeastern Ukraine offensive
+- Southern Ukraine offensive
 
 ## Notes
-
 
 ## References

@@ -12,10 +12,12 @@ infoboxes:
           type: internal
           page: 2022 Russian invasion of Ukraine
     image:
-      text: Storage building in Sumy after shelling during Russian invasion, 18 March
+      text:
+        Storage building in Sumy after shelling during Russian invasion, 18 March
         2022 (01).jpg
     caption:
-      text: Storage building in Sumy after shelling during Russian invasion, 18 March
+      text:
+        Storage building in Sumy after shelling during Russian invasion, 18 March
         2022
     date:
       text: 24 February – 4 April 2022
@@ -94,9 +96,10 @@ description: The battle of Sumy was a military engagement which began on 24
   initial resistance. Ukrainian soldiers and militia began engaging the Russian
   forces within the city, resulting in heavy urban fighting.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(34).jpg
 ---
-        
+
 The **battle of Sumy** was a military engagement which began on 24 February 2022, during the 2022 Russian invasion of Ukraine, as part of the Northeastern Ukraine offensive, and ended on 4 April 2022 when Russia withdrew all of its forces from Sumy Oblast.
 
 On 24 February 2022, the Russian army nearly captured Sumy, located near the Russia–Ukraine border, with little initial resistance. Ukrainian soldiers and militia began engaging the Russian forces within the city, resulting in heavy urban fighting.
@@ -104,11 +107,11 @@ On 24 February 2022, the Russian army nearly captured Sumy, located near the Rus
 On 4 April 2022, Governor of Sumy Oblast Dmytro Zhyvytskyi stated that Russian troops no longer occupied any towns or villages in Sumy Oblast and had mostly withdrawn, while Ukrainian troops were working to push out the remaining units.
 
 ## Battle
+
 ![Бої за Суми - 2](https://wikipedia.org/wiki/Special:Redirect/file/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%A1%D1%83%D0%BC%D0%B8_-_2.jpg?)
 ![Бої за Суми - 3](https://wikipedia.org/wiki/Special:Redirect/file/%D0%91%D0%BE%D1%97_%D0%B7%D0%B0_%D0%A1%D1%83%D0%BC%D0%B8_-_3.jpg?)
 ![Евакуація людей із Сум 2022 03 08](https://wikipedia.org/wiki/Special:Redirect/file/%D0%95%D0%B2%D0%B0%D0%BA%D1%83%D0%B0%D1%86%D1%96%D1%8F_%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9_%D1%96%D0%B7_%D0%A1%D1%83%D0%BC_2022_03_08.jpg?)
 ![Military of the Russian Federation captured during the Battle of Sumy](https://wikipedia.org/wiki/Special:Redirect/file/Military_of_the_Russian_Federation_captured_during_the_Battle_of_Sumy.jpg?)
-
 
 Russian tanks and units began to move into Sumy on 24 February 2022, and fighting began on the outskirts at 03:00. There was an extensive amount of urban warfare between the Ukrainian defenders and Russian forces. A church in Sumy was burned down as a result of the battle.
 
@@ -129,14 +132,15 @@ Zhyvytskyi stated on 8 March that 22 civilians and four soldiers were killed ove
 On 4 April 2022, Governor Zhyvytskyi declared that Russian troops no longer occupied any towns or villages in Sumy Oblast and had mostly withdrawn. According to Zhyvytskyi, Ukrainian troops were working to push out the remaining units. On 8 April 2022, he stated that all Russians troops had left Sumy Oblast, but it was still unsafe due to rigged explosives and other ammunition Russian troops had left behind.
 
 ## Renewed skirmishes
+
 Despite Russian forces withdrawing fully from Sumy Oblast by early April, airstrikes continued throughout April and May.
 
 In mid-May, Russian troops made numerous attempted border crossings in the Sumy area. On 17 May, 5 civilians were wounded by Russian shelling in Sumy Oblast.
 
 ## See also
- * Siege of Chernihiv
- * Battle of Kyiv (2022)
- * Russian occupation of Sumy Oblast
 
+- Siege of Chernihiv
+- Battle of Kyiv (2022)
+- Russian occupation of Sumy Oblast
 
 ## References

@@ -14,7 +14,7 @@ infoboxes:
     image:
       text: Lebedyn image.jpg
     image_size:
-      text: '300'
+      text: "300"
       number: 300
     caption:
       text: Bombed out houses in Lebedyn
@@ -56,6 +56,7 @@ description: The battle of Lebedyn was a series of clashes that began on 26
   forces held the Russian Forces on the outskirts of the city. The Russians
   reportedly suffered significant losses.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(98).jpg
 ---
 

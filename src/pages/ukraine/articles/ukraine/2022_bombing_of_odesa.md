@@ -13,7 +13,8 @@ infoboxes:
     image_size:
       text: 300px
     caption:
-      text: Aftermath of a Russian missile strike against warehouses in Odesa on 24
+      text:
+        Aftermath of a Russian missile strike against warehouses in Odesa on 24
         February
     place:
       text: Odesa, Odesa Oblast, Ukraine
@@ -48,7 +49,7 @@ infoboxes:
         - type: internal
           page: Russian Navy
     units2:
-      text: '* Territorial Defense Forces'
+      text: "* Territorial Defense Forces"
       links:
         - text: Territorial Defense Forces
           type: internal
@@ -78,6 +79,7 @@ description: During the southern Ukraine offensive of the 2022 Russian invasion
   invasion, early on 24 February, targeting warehouses in the city as well as
   radar and air defense systems in Lipetske.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(57).jpg
 ---
 

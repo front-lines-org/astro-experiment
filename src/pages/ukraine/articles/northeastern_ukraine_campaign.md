@@ -43,7 +43,7 @@ infoboxes:
           page: belarus
       formatting:
         bold:
-          - 'Supported by:'
+          - "Supported by:"
     combatant2:
       text: 🇺🇦 Ukraine
       links:
@@ -95,7 +95,7 @@ infoboxes:
         2,587+ killed 314-364 captured
       formatting:
         bold:
-          - 'Per Ukraine:'
+          - "Per Ukraine:"
     casualties2:
       text: |-
         Per Ukraine:
@@ -104,8 +104,8 @@ infoboxes:
         276+ killed 471 captured
       formatting:
         bold:
-          - 'Per Ukraine:'
-          - 'Per Russia (Kharkiv only):'
+          - "Per Ukraine:"
+          - "Per Russia (Kharkiv only):"
     casualties3:
       text: 1,063+ civilians killed
     result:
@@ -140,6 +140,7 @@ description: The northeastern Ukraine campaign was a theatre of operation from
   forces had withdrawn from Chernihiv Oblast, which was confirmed by the
   Pentagon by 6 April.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(23).jpg
 ---
 

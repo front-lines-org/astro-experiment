@@ -13,7 +13,7 @@ infoboxes:
     image:
       text: Bucha after Russian invasion of Ukraine 10.jpg
     image_size:
-      text: '370'
+      text: "370"
       number: 370
     caption:
       text: Bucha after the battle
@@ -118,8 +118,8 @@ infoboxes:
           page: United Nations
       formatting:
         bold:
-          - 'Per Ukraine:'
-          - 'Per United Nations:'
+          - "Per Ukraine:"
+          - "Per United Nations:"
 title: Battle of Bucha
 shortDescription: Engagement in the 2022 invasion of Ukraine
 description: The battle of Bucha was part of the Kyiv offensive in the 2022
@@ -128,6 +128,7 @@ description: The battle of Bucha was part of the Kyiv offensive in the 2022
   battle lasted from 27 February 2022 to 31 March 2022 and ended with the
   withdrawal of Russian forces.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(1).jpg
 ---
 

@@ -71,6 +71,7 @@ description: The Russian Armed Forces have launched several rocket attacks on
   On 6 March 2022, Russian forces launched rocket strikes against the
   Havryshivka Vinnytsia International Airport.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(43).jpg
 ---
 

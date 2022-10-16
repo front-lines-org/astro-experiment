@@ -3,7 +3,8 @@ infoboxes:
   - conflict:
       text: Siege of Mariupol
     partof:
-      text: the eastern Ukraine offensive and the southern Ukraine offensive of the
+      text:
+        the eastern Ukraine offensive and the southern Ukraine offensive of the
         2022 Russian invasion of Ukraine
       links:
         - text: eastern Ukraine offensive
@@ -209,20 +210,22 @@ description: The siege of Mariupol was a siege in Ukraine during the 2022
   Donetsk Oblast, Ukraine, and is controlled by the Russian-backed separatist
   Donetsk People's Republic.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(40).jpg
 ---
-        
+
 The **siege of Mariupol** was a siege in Ukraine during the 2022 Russian invasion of Ukraine, when forces from Russia and the separatist Donetsk People's Republic engaged Ukrainian forces in the city of Mariupol. The siege, which was part of the Russian eastern Ukraine offensive and southern Ukraine offensive, started on 24 February 2022 and concluded on 20 May 2022, when Russia announced the remaining Ukrainian forces in Mariupol surrendered after they were ordered to cease fighting.
 
 Mariupol is located in Donetsk Oblast, Ukraine, and is controlled by the Russian-backed separatist Donetsk People's Republic. Russian forces completely besieged the city on 2 March, after which they gradually gained control. By 22 April, the remaining Ukrainian forces had retreated to the Azovstal Iron and Steel Works, a massive and highly defensible industrial complex.
 
 The Red Cross described the situation as "apocalyptic", and Ukrainian authorities accused Russia of engineering a major humanitarian crisis in the city, with city officials reporting that about 22,000 civilians had been killed. Ukrainian officials also reported that at least 95% of the city had been destroyed during the fighting, largely by Russian bombardments. The United Nations stated it had confirmed the deaths of 1,348 civilians, but said the true death toll was likely thousands higher, and added that 90% of the city's residential buildings had been damaged or destroyed.
 
-The siege ended on 16 May 2022, after what media outlets called the "evacuation" or "surrender" of the remaining Azov Regiment personnel from the Azovstal Iron and Steel Works; the Russian Ministry of Defense stated that the Ukrainians had "surrendered",    a word Ukraine avoided using.
+The siege ended on 16 May 2022, after what media outlets called the "evacuation" or "surrender" of the remaining Azov Regiment personnel from the Azovstal Iron and Steel Works; the Russian Ministry of Defense stated that the Ukrainians had "surrendered", a word Ukraine avoided using.
 
 Some Western reports called the battle a pyrrhic or symbolic victory for Russia, with others noting that the siege's humanitarian impact was a "reputational disaster" for Russia. However, the loss of the city has also been seen as a significant defeat for Ukraine.
 
 ## Background
+
 Mariupol was considered a major strategic city and therefore was a target for Russian forces. It was the largest city in the Ukrainian-controlled portion of Donetsk Oblast, and was also one of the largest Russian-speaking cities in Ukraine. Mariupol was a major industrial hub, home of the Illich and Azovstal Iron and Steel Works, and the largest city on the Sea of Azov.
 
 Control of its port on the western shore of the Sea of Azov is vital to the economy of Ukraine. For Russia, it would allow a land route to Crimea and allow passage by Russian marine traffic. Capturing the city gave Russia full control over the Sea of Azov.
@@ -237,8 +240,8 @@ Prior to falling to Russian forces, the city was defended by the Ukrainian Groun
 
 ## Advances to Mariupol
 
-
 ### Preliminary shelling and advance on the city
+
 On 24 February, the day the invasion began, Russian artillery bombarded the city, reportedly injuring 26 people.
 
 On the morning of 25 February, Russian forces advanced from DPR territory in the east towards Mariupol. They encountered Ukrainian forces near the village of Pavlopil, with Ukrainian forces defeating the Russian advance. Vadym Boychenko, mayor of Mariupol, said that 22 Russian tanks had been destroyed in the skirmish.
@@ -252,10 +255,10 @@ On the morning of 27 February, Boychenko said that a Russian tank column had adv
 Throughout 28 February, the city remained under Ukrainian control, despite being surrounded by Russian troops and constantly shelled. Electricity, gas, and internet connection to most of the city was cut during the evening. Later, according to Radio Free Europe/Radio Liberty, Russian Major General Andrei Sukhovetsky was killed by a Ukrainian sniper near Mariupol, but other sources said that he had been killed during the Kyiv offensive.
 
 ### Mariupol surrounded
-![Russian bombing of Mariupol (05)](https://wikipedia.org/wiki/Special:Redirect/file/Russian_bombing_of_Mariupol_(05).jpg?)
-![Russian bombing of Mariupol (06)](https://wikipedia.org/wiki/Special:Redirect/file/Russian_bombing_of_Mariupol_(06).jpg?)
-![Russian bombing of Mariupol](https://wikipedia.org/wiki/Special:Redirect/file/Russian_bombing_of_Mariupol.jpg?)
 
+![Russian bombing of Mariupol (05)](<https://wikipedia.org/wiki/Special:Redirect/file/Russian_bombing_of_Mariupol_(05).jpg?>)
+![Russian bombing of Mariupol (06)](<https://wikipedia.org/wiki/Special:Redirect/file/Russian_bombing_of_Mariupol_(06).jpg?>)
+![Russian bombing of Mariupol](https://wikipedia.org/wiki/Special:Redirect/file/Russian_bombing_of_Mariupol.jpg?)
 
 On 1 March, Denis Pushilin, the head of the DPR, announced that DPR forces had almost completely surrounded the nearby city of Volnovakha and that they would soon do the same to Mariupol. Russian artillery later bombarded Mariupol, causing over 21 injuries.
 
@@ -281,20 +284,18 @@ On 9 March, the Associated Press reported that scores of Ukrainian civilians and
 
 ## Urban advances
 
-
 ### Russian push into the city
-![War damages in Mariupol, 12 March 2022 (01)](https://wikipedia.org/wiki/Special:Redirect/file/War_damages_in_Mariupol%2C_12_March_2022_(01).jpg?)
+
+![War damages in Mariupol, 12 March 2022 (01)](<https://wikipedia.org/wiki/Special:Redirect/file/War_damages_in_Mariupol%2C_12_March_2022_(01).jpg?>)
 ![Refugee civilians in Mariupol](https://wikipedia.org/wiki/Special:Redirect/file/Refugee_civilians_in_Mariupol.jpg?)
-![Destruction of Russian tanks by Ukrainian troops in Mariupol (1)](https://wikipedia.org/wiki/Special:Redirect/file/Destruction_of_Russian_tanks_by_Ukrainian_troops_in_Mariupol_(1).jpg?)
-![Ukrainian soldiers attack a Russian tank in Mariupol (1)](https://wikipedia.org/wiki/Special:Redirect/file/Ukrainian_soldiers_attack_a_Russian_tank_in_Mariupol_(1).jpg?)
+![Destruction of Russian tanks by Ukrainian troops in Mariupol (1)](<https://wikipedia.org/wiki/Special:Redirect/file/Destruction_of_Russian_tanks_by_Ukrainian_troops_in_Mariupol_(1).jpg?>)
+![Ukrainian soldiers attack a Russian tank in Mariupol (1)](<https://wikipedia.org/wiki/Special:Redirect/file/Ukrainian_soldiers_attack_a_Russian_tank_in_Mariupol_(1).jpg?>)
 ![Mariupol 20220323 004](https://wikipedia.org/wiki/Special:Redirect/file/Mariupol_20220323_004.jpg?)
 Ukraine's military stated on 12 March that Russian forces had captured the eastern outskirts of Mariupol. Later, a vehicle convoy of 82 ethnic Greeks was able to leave the city via a humanitarian corridor.
 
 On 13 March, Boychenko stated that Russian forces had bombed the city at least 22 times in the previous 24 hours, with a hundred bombs, and added that the last food and water reserves in the city were being depleted. The Ukrainian Ministry of Internal Affairs said that the National Guard of Ukraine had damaged several Russian armored vehicles with artillery strikes during the day. İsmail Hacıoğlu, the head of the local Sultan Suleiman Mosque, stated that 86 Turkish citizens in the city were awaiting evacuation by the Turkish government.
 
 More than 160 cars were able to leave the city on 14 March at 13:00 local time, the first evacuation allowed during the siege. The Russian Ministry of Defense stated that 450 tonnes of humanitarian aid had been brought to the city after Russian forces captured the outskirts. Ukrainian military officials were later said to have killed 150 Russian soldiers and destroyed 10 Russian vehicles.
-
-
 
 On the same day, Ramzan Kadyrov, the head of Chechnya, stated that Chechen soldiers were participating in the siege and had briefly entered Mariupol before retreating. Kadyrov also stated that Adam Delimkhanov, a close ally and member of the State Duma, was the commander of Chechen forces in Mariupol. The funeral for Captain Alexey Glushchak of the GRU was held in Tyumen, and it was revealed he died near Mariupol, likely in the early stages of the siege.
 
@@ -303,8 +304,6 @@ On 15 March, around 4,000 vehicles with about 20,000 civilians were able to leav
 Ukrainian government official Anton Herashchenko said that Russian Major General Oleg Mityaev, commander of the 150th Motorized Rifle Division, was killed when Russian forces tried to storm the city. The Donetsk Regional Drama Theatre, sheltering hundreds of civilians, was hit by a Russian airstrike on 16 March and destroyed. Pavlo Kyrylenko, the governor of Donetsk Oblast, later stated that Russian forces had also targeted the Neptune swimming pool.
 
 On 18 March, DPR forces said they had captured the Mariupol airport from Ukrainian forces. Clashes later reached the city center, according to the mayor and on 19 March, Russian and Ukrainian forces began fighting at the Azovstal steel plant. On the same day, President Volodymyr Zelensky awarded Colonel Volodymyr Baranyuk and Major Denys Prokopenko, leaders of the defense in Mariupol, the honor of Hero of Ukraine, the country's highest military award. During this time, while attempting to transport the killed and wounded to the hospital at Azovstal, Major Mykyta Nadtochii, commander of the Azov Regiment's second battalion, was wounded in a Russian airstrike.
-
-
 
 On 20 March, the city council of Mariupol claimed Russian forces had forcefully deported "several thousand" people to camps and remote cities in Russia over the past week. Russia denied the accusation. The same day, an art school building, which had sheltered some 400 people, was destroyed in a Russian bombing. No information on casualties was immediately available.
 
@@ -325,6 +324,7 @@ Meanwhile, Russian troops started an advance from the southwest on 1 April, leav
 On 10 April, Russian forces captured the fishing port, separating Ukrainian troops in the port from those in the Azovstal steel plant into two pockets, while a possible third pocket was centered on the Illich steel plant to the north. The next day, DPR forces claimed to have captured 80% of Mariupol. Local Ukrainian forces expected the city to fall soon, since they were running out of ammunition, and analysts at the Institute for the Study of War believed that Mariupol would fall within a week.
 
 ### Final pockets of resistance
+
 On 11 April, Russian media reported that 160 Ukrainian servicemen from the 36th Separate Marine Brigade were captured with their equipment.
 
 During the night between 11 and 12 April, Baranyuk led the 36th Separate Marine Brigade in an attempt to break out of the Russian encirclement at the Illich steel plant to the north. After being spotted they broke into smaller groups, with some of them managing to link up with fighters of the Azov Regiment at the Azovstal plant to the southeast. A large number of Ukrainian servicemen were either killed or captured during the breakout. The fate of Baranyuk initially remained unknown. Later, the DPR claimed that they had identified the body of Baranyuk after their special forces blocked the Ukrainian breakout. However, on 8 May, Baranyuk appeared alive in an interview with RT, along with the 36th Brigade's Chief of Staff Dmytro Kormiankov. They were reported to have been captured during the breakout attempt.
@@ -337,8 +337,8 @@ Ukrainian military expert Oleg Zhdanov claimed that by this point the Russian 81
 
 ## Resistance in the Azovstal steel plant
 
-
 ### Withdrawal to Azovstal
+
 ![Azovstal iron and steel factory, Mariupol, Ukraine 3](https://wikipedia.org/wiki/Special:Redirect/file/Azovstal_iron_and_steel_factory%2C_Mariupol%2C_Ukraine_3.jpg?)
 On 15 April, a Ukrainian military commander issued a plea for military reinforcements to come and "break the siege" of Mariupol. He also said that "the situation is critical and the fighting is fierce" but that sending reinforcements and breaking the siege "can be done and it must be done as soon as possible". On the same day, Ukrainian Defence Ministry spokesman Oleksandr Motuzianyk reported Russia started using Tu-22M3 long-range bombers to strike targets in Mariupol. The Azovstal iron and steel works, the heart of one of the remaining pockets of resistance, was well-defended and described as a "fortress within a city", as the steel plant was an enormous complex that made locating the Ukrainian forces difficult and had workshops that were difficult to destroy from the air. Additionally, the complex contained a system of underground tunnels, which would make clearing the entire complex challenging. During the day, Russian forces captured the base of the Ukrainian National Guard's 12th Operational Brigade, in western Mariupol.
 
@@ -347,23 +347,26 @@ On 16 April, DPR troops seized a police station near Mariupol's beach and Russia
 On 18 April, it was estimated that 95% of the city had been destroyed in the fighting. Ukrainian soldiers ignored a Russian ultimatum to surrender, deciding to fight to the end. Russia threatened to "destroy" those who continued to fight on. A military expert estimated that there could still be 500 to 800 Ukrainian soldiers holding out within the city, while Russian officials estimated that 2,500 Ukrainian soldiers and 400 foreign volunteers were holding out within the Azovstal plant.
 
 ### Siege of Azovstal
+
 On 20 April, Russian and DPR forces made small advances on the outskirts of the Azovstal plant. On 21 April, Russian President Vladimir Putin ordered Russian troops not to storm the Azovstal steel plant, but to blockade it instead until the Ukrainian forces there ran out of supplies. He also reported that "The completion of combat work to liberate Mariupol is a success", while a Ukrainian official rebutted Putin's comments, saying that Russia's choice of implementing a blockade over storming the steel plant meant that Russia had admitted their inability to physically capture Mariupol. General Sir Richard Barrons, former commander of the United Kingdom's Joint Forces Command, assessed that the battle for the plant was no longer "really relevant" in regard to the control of the city and its roads, since Russia and Crimea were now connected. In his opinion, defeating Ukrainian forces at the plant would have been "really difficult" for Russian troops without an "enormous cost to both sides". Despite the ordered blockade, Russian forces advanced within 20 m of some of the Ukrainian positions.
 
 On 22 April, the western Primorsky District was thought to be cleared by Russian forces, with no more reports of fighting, with all of the remaining Ukrainian forces surrounded in the Azovstal Steel Plant. On 23 April, according to Ukraine, airstrikes and an apparent ground assault recommenced on the Azovstal steel works. An advisor to the Ukrainian President said: "The enemy is trying to strangle the final resistance of the defenders of Mariupol in the Azovstal area". However, this could not be independently confirmed. Ukrainian security chief Oleksiy Danilov claimed that at night, a helicopter had resupplied Azovstal. On the same day, it was reported that Russia was redeploying forces from Mariupol to other fronts in eastern Ukraine, with Russia reportedly redeploying 12 units from Mariupol. On the next day, Russian forces continued bombing Ukrainian positions in the Azovstal Steel Plant, with reports that Russian forces might have been planning a renewed assault on the facility. During the night of 27 to 28 April, the heaviest airstrikes yet were reportedly conducted against Azovstal, with more than 50 strikes by Tu-22M3, Su-25s and Su-24s aircraft hitting the facility, according to Ukraine. Ukraine claimed a military field hospital was hit, with the number of wounded increasing from 170 before the strike to more than 600 after the bombing.
 
 ### Evacuation of civilians
-![ICRC buses for evacuation convoy from Mariupol to Zaporizhzhia (cropped)](https://wikipedia.org/wiki/Special:Redirect/file/ICRC_buses_for_evacuation_convoy_from_Mariupol_to_Zaporizhzhia_(cropped).jpg?)
+
+![ICRC buses for evacuation convoy from Mariupol to Zaporizhzhia (cropped)](<https://wikipedia.org/wiki/Special:Redirect/file/ICRC_buses_for_evacuation_convoy_from_Mariupol_to_Zaporizhzhia_(cropped).jpg?>)
 On 30 April, the United Nations and the International Committee of the Red Cross (ICRC) started to run evacuations through a humanitarian corridor. This corridor was made after a trip by Secretary-General of the United Nations António Guterres to Moscow the previous week, where he personally brokered a deal. On 30 April 20 civilians had left the Azovstal steel plant, while Russian media claimed a number of 25. Talks were underway to try and release the remaining 1,000 or so civilians. At least two of the wives of members of the Azov Regiment called for a concurrent evacuation of the about 2,000 forces that would be left behind after the civilian evacuation, highlighting concerns of treatment as POWs by the Russians and lack of medical and food supplies.
 
 On 2 May, about 100 civilians were reported to have been evacuated. Russian aircraft, according to the US Department of Defense, were using dumb bombs in Mariupol. Russian ground forces were also reported to be pulling out of the city, possibly to reinforce their positions elsewhere in the Donbas, where Russia was carrying out a large-scale offensive. According to one US DOD official: "Largely the efforts around Mariupol for the Russians are now in the realm of airstrikes". On 3 May, the Russian forces in Mariupol restarted their attacks on Azovstal. They began an assault on the steel plant in what have been called "difficult bloody battles". The following day it was reported the Russians had broken into the plant. Ukrainian politician Davyd Arakhamia said: "Attempts to storm the plant continue for the second day. Russian troops are already on the territory of Azovstal." On 5 May, some 300 civilians were allowed to leave due to Russia opening humanitarian corridors. These corridors ran from 8am to 6pm. Ukrainian forces blamed Russian success on an electrician who gave Russian forces information about the underground tunnel network, claiming: “Yesterday, the Russians started storming these tunnels, using the information they received from the betrayer.”
 
-On 5 May, *The Telegraph* reported that Russia had intensified its bombing of the steel factory bunkers by using thermobaric bombs to increase the devastation of deployed firepower against the remaining Ukrainian soldiers who had lost all contact with the Kyiv government; in his last communications, Zelenskyy had authorized the commander of the besieged steel factory to surrender as necessary under the pressure of increased Russian attacks.
+On 5 May, _The Telegraph_ reported that Russia had intensified its bombing of the steel factory bunkers by using thermobaric bombs to increase the devastation of deployed firepower against the remaining Ukrainian soldiers who had lost all contact with the Kyiv government; in his last communications, Zelenskyy had authorized the commander of the besieged steel factory to surrender as necessary under the pressure of increased Russian attacks.
 
 On 6 May, some 500 civilians, in total, had been evacuated according to the United Nations. The Azov Regiment reported one fighter killed and six wounded while helping evacuate civilians.
 
 On 7 May, the Ukrainian government announced that all of the remaining women, children and elderly who had been inside the Azovstal steel plant had been evacuated.
 
 ### Surrender
+
 ![Маріуполь. Азовсталь. Прямо зараз. Авіабомбардування. Понад 100 цивільних. Захисники Маріуполя.webm](https://wikipedia.org/wiki/Special:Redirect/file/%D0%9C%D0%B0%D1%80%D1%96%D1%83%D0%BF%D0%BE%D0%BB%D1%8C._%D0%90%D0%B7%D0%BE%D0%B2%D1%81%D1%82%D0%B0%D0%BB%D1%8C._%D0%9F%D1%80%D1%8F%D0%BC%D0%BE_%D0%B7%D0%B0%D1%80%D0%B0%D0%B7._%D0%90%D0%B2%D1%96%D0%B0%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F._%D0%9F%D0%BE%D0%BD%D0%B0%D0%B4_100_%D1%86%D0%B8%D0%B2%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%85._%D0%97%D0%B0%D1%85%D0%B8%D1%81%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D0%B0%D1%80%D1%96%D1%83%D0%BF%D0%BE%D0%BB%D1%8F.webm?)
 ![Сдача в плен бойцов подразделения Азов 002](https://wikipedia.org/wiki/Special:Redirect/file/%D0%A1%D0%B4%D0%B0%D1%87%D0%B0_%D0%B2_%D0%BF%D0%BB%D0%B5%D0%BD_%D0%B1%D0%BE%D0%B9%D1%86%D0%BE%D0%B2_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%90%D0%B7%D0%BE%D0%B2_002.png?)
 On 8 May, the commander of the 36th Separate Marine Brigade, Serhiy Volynskyi, asked "that a higher power find a way to figure out our rescue". As to their current conditions, "It feels like I've landed in a hellish reality show in which us soldiers fight for our lives and the whole world watches this interesting episode. Pain, suffering, hunger, misery, tears, fears, death. It's all real." President Zelenskyy promised "we are working on evacuating our military".
@@ -374,8 +377,6 @@ On 10 May, Ukrainian authorities reported that over 1,000 Ukrainian soldiers, hu
 
 The Institute for the Study of War noted the lack of a Russian ground offensive on 12 May, but noted that Russian forces had likely secured the M14 highway the following day.
 
-
-
 On 16 May, Alexander Khodakovsky, commander of a DPR brigade stationed near Azovstal, stated that a group of nine soldiers had come out of the plant to negotiate under a white flag. On the same day, the Ukrainian General staff announced that the Mariupol garrison had "fulfilled its combat mission" and that "evacuation" from the Azovstal steel plant had begun. The military said that 264 service members, 53 of them seriously wounded, had been taken by bus to areas controlled by Russian forces. A social media post was released by Azov Regiment commander Denys Prokopenko stating: "In order to save lives, the entire Mariupol garrison is implementing the approved decision of the Supreme Military Command and hopes for the support of the Ukrainian people." Wounded Ukrainian soldiers from the Azovstal plant were taken to the DPR-controlled town of Novoazovsk for treatment. The evacuation of wounded troops was followed in the subsequent days by the surrender of the remainder of the garrison. Ukrainian Deputy Defence Minister Hanna Maliar said: "Thanks to the defenders of Mariupol, Ukraine gained critically important time to form reserves and regroup forces and receive help from partners. And they fulfilled all their tasks. But it is impossible to unblock Azovstal by military means."
 
 Russia press secretary Dmitry Peskov said Russian President Vladimir Putin had guaranteed that the fighters who surrendered would be treated "in accordance with international standards" while Ukrainian President Volodymyr Zelenskyy said in an address that "the work of bringing the boys home continues, and this work needs delicacy – and time". Some prominent Russian lawmakers called on the government to deny prisoner exchanges for members of the Azov Regiment. The ICRC registered the surrendered troops as prisoners of war at the request of both sides, collecting information to contact their families.
@@ -383,6 +384,7 @@ Russia press secretary Dmitry Peskov said Russian President Vladimir Putin had g
 On 18 May, Russian artillery and aircraft bombed once again Azovstal's remaining defenders. The DPR leadership claimed that the local high-ranking Ukrainian commanders had not yet surrendered. According to Russian sources, the last defenders surrendered on 20 May, among them Lieutenant Colonel Prokopenko, Major Volynskyi and Captain Svyatoslav Palamar, deputy commander of the Azov Regiment. The Russian Ministry of Defense claimed that altogether 2,439 prisoners had been taken at Azovstal between 16 and 20 May, and that the steel plant was now under control of Russian and DPR forces.
 
 ## Aftermath
+
 On 18 May, Denis Pushilin announced Azovstal would be demolished by the Donetsk People's Republic, and Mariupol would be turned into a resort city.
 
 Russian Telegram bloggers shared a video, reportedly showing Russian soldiers attacking some remaining Ukrainian holdouts at Azovstal on 22 May. Head of the DPR Denis Pushilin claimed that some Ukrainian holdouts had been discovered and captured in the area of the Azovstal plant.
@@ -392,6 +394,7 @@ On 26 May, Russia reopened the Port of Mariupol to commercial vessels following 
 In an explosion at Olenivka prison on 29 July 2022, 53 Ukrainian prisoners of war from Mariupol were killed and 75 wounded. Both Ukrainian and Russian authorities accused each other of the attack on the prison. As of 30 July, there was no independent confirmation of what occurred.
 
 ### Cholera outbreak
+
 The Ukrainian parliament stated on 30 April 2022 that the city's living conditions had been reduced to "medieval" levels, and that most of the city's sanitary and health infrastructure was destroyed, potentially putting the city's citizens at risk of disease.
 
 In late April, the Mariupol City Council urged the evacuation of 100,000 residents, warning of "deadly epidemics" in the city.
@@ -405,12 +408,13 @@ On 6 June 2022, Ukrainian Deputy Minister of Healthcare Ihor Kuzin warned agains
 Mayor Boychenko said on 11 June that there was an outbreak of cholera in the city as sanitation systems were broken and corpses were rotting in the streets.
 
 #### Spread
+
 Medical officials in Ukraine and Russia have cautioned that cholera could spread beyond Mariupol, with Russian government officials in oblasts bordering Ukraine establishing labs to treat cholera. Ukrainian epidemiologist Liudmyla Mukharska warned that the outbreak could spread throughout the rest of the Donbas, and that outbreaks of intestinal infections, dysentery, salmonellosis, and hepatitis A and E were possible. Other epidemiologists said that due to rotations of Russian soldiers fighting in Ukraine and the deportation of Ukrainians to filtration camps within Russia, the spread of the cholera outbreak to Russia was inevitable.
 
 ## Casualties
 
-
 ### Military casualties
+
 According to Ukraine, around 6,000 Russian soldiers were killed during the siege, while Russia stated more than 4,000 Ukrainian soldiers had died up to the start of the siege of the Azovstal plant in mid-April and that the bodies of another 152 Ukrainian soldiers were found in a non-functioning refrigerated truck in Azovstal following the facilitie's siege. Explosives capable of destroying the bodies were found underneath them. The bodies would be handed over to Ukraine. By 12 June, Russia returned the bodies of some 220 deceased Ukrainian soldiers, all of whom had been fighting in the Azovstal steelworks, while "just as many bodies" still remained in Mariupol. A third of these were soldiers from the Azov unit. Subsequently, another 145 bodies of those killed in Mariupol were returned.
 
 Ukraine claimed the 810th Naval Infantry Brigade of Russia's Black Sea Fleet had 158 killed, 500 wounded and 70 missing by mid-April, while the Black Sea Fleet's 126th Coastal Defence Brigade, a unit of about 2,000 soldiers, suffered 75 percent losses. In addition, Ukraine claimed 14 special forces members of the Russian Spetsnaz GRU were killed by late March.
@@ -418,9 +422,10 @@ Ukraine claimed the 810th Naval Infantry Brigade of Russia's Black Sea Fleet had
 According to Russia, some 3,903 Ukrainian soldiers were captured during the siege, while Ukraine confirmed more than 3,500 soldiers, with an additional battalion, were taken prisoner. On 8 June, over 1,000 prisoners of war were transferred from the DPR to Russia.
 
 ### Civilian casualties
+
 Mariupol's deputy mayor Serhiy Orlov stated on 9 March that at least 1,170 civilians in the city had been killed in the city since Russia's invasion began and the dead were being buried in mass graves. On 11 March, the city council stated that at least 1,582 civilians had been killed during the siege, increasing that number on 13 March to 2,187 having been killed by the latter date. On 14 March, Oleksiy Arestovych, an adviser to Ukrainian president Volodymyr Zelenskyy, stated that more than 2,500 civilians had been killed in Mariupol's siege. However, the city council later clarified that 2,357 civilians had died.
 
-Pyotr Andryushchenko, an adviser to the city government, however stated that the council's count was inaccurate and estimated that total number of civilians killed could be as high as 20,000. *The New York Times* reported that officials in the city had been struggling to account for how many civilians had died or gone missing during the siege. Videos posted on Telegram showed that residents of the Cheryomushki neighborhood were forced to bury corpses in a courtyard, while others had to turn a post office building into a makeshift morgue, stacking it with dead bodies.
+Pyotr Andryushchenko, an adviser to the city government, however stated that the council's count was inaccurate and estimated that total number of civilians killed could be as high as 20,000. _The New York Times_ reported that officials in the city had been struggling to account for how many civilians had died or gone missing during the siege. Videos posted on Telegram showed that residents of the Cheryomushki neighborhood were forced to bury corpses in a courtyard, while others had to turn a post office building into a makeshift morgue, stacking it with dead bodies.
 
 On 16 March, the Associated Press (AP) reported that it had documented that many of the dead were "children and mothers" contrary, it said, to Russian government claims that civilians had not been targeted. It also reported that doctors in Mariupol were saying that they were treating "10 injured civilians for every injured Ukrainian soldier."
 
@@ -431,7 +436,8 @@ By mid-June, The United Nations stated it had confirmed the deaths of 1,348 civi
 The Greek minority in Ukraine which is concentrated in and around Mariupol was impacted heavily by the fighting. Sartana and Volnovakha, two towns near Mariupol having substantial Greek population, were hit hard by Russian forces and nearly completely destroyed. According to the head of the local Greek organisation, the fighters of the Azov regiment which defended Mariupol treated civilians as hostages and looted their property during the siege itself.
 
 ## Humanitarian situation
-![Russian bombing of Mariupol (03)](https://wikipedia.org/wiki/Special:Redirect/file/Russian_bombing_of_Mariupol_(03).jpg?)
+
+![Russian bombing of Mariupol (03)](<https://wikipedia.org/wiki/Special:Redirect/file/Russian_bombing_of_Mariupol_(03).jpg?>)
 On 6 March, Petro Andryushchenko, advisor to the mayor of Mariupol, reported that people were "drinking from puddles in the streets" due to the loss of running water in the city caused by days of around-the-clock Russian shelling and bombing attacks. He also stated that there was no heat, electricity or telephone service. According to US officials, civilians had been unable to evacuate the city due to repeated ceasefire violations, attacks on agreed-upon evacuation corridors, and direct attacks on civilians attempting to evacuate.
 
 On 14 March, another spokesman for the ICRC announced that "hundreds of thousands" of people in the city were "facing extreme or total shortages of basic necessities like food, water and medicine." On 15 March, Ukraine's Deputy Prime Minister Iryna Vereshchuk accused Russian forces of taking around 400 civilians hostage after capturing a hospital in the city. Ukrainian officials accused Russian forces of firing at an evacuation convoy and injuring five civilians on 16 March. On 18 March, Ukrainian officials stated that more than 350,000 people were sheltering under siege in Mariupol, still with no access to food or water.
@@ -443,16 +449,18 @@ On 1 April, a rescue effort by the UN to transport hundreds of civilian survivor
 Ultimately the ICRC reported that it had helped facilitate the safe evacuation of over 10,000 civilians from Mariupol and Sumy.
 
 ## War crimes committed by Russian forces
+
 Numerous war crimes were committed by Russian forces during the siege. Some media outlets described the crimes that occurred as the worst seen in the 21st century.
 
-On 25 March, Russian Colonel-General Mikhail Mizintsev was accused by Ukrainian authorities of ordering the bombings of both the Mariupol Children's and Maternity Hospital and the city theatre where 1,200 civilians were sheltering. Mizintsev was nicknamed the "Butcher of Mariupol" by western and Ukrainian sources as a result of his alleged role in the siege,  and sanctioned by the United Kingdom. Accused of personally directing war crimes during the siege, Mizintsev accused Ukrainian troops of creating a "terrible human catastrophe," and furthermore claimed that he would allow the safe exit of Ukrainian civilians from Mariupol. Mizintsev's claims were rejected by Deputy Prime Minister of Ukraine Iryna Vereshchuk as "manipulation."
+On 25 March, Russian Colonel-General Mikhail Mizintsev was accused by Ukrainian authorities of ordering the bombings of both the Mariupol Children's and Maternity Hospital and the city theatre where 1,200 civilians were sheltering. Mizintsev was nicknamed the "Butcher of Mariupol" by western and Ukrainian sources as a result of his alleged role in the siege, and sanctioned by the United Kingdom. Accused of personally directing war crimes during the siege, Mizintsev accused Ukrainian troops of creating a "terrible human catastrophe," and furthermore claimed that he would allow the safe exit of Ukrainian civilians from Mariupol. Mizintsev's claims were rejected by Deputy Prime Minister of Ukraine Iryna Vereshchuk as "manipulation."
 
 ### Shooting of evacuation checkpoints
+
 On 7 March, U.S. ambassador to the Organization for Security and Co-operation in Europe, Michael Carpenter, described two incidents that occurred in Mariupol on 5 and 6 March as war crimes. He stated that on both dates, Russian forces bombed agreed-upon evacuation corridors while civilians were trying to use them.
 
 ### Maternity and children's hospital bombing
-![Наслідки обстрілу дитячої лікарні та пологового будинку в Маріуполі, 9 березня 2022 року](https://wikipedia.org/wiki/Special:Redirect/file/%D0%9D%D0%B0%D1%81%D0%BB%D1%96%D0%B4%D0%BA%D0%B8_%D0%BE%D0%B1%D1%81%D1%82%D1%80%D1%96%D0%BB%D1%83_%D0%B4%D0%B8%D1%82%D1%8F%D1%87%D0%BE%D1%97_%D0%BB%D1%96%D0%BA%D0%B0%D1%80%D0%BD%D1%96_%D1%82%D0%B0_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BA%D1%83_%D0%B2_%D0%9C%D0%B0%D1%80%D1%96%D1%83%D0%BF%D0%BE%D0%BB%D1%96%2C_9_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F_2022_%D1%80%D0%BE%D0%BA%D1%83.jpg?)
 
+![Наслідки обстрілу дитячої лікарні та пологового будинку в Маріуполі, 9 березня 2022 року](https://wikipedia.org/wiki/Special:Redirect/file/%D0%9D%D0%B0%D1%81%D0%BB%D1%96%D0%B4%D0%BA%D0%B8_%D0%BE%D0%B1%D1%81%D1%82%D1%80%D1%96%D0%BB%D1%83_%D0%B4%D0%B8%D1%82%D1%8F%D1%87%D0%BE%D1%97_%D0%BB%D1%96%D0%BA%D0%B0%D1%80%D0%BD%D1%96_%D1%82%D0%B0_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BA%D1%83_%D0%B2_%D0%9C%D0%B0%D1%80%D1%96%D1%83%D0%BF%D0%BE%D0%BB%D1%96%2C_9_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F_2022_%D1%80%D0%BE%D0%BA%D1%83.jpg?)
 
 On 9 March, after an airstrike damaged a maternity ward and children's hospital, Ukrainian President Volodymyr Zelenskyy tweeted that the attack was an "atrocity" along with a video of the building's ruins. The hospital was destroyed. Three people were killed, including a young girl and at least 16 were injured; authorities stated that many more patients and hospital staff were buried under rubble from the blast.
 
@@ -469,8 +477,8 @@ The pregnant woman videotaped being carried out wounded on a stretcher (accused 
 Russian claims that the videos were faked and that the bombed hospital was being used as a military post were debunked by investigative reporters. On 22 March, Russian journalist Alexander Nevzorov was charged under Russia's "false information" law after he published information about the Russian shelling of a maternity hospital in Mariupol. Under a new law passed on 4 March, he could be sentenced to up to 15 years in prison.
 
 ### Regional theatre bombing
-![Mariupol Drama Theatre Destroyed 1](https://wikipedia.org/wiki/Special:Redirect/file/Mariupol_Drama_Theatre_Destroyed_1.jpg?)
 
+![Mariupol Drama Theatre Destroyed 1](https://wikipedia.org/wiki/Special:Redirect/file/Mariupol_Drama_Theatre_Destroyed_1.jpg?)
 
 On 16 March, the Donetsk Regional Drama Theatre of the city was struck and largely destroyed by an airstrike. The Mariupol city council accused Russia of targeting the drama theatre, where at least hundreds of civilians had been sheltering. Human Rights Watch stated that the theatre was sheltering at least 500 civilians. Serhiy Taruta, the former governor of Donetsk Oblast, stated that 1,300 were sheltering inside.
 
@@ -481,8 +489,8 @@ The bomb shelter in the basement, where people had been sheltering, however, was
 The Associated Press reported that 600 civilians were killed during the airstrike, double the official number given by the Ukrainian government.
 
 ### Mass shelling of residential areas
-![War damages in Mariupol, 12 March 2022 (02)](https://wikipedia.org/wiki/Special:Redirect/file/War_damages_in_Mariupol%2C_12_March_2022_(02).jpg?)
 
+![War damages in Mariupol, 12 March 2022 (02)](<https://wikipedia.org/wiki/Special:Redirect/file/War_damages_in_Mariupol%2C_12_March_2022_(02).jpg?>)
 
 On 2 March, deputy mayor Sergiy Orlov reported that Russian artillery targeted a densely populated neighborhood of Mariupol, shelling it for nearly 15 hours. He said that one populated residential district on the city's left bank had been "nearly totally destroyed".
 
@@ -499,38 +507,39 @@ By 18 April, Ukrainian officials estimated that at least 95% of Mariupol had bee
 On 12 April, city officials reported that up to 20,000 civilians had been killed. On the same day, the Mayor of the city reported that about 21,000 civilians had been killed.
 
 ### Alleged use of chemical weapons
+
 On 11 April 2022, Eduard Basurin, a spokesperson for the Donetsk People's Republic, called for Russia to bring "chemical forces" to "smoke out the moles", referring to the Ukrainian forces in the Azovstal. Later on the same day, the Azov Regiment accused Russian forces of using "a poisonous substance of unknown origin" in Mariupol, causing respiratory problems. A Pentagon spokesperson said the reports were not confirmed, but they reflect concerns about Russia's potential use of chemical agents. Later, Ukraine stated that it was investigating the allegations. Three Ukrainian soldiers were injured in the incident.
 
 According to experts, it is too soon to say what exactly had happened, UK and Ukrainian officials said that they suspected the use of white phosphorus, which is not typically regarded as a chemical weapon in international law.
 
 ## Media coverage
+
 Associated Press staff member Mstyslav Chernov and freelancer Evgeniy Maloletka, working for AP, stayed in Mariupol from late February until 11 March. They were among the few journalists, and, according to the AP, the only international journalists in Mariupol during that period, and their photographs were extensively used by Western media to cover the siege and the situation in the city. According to Chernov, on 11 March, they were in a hospital taking photos, when they were evacuated from the city with the assistance of Ukrainian soldiers. They managed to escape from Mariupol unharmed, at which point, he said, no journalists were left in the city.
 
 Testimonies from the Azovstal steel plant were made available via the Starlink satellite connections system.
 
 The propaganda in the state-controlled media in Russia presented the invasion as a liberation mission and accused Ukrainian troops of attacking civilian targets in Mariupol.
 
-*The Guardian* observed in a piece on Mariupol published after the Russian attack on the Mariupol maternity ward that "Entire settlements reduced to rubble, attacks on civilian targets and the bombing of refugee exit routes were all part of Moscow’s brutal Syria campaign", while the *Washington Post* under the headline "Russia’s Ukraine war builds on tactics it used in Syria, experts say" related the effects on the civilian population as "dwindling food supplies. No electricity or water. Russian tanks roaming the streets. Nights punctuated by shelling." Ukrainian officials warned that this battle risked "becoming a second Aleppo." The Syria Civil Defense team said "They want to empty those cities of their population, so it will be less costly for Russia to take over," and indeed some estimates were that 75% of Mariupol’s population had left by 31 March.
+_The Guardian_ observed in a piece on Mariupol published after the Russian attack on the Mariupol maternity ward that "Entire settlements reduced to rubble, attacks on civilian targets and the bombing of refugee exit routes were all part of Moscow’s brutal Syria campaign", while the _Washington Post_ under the headline "Russia’s Ukraine war builds on tactics it used in Syria, experts say" related the effects on the civilian population as "dwindling food supplies. No electricity or water. Russian tanks roaming the streets. Nights punctuated by shelling." Ukrainian officials warned that this battle risked "becoming a second Aleppo." The Syria Civil Defense team said "They want to empty those cities of their population, so it will be less costly for Russia to take over," and indeed some estimates were that 75% of Mariupol’s population had left by 31 March.
 
 ## See also
- * War in Donbas (2014–2022)
- * Russian occupation of Donetsk Oblast
- * Russian occupation of Luhansk Oblast
- * List of military engagements during the 2022 Russian invasion of Ukraine
- * Timeline of the 2022 Russian invasion of Ukraine
 
+- War in Donbas (2014–2022)
+- Russian occupation of Donetsk Oblast
+- Russian occupation of Luhansk Oblast
+- List of military engagements during the 2022 Russian invasion of Ukraine
+- Timeline of the 2022 Russian invasion of Ukraine
 
 ## Notes
 
-
 ## References
 
-
 ## External links
- * Yahoo News UK article about 11 year old Ukrainian gymnast Kateryna Dyachenko who was killed during shelling in Mariupol on 22 March
- * BBC News video of recently evacuated Mariupol civilians speaking about desperate conditions in the city, endless shelling, mass casualties and people having mental breakdowns under siege, 8 April 2022
- * Video of drone flyover of apartment buildings being bombed in Mariupol. News.com.au, The News Room, March 15 2022
- * Video of tanks firing repeatedly on apartment buildings in Mariupol, civilians in hospital, woman crying for dead children. AP News, 12 March 2022.
- * Video of aftermath, including injured pregnant woman being carried, after Russian airstrike on hospital in Mariupol, Ukraine. Sky News, March 9, 2022
- * Video posted on Twitter by a Ukrainian soldier in Mariupol – of shelling and damage in the City, 5 March, 2022, 8:27 AM
- * Video, Sergei Orlov, Deputy Mayor of Mariupol, alleges that on 5 March Russian forces targeted and shelled civilian gathering areas where people were preparing to evacuate the city. Channel 4 News, London, UK
+
+- Yahoo News UK article about 11 year old Ukrainian gymnast Kateryna Dyachenko who was killed during shelling in Mariupol on 22 March
+- BBC News video of recently evacuated Mariupol civilians speaking about desperate conditions in the city, endless shelling, mass casualties and people having mental breakdowns under siege, 8 April 2022
+- Video of drone flyover of apartment buildings being bombed in Mariupol. News.com.au, The News Room, March 15 2022
+- Video of tanks firing repeatedly on apartment buildings in Mariupol, civilians in hospital, woman crying for dead children. AP News, 12 March 2022.
+- Video of aftermath, including injured pregnant woman being carried, after Russian airstrike on hospital in Mariupol, Ukraine. Sky News, March 9, 2022
+- Video posted on Twitter by a Ukrainian soldier in Mariupol – of shelling and damage in the City, 5 March, 2022, 8:27 AM
+- Video, Sergei Orlov, Deputy Mayor of Mariupol, alleges that on 5 March Russian forces targeted and shelled civilian gathering areas where people were preparing to evacuate the city. Channel 4 News, London, UK

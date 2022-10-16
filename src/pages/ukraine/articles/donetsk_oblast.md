@@ -264,10 +264,11 @@ description: The Donetsk Oblast, also referred to as Donechchyna , is an oblast
   State Administration has been temporarily relocated to Kramatorsk because of
   the ongoing Russo-Ukrainian war.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(96).jpg
 ---
-        
-The **Donetsk Oblast**, also referred to as **Donechchyna** , is an oblast of eastern Ukraine. It is Ukraine's most populous province, with around 4.1 million residents. Its administrative centre is Donetsk; however, its Regional State Administration has been temporarily relocated to Kramatorsk because of the ongoing Russo-Ukrainian war. Historically, the region has been an important part of the Donbas region. From its creation in 1938 until November 1961, it bore the name *Stalino Oblast* as Donetsk was then named "Stalino", in honour of Joseph Stalin. As part of the de-Stalinization process, it was renamed after the Siversky Donets river, the main artery of Eastern Ukraine. Its population is estimated as
+
+The **Donetsk Oblast**, also referred to as **Donechchyna** , is an oblast of eastern Ukraine. It is Ukraine's most populous province, with around 4.1 million residents. Its administrative centre is Donetsk; however, its Regional State Administration has been temporarily relocated to Kramatorsk because of the ongoing Russo-Ukrainian war. Historically, the region has been an important part of the Donbas region. From its creation in 1938 until November 1961, it bore the name _Stalino Oblast_ as Donetsk was then named "Stalino", in honour of Joseph Stalin. As part of the de-Stalinization process, it was renamed after the Siversky Donets river, the main artery of Eastern Ukraine. Its population is estimated as
 
 The oblast is known for its urban sprawl of Donetsk–Makiivka and Horlivka–Yenakiieve and it is often associated with the coal mining industry.
 
@@ -276,6 +277,7 @@ The war in Donbas and the subsequent 2022 Russian invasion of Ukraine has seen p
 On 30 September 2022 Russia annexed the Donetsk (DPR), Luhansk (Luhansk People's Republic), Zaporizhzhia, and Kherson Oblasts. However, the staged referendums and subsequent annexations are internationally unrecognized, and Ukraine still controls much of the province.
 
 ## History
+
 Before the establishment of the Donetsian Oblast, three districts (okruhas) existed on its territory from 1923 to 1930. The Donets Governorate was terminated in 1925. As part of Soviet Ukraine, the Donetsian Oblast was established on 2 July 1932 out of the Kharkiv Oblast, the Dnipropetrovsk Oblast and a number of raions that were under the direct administration of Kharkiv (then-capital of Soviet Ukraine). Artemivsk (today Bakhmut) served as the Oblast's administrative center for two weeks until 16 July 1932, when the city of Stalino (today Donetsk) took on the role. Until 1938, the Donetsian Oblast included the territories of the modern Donetsk Oblast and the Luhansk Oblast. In June 1938 it was split into the Stalino Oblast (modern Donetsk Oblast) and the Voroshylovhrad Oblast (modern Luhansk Oblast).
 
 During the Nazi German occupation from fall 1941 to fall 1943, Donetsk Oblast was known as Yuzivka Oblast (after the original name of Donetsk).
@@ -289,75 +291,74 @@ In the mid-1990s, the region became known for its heightened criminal activity, 
 In late 2004, the Party of Regions was involved in the creation of a political project, South-East Ukrainian Autonomous Republic, which intended to include Donetsk Oblast. Having close ties with the Russian government, the Party of Regions along with local communists and pro-Russian activists instigated the pro-Russian unrest which escalated into the war in Donbas. In May 2014 Ukraine lost control over its border with Russia in Donetsk Oblast. Currently, portions of the region are controlled by the Novorossiya Armed Forces and claimed by the self-proclaimed Donetsk People's Republic.
 
 ## Geography
+
 ![Donetsk oblast detail map](https://wikipedia.org/wiki/Special:Redirect/file/Donetsk_oblast_detail_map.png?)
 ![Regions of Donetsk Oblast](https://wikipedia.org/wiki/Special:Redirect/file/Regions_of_Donetsk_Oblast.png?)
 Donetsk Oblast is located in southeastern Ukraine. The area of the oblast (26,517 km2), comprises about 4.4% of the total area of the country. The oblast borders the Dnipropetrovsk and Zaporizhzhia Oblasts on the southwest, the Kharkiv Oblast on the north, the Luhansk Oblast on the northeast, the Rostov Oblast in Russia on the east, and with the Sea of Azov on the south.
 
-Its longitude from north to south is 270 km, from east to west – 190 km. The extreme points of the oblast's borders are: *Bilosarayska Kosa* (spit) on the south, Shevchenko of Velykonovosilkivskyi Raion on the west, *Verkhnyi Kut* of Shakhtarskyi Raion on the east, and *Lozove* of Lyman Raion on the north.
+Its longitude from north to south is 270 km, from east to west – 190 km. The extreme points of the oblast's borders are: _Bilosarayska Kosa_ (spit) on the south, Shevchenko of Velykonovosilkivskyi Raion on the west, _Verkhnyi Kut_ of Shakhtarskyi Raion on the east, and _Lozove_ of Lyman Raion on the north.
 
 The state historic-architectural preserve near the city of Sviatohirsk with the Sviatohirsk Lavra was nominated for the Seven Wonders of Ukraine.
 
-
-
 ## Administrative divisions
 
-|      Name      |   Local Name   |   Area (km2)   | Population Census 2001 | Population Estimate 1 Jan 2012 |    Admin.ctr   |
-|       ---      |       ---      |       ---      |       ---      |       ---      |       ---      |
-|    Avdiivka    | Авдіївка (місто) |       29       |     37,237     |     35,257     |        —       |
-|     Bakhmut    | Бахмут (Міськрада) |       74       |     113,785    |     104,631    |     Bakhmut    |
-|   Debaltseve   | Дебальцеве (Міськрада) |       38       |     53,412     |     46,302     |   Debaltseve   |
-|   Dobropillia  | Добропілля (Міськрада) |       119      |     72,817     |     63,938     |   Dobropillia  |
-|  Dokuchaievsk  | Докучаївськ (Міськрада) |       47       |     25,024     |     24,506     |   Dokuchaevsk  |
-|     Donetsk    | Донецьк (Міськрада) |       571      |    1,024,678   |     971,096    |     Donetsk    |
-|   Druzhkivka   | Дружківка (Міськрада) |       23       |     75,006     |     70,126     |   Druzhkivka   |
-|    Horlivka    | Горлівка (Міськрада) |       422      |     312,284    |     279,500    |    Horlivka    |
-|    Khartsyzk   | Харцизьк (Міськрада) |       207      |     113,685    |     105,104    |    Khartsyzk   |
-| Kirovske (*Krestivka*) | Кіровське (місто) |        7       |     31,041     |     28,470     |        —       |
-| Kostiantynivka | Костянтинівка (місто) |       66       |     94,886     |     78,114     |        —       |
-|   Kramatorsk   | Краматорськ (Міськрада) |       356      |     215,729    |     199,020    |   Kramatorsk   |
-|      Lyman     | Лиман (Міськрада) |       192      |     28,996     |     23,740     |      Lyman     |
-|    Makiivka    | Макіївка (Міськрада) |       426      |     431,023    |     394,604    |    Makiivka    |
-|    Mariupol    | Маріуполь (Міськрада) |       244      |     510,835    |     486,320    |    Mariupol    |
-|    Myrnohrad   | Мирноград (Міськрада) |       20       |     56,702     |     50,995     |    Myrnohrad   |
-|  Novohrodivka  | Новогродівка (місто) |        6       |     17,559     |     15,560     |        —       |
-|    Pokrovsk    | Покровськ (Міськрада) |       39       |     82,830     |     77,891     |    Pokrovsk    |
-|    Selydove    | Селидове (Міськрада) |       108      |     62,819     |     54,626     |    Selydove    |
-|   Shakhtarsk   | Шахтарськ (Міськрада) |       51       |     72,711     |     61,234     |   Shakhtarsk   |
-|    Sloviansk   | Слов'янськ (Міськрада) |       74       |     142,873    |     138,450    |    Sloviansk   |
-|     Snizhne    | Сніжне (Міськрада) |       189      |     83,046     |     71,277     |     Snizhne    |
-|     Toretsk    | Торецьк (Міськрада) |       62       |     86,281     |     74,435     |     Toretsk    |
-|      Torez     | Торез (Міськрада) |       105      |     96,026     |     81,761     |      Torez     |
-|    Vuhledar    | Вугледар (місто) |        5       |     17,518     |     15,477     |        —       |
-|   Yasynuvata   | Яcинувата (місто) |       19       |     36,903     |     35,843     |        —       |
-|   Yenakiieve   | Єнакієве (Міськрада) |       425      |     162,778    |     132,110    |   Yenakiieve   |
-|    Zhdanivka   | Жданівка (Міськрада) |        2       |     14,375     |     13,377     |    Zhdanivka   |
-| Amvrosiivsky (raion) | Амвросіївський (район) |      1,455     |     54,939     |     46,081     |   Amvrosiivsk  |
-| Bakhmutsky (raion) | Бахмутський (район) |      1,687     |     54,065     |     45,367     |     Bakhmut    |
-| Dobropilsky (raion) | Добропільський (район) |       949      |     20,659     |     16,980     |   Dobropillia  |
-| Kostyantynivsky (raion) | Костянтинівський (район) |      1,172     |     21,132     |     19,256     | Kostiantynivka |
-| Lymansky (raion) | Лиманський (район) |      1,018     |     24,974     |     22,136     |      Lyman     |
-| Marynsky (raion) | Мар'їнський (район) |      1,350     |     90,045     |     84,571     |     Marïnka    |
-| Novoazovsky (raion) | Новоазовський (район) |      1,000     |     38,902     |     36,066     |   Novoazovsk   |
-| Oleksandrivsky (raion) | Олександрівський (район) |      1,010     |     23,036     |     19,804     |  Oleksandrivka |
-| Pershotravnevy (raion) | Першотравневий (район) |       792      |     29,312     |     27,325     |     Manhush    |
-| Shakhtarsky (raion) | Шахтарський (район) |      1,194     |     24,262     |     19,974     |   Shakhtarsk   |
-| Pokrovsk (raion) | Покровський (район) |      1,316     |     37,567     |     32,439     |    Pokrovsk    |
-| Slovyansky (raion) | Слов'янський (район) |      1,274     |     39,188     |     34,334     |    Sloviansk   |
-| Starobeshivsky (raion) | Старобешівський (район) |      1,255     |     55,952     |     51,068     |  Starobesheve  |
-| Telmanivsky (raion) | Тельманівський (район) |      1,340     |     35,365     |     29,965     |    Telmanove   |
-| Velikonovosilkivsky (raion) | Великоновосілівський (район) |      1,901     |     49,323     |     41,943     | Velyka Novosilka |
-| Volnovasky (raion) | Волноваський (район) |      1,848     |     92,489     |     84,579     |   Volnovakha   |
-| Volodarsky (raion) | Володарський (район) |      1,221     |     31,168     |     29,472     |   Volodarske   |
-| Yasynuvatsky (raion) | Ясинуватський (район) |       809      |     30,326     |     16,980     |   Yasynuvata   |
-| ***Total Oblast*** | Донецька (Область) |     26,517     |    4,825,563   |    4,403,178   |     Donetsk    |
+| Name                        | Local Name                   | Area (km2) | Population Census 2001 | Population Estimate 1 Jan 2012 | Admin.ctr        |
+| --------------------------- | ---------------------------- | ---------- | ---------------------- | ------------------------------ | ---------------- |
+| Avdiivka                    | Авдіївка (місто)             | 29         | 37,237                 | 35,257                         | —                |
+| Bakhmut                     | Бахмут (Міськрада)           | 74         | 113,785                | 104,631                        | Bakhmut          |
+| Debaltseve                  | Дебальцеве (Міськрада)       | 38         | 53,412                 | 46,302                         | Debaltseve       |
+| Dobropillia                 | Добропілля (Міськрада)       | 119        | 72,817                 | 63,938                         | Dobropillia      |
+| Dokuchaievsk                | Докучаївськ (Міськрада)      | 47         | 25,024                 | 24,506                         | Dokuchaevsk      |
+| Donetsk                     | Донецьк (Міськрада)          | 571        | 1,024,678              | 971,096                        | Donetsk          |
+| Druzhkivka                  | Дружківка (Міськрада)        | 23         | 75,006                 | 70,126                         | Druzhkivka       |
+| Horlivka                    | Горлівка (Міськрада)         | 422        | 312,284                | 279,500                        | Horlivka         |
+| Khartsyzk                   | Харцизьк (Міськрада)         | 207        | 113,685                | 105,104                        | Khartsyzk        |
+| Kirovske (_Krestivka_)      | Кіровське (місто)            | 7          | 31,041                 | 28,470                         | —                |
+| Kostiantynivka              | Костянтинівка (місто)        | 66         | 94,886                 | 78,114                         | —                |
+| Kramatorsk                  | Краматорськ (Міськрада)      | 356        | 215,729                | 199,020                        | Kramatorsk       |
+| Lyman                       | Лиман (Міськрада)            | 192        | 28,996                 | 23,740                         | Lyman            |
+| Makiivka                    | Макіївка (Міськрада)         | 426        | 431,023                | 394,604                        | Makiivka         |
+| Mariupol                    | Маріуполь (Міськрада)        | 244        | 510,835                | 486,320                        | Mariupol         |
+| Myrnohrad                   | Мирноград (Міськрада)        | 20         | 56,702                 | 50,995                         | Myrnohrad        |
+| Novohrodivka                | Новогродівка (місто)         | 6          | 17,559                 | 15,560                         | —                |
+| Pokrovsk                    | Покровськ (Міськрада)        | 39         | 82,830                 | 77,891                         | Pokrovsk         |
+| Selydove                    | Селидове (Міськрада)         | 108        | 62,819                 | 54,626                         | Selydove         |
+| Shakhtarsk                  | Шахтарськ (Міськрада)        | 51         | 72,711                 | 61,234                         | Shakhtarsk       |
+| Sloviansk                   | Слов'янськ (Міськрада)       | 74         | 142,873                | 138,450                        | Sloviansk        |
+| Snizhne                     | Сніжне (Міськрада)           | 189        | 83,046                 | 71,277                         | Snizhne          |
+| Toretsk                     | Торецьк (Міськрада)          | 62         | 86,281                 | 74,435                         | Toretsk          |
+| Torez                       | Торез (Міськрада)            | 105        | 96,026                 | 81,761                         | Torez            |
+| Vuhledar                    | Вугледар (місто)             | 5          | 17,518                 | 15,477                         | —                |
+| Yasynuvata                  | Яcинувата (місто)            | 19         | 36,903                 | 35,843                         | —                |
+| Yenakiieve                  | Єнакієве (Міськрада)         | 425        | 162,778                | 132,110                        | Yenakiieve       |
+| Zhdanivka                   | Жданівка (Міськрада)         | 2          | 14,375                 | 13,377                         | Zhdanivka        |
+| Amvrosiivsky (raion)        | Амвросіївський (район)       | 1,455      | 54,939                 | 46,081                         | Amvrosiivsk      |
+| Bakhmutsky (raion)          | Бахмутський (район)          | 1,687      | 54,065                 | 45,367                         | Bakhmut          |
+| Dobropilsky (raion)         | Добропільський (район)       | 949        | 20,659                 | 16,980                         | Dobropillia      |
+| Kostyantynivsky (raion)     | Костянтинівський (район)     | 1,172      | 21,132                 | 19,256                         | Kostiantynivka   |
+| Lymansky (raion)            | Лиманський (район)           | 1,018      | 24,974                 | 22,136                         | Lyman            |
+| Marynsky (raion)            | Мар'їнський (район)          | 1,350      | 90,045                 | 84,571                         | Marïnka          |
+| Novoazovsky (raion)         | Новоазовський (район)        | 1,000      | 38,902                 | 36,066                         | Novoazovsk       |
+| Oleksandrivsky (raion)      | Олександрівський (район)     | 1,010      | 23,036                 | 19,804                         | Oleksandrivka    |
+| Pershotravnevy (raion)      | Першотравневий (район)       | 792        | 29,312                 | 27,325                         | Manhush          |
+| Shakhtarsky (raion)         | Шахтарський (район)          | 1,194      | 24,262                 | 19,974                         | Shakhtarsk       |
+| Pokrovsk (raion)            | Покровський (район)          | 1,316      | 37,567                 | 32,439                         | Pokrovsk         |
+| Slovyansky (raion)          | Слов'янський (район)         | 1,274      | 39,188                 | 34,334                         | Sloviansk        |
+| Starobeshivsky (raion)      | Старобешівський (район)      | 1,255      | 55,952                 | 51,068                         | Starobesheve     |
+| Telmanivsky (raion)         | Тельманівський (район)       | 1,340      | 35,365                 | 29,965                         | Telmanove        |
+| Velikonovosilkivsky (raion) | Великоновосілівський (район) | 1,901      | 49,323                 | 41,943                         | Velyka Novosilka |
+| Volnovasky (raion)          | Волноваський (район)         | 1,848      | 92,489                 | 84,579                         | Volnovakha       |
+| Volodarsky (raion)          | Володарський (район)         | 1,221      | 31,168                 | 29,472                         | Volodarske       |
+| Yasynuvatsky (raion)        | Ясинуватський (район)        | 809        | 30,326                 | 16,980                         | Yasynuvata       |
+| **_Total Oblast_**          | Донецька (Область)           | 26,517     | 4,825,563              | 4,403,178                      | Donetsk          |
 
- * total of Settlements – 1,283, including:
- * Villages – 1,124;
- * Cities/Towns – 159, including:
- * Urban-type settlement – 131;
- * Cities of raion subordinance – 24;
- * Selsovets – *N/A*.
-The province is primarily divided into 18 *raions* (districts) and 28 municipalities of equal status (22 *miskradas* and 6 *mistos* – cities of regional significance), including the provincial administrative center Donetsk. These are listed below with their areas and populations.
+- total of Settlements – 1,283, including:
+- Villages – 1,124;
+- Cities/Towns – 159, including:
+- Urban-type settlement – 131;
+- Cities of raion subordinance – 24;
+- Selsovets – _N/A_.
+  The province is primarily divided into 18 _raions_ (districts) and 28 municipalities of equal status (22 _miskradas_ and 6 _mistos_ – cities of regional significance), including the provincial administrative center Donetsk. These are listed below with their areas and populations.
 
 Territories controlled by the self-proclaimed Donetsk People's Republic.
 
@@ -368,25 +369,26 @@ The following data incorporates the number of each type of second-level administ
 The local administration of the oblast' is controlled by the Donetsk Oblast Rada. The governor of the oblast' is the Head of Donetsk Oblast administration, appointed by the President of Ukraine.
 
 ### Cities
- * regional municipalities
 
+- regional municipalities
 
 ## Demographics
+
 ![2013. Донецк 550](https://wikipedia.org/wiki/Special:Redirect/file/2013._%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA_550.jpg?)
 ![Donbass economic](https://wikipedia.org/wiki/Special:Redirect/file/Donbass_economic.jpg?)
 
-|      Year      |    Fertility   |      Birth     |
-|       ---      |       ---      |       ---      |
-|      2010      |       1,2      |     41 258     |
-|      2011      |       1,3      |     41 720     |
-|      2012      |       1,3      |     42 839     |
-|      2003      |       0,9      |     33 433     |
-|      2004      |       1,0      |     35 526     |
-|      2005      |       1,0      |     35 883     |
-|      2006      |       1,1      |     39 327     |
-|      2007      |       1,2      |     40 560     |
-|      2008      |       1,3      |     44 394     |
-|      2009      |       1,3      |     43 373     |
+| Year | Fertility | Birth  |
+| ---- | --------- | ------ |
+| 2010 | 1,2       | 41 258 |
+| 2011 | 1,3       | 41 720 |
+| 2012 | 1,3       | 42 839 |
+| 2003 | 0,9       | 33 433 |
+| 2004 | 1,0       | 35 526 |
+| 2005 | 1,0       | 35 883 |
+| 2006 | 1,1       | 39 327 |
+| 2007 | 1,2       | 40 560 |
+| 2008 | 1,3       | 44 394 |
+| 2009 | 1,3       | 43 373 |
 
 In 2013, the population of Donetsk Oblast was 4.43 million, which constituted 10% of the overall Ukrainian population, making it the most populous and most densely populated region of the country. Its large population is due to the presence of several big industrial cities and numerous villages agglomerated around them.
 
@@ -398,32 +400,32 @@ At the 2001 census, the languages spoken within the oblast were: Russian — 74.
 
 The oblast also contains 21% of the country's Muslims.
 
-
-
 ### Age structure
- * *0–14 years:* 12.6% (male 283,584/female 266,977)
- * *15–64 years:* 70.4% (male 1,453,273/female 1,619,241)
- * *65 years and over:* 17.0% (male 243,048/female 496,434) (2013 official)
 
+- _0–14 years:_ 12.6% (male 283,584/female 266,977)
+- _15–64 years:_ 70.4% (male 1,453,273/female 1,619,241)
+- _65 years and over:_ 17.0% (male 243,048/female 496,434) (2013 official)
 
 ### Median age
- * *total:* 41.9 years
- * *male:* 38.0 years
- * *female:* 45.8 years (2013 official)
 
+- _total:_ 41.9 years
+- _male:_ 38.0 years
+- _female:_ 45.8 years (2013 official)
 
 ## Economy
 
-
 ### Industry
+
 The Donetsk Oblast accounts for more than one half of the coal, finished steel, coke, cast iron and steel production in Ukraine. Ferrous metallurgy, fuel industry and power industry are in demand in the structure of industry production. There are about 882 industry enterprises that are on independent balance, and 2,095 small industry enterprises in the oblast.
 
-The oblast has a developed transport infrastructure which includes the Donetsk railway (covers 40% of national transportation), the Mariupol Port, the Donetsk International Airport, passenger airports in Mariupol and Kramatorsk, and dense road systems. In the *Donetsk* Oblast two special economic zones have been created, Donetsk and *Azov*, which have a privileged tax regime.
+The oblast has a developed transport infrastructure which includes the Donetsk railway (covers 40% of national transportation), the Mariupol Port, the Donetsk International Airport, passenger airports in Mariupol and Kramatorsk, and dense road systems. In the _Donetsk_ Oblast two special economic zones have been created, Donetsk and _Azov_, which have a privileged tax regime.
 
 ### Agriculture
+
 In 1999, the gross grain yield in the oblast was about 999.1 thousand tons, sugar beets – 27.1 thousand tons, sunflower seeds – 309.4 thousand tons, and potatoes – 380.2 thousand tons. Also, 134.2 thousand tons of meat, 494.3 thousand tons of milk and 646.4 million eggs have been produced. At the beginning of 1999 there were 2108 farms within the oblast.
 
 ## Geology
+
 ![Ніжний ранковий світло](https://wikipedia.org/wiki/Special:Redirect/file/%D0%9D%D1%96%D0%B6%D0%BD%D0%B8%D0%B9_%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE.jpg?)
 The Donetsk Oblast's climate is mostly continental, which is characterised by hot summers and relatively cold winters with changeable snow surfaces. East and southeast strong winds, high temperatures and heavy rain showers are typical in the summer. The average annual rainfall is 524 mm.
 
@@ -434,18 +436,19 @@ Important resources for recreation within the area are: the mild climate, the Se
 The curative areas in the oblast include the Slovyansk salt lakes and mineral water sources. The oblast also contains many park zones, some of which are of great national value. They include the Khomutivsky steppe and the Azov sea coast. Overall, the Donetsk Oblast contains about 70 protected park and nature attractions including branches of the Ukrainian steppe park, six state reserves, ten memorials of nature, landscapes, and six park tracts.
 
 ## Polls
+
 During the 1991 referendum, 83.90% of votes in Donetsk Oblast were in favour of the Declaration of Independence of Ukraine, fourth lowest in the country after Crimea, Sevastopol and Luhansk Oblast. A survey conducted in December 2014 by the Kyiv International Institute of Sociology found 18.5% of the oblast's population supported their region joining Russia, 53.8% did not support the idea, 22.5% were undecided, and 5.2% did not respond; insurgent-controlled areas (which hold over 50% of the population) were not polled.
 
 ## See also
- * Administrative divisions of Ukraine
- * List of cities in Donetsk Oblast
 
+- Administrative divisions of Ukraine
+- List of cities in Donetsk Oblast
 
 ## References
 
-
 ## External links
- * Information Card of the Region – Official site of the Cabinet of Ministers of Ukraine
- * www.citylife.donetsk.ua – Official Donetsk city guide – English
- * donoda.gov.ua – Official site of Donetsk Oblast Administration
- * catalogue.biz.ua – Post codes directory of Donetsk Oblast
+
+- Information Card of the Region – Official site of the Cabinet of Ministers of Ukraine
+- www.citylife.donetsk.ua – Official Donetsk city guide – English
+- donoda.gov.ua – Official site of Donetsk Oblast Administration
+- catalogue.biz.ua – Post codes directory of Donetsk Oblast

@@ -3,7 +3,8 @@ infoboxes:
   - conflict:
       text: Battle of Siversk
     partof:
-      text: the Battle of Donbas in the Eastern Ukraine offensive of the 2022 Russian
+      text:
+        the Battle of Donbas in the Eastern Ukraine offensive of the 2022 Russian
         invasion of Ukraine
       links:
         - text: Battle of Donbas
@@ -102,20 +103,22 @@ description: The Battle of Siversk was a military engagement during the 2022
   in the area. On 25 June, Russian forces captured Sievierodonetsk, Syrotyne,
   Voronove and Borivske.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(92).jpg
 ---
-        
+
 The **Battle of Siversk** was a military engagement during the 2022 Russian invasion of Ukraine, as part of the battle of Donbas of the wider eastern Ukraine offensive, that began on July 3. Russian forces stopped making attacks on and around Siversk on 28 July, effectively stalling their offensive in the area.
 
 ## Background
-![Attack on Bakhmut, in the Russian advance towards Siversk](https://wikipedia.org/wiki/Special:Redirect/file/Attack_on_Bakhmut%2C_in_the_Russian_advance_towards_Siversk.jpg?)
 
+![Attack on Bakhmut, in the Russian advance towards Siversk](https://wikipedia.org/wiki/Special:Redirect/file/Attack_on_Bakhmut%2C_in_the_Russian_advance_towards_Siversk.jpg?)
 
 On 25 June, Russian forces captured Sievierodonetsk, Syrotyne, Voronove and Borivske. Approximately 10,000 civilians remained in Sievierodonetsk, ten percent of the pre-war level. At this time, Hanna Maliar, the Deputy Minister of Defense of Ukraine, criticized civilians for allegedly disrupting military operations during the battle by sharing military information on social media.
 
-On 2 July, the Battle of Lysychansk ended with another Russian victory, and the following day Russian LPR forces declared full control of the entire Luhansk region. On 4 July, *The Guardian* reported that after the fall of the Luhansk oblast, that Russian invasion troops would continue their invasion into the adjacent Donetsk oblast to attack the cities of Sloviansk and Bakhmut. The next day, Oleksiy Arestovych, an advisor to Ukrainian president Volodymyr Zelenskyy, conceded that Lysychansk was in danger of being captured by the Russians. Luhansk Oblast governor Serhiy Haidai said the city was attacked "with inexplicably brutal tactics" and the Russians were "stubbornly advancing" amid losses. Outside observers noted that the fall of Lysychansk meant that Russia had achieved its strategic objective of capturing all of Luhansk Oblast, as part of its larger goal of seizing the entirety of the Donbas. Tha day, the Ukrainian General Staff confirmed that their forces had withdrawn from Lysychansk, which Ukrainian President Zelenskyy confirmed later that night, vowing to eventually retake the city, "thanks to the increase in the supply of modern weapons."
+On 2 July, the Battle of Lysychansk ended with another Russian victory, and the following day Russian LPR forces declared full control of the entire Luhansk region. On 4 July, _The Guardian_ reported that after the fall of the Luhansk oblast, that Russian invasion troops would continue their invasion into the adjacent Donetsk oblast to attack the cities of Sloviansk and Bakhmut. The next day, Oleksiy Arestovych, an advisor to Ukrainian president Volodymyr Zelenskyy, conceded that Lysychansk was in danger of being captured by the Russians. Luhansk Oblast governor Serhiy Haidai said the city was attacked "with inexplicably brutal tactics" and the Russians were "stubbornly advancing" amid losses. Outside observers noted that the fall of Lysychansk meant that Russia had achieved its strategic objective of capturing all of Luhansk Oblast, as part of its larger goal of seizing the entirety of the Donbas. Tha day, the Ukrainian General Staff confirmed that their forces had withdrawn from Lysychansk, which Ukrainian President Zelenskyy confirmed later that night, vowing to eventually retake the city, "thanks to the increase in the supply of modern weapons."
 
 ## Battle
+
 The LNR Ministry of Foreign Affairs announced on July 3 that fighting for Siversk had begun, although this claim was rejected by Ukraine and Western observers. During the battle of Lysychansk, the Russian army had launched an offensive in the direction of Siversk from three directions. The city of Siversk is located in the northern part of Donetsk Oblast, which is claimed by the Donetsk People's Republic, 30 kilometers west of Lysychansk. On the same day, Russian and LPR forces occupied the town of Bilohorivka, thus entering the administrative border of the Luhansk and Donetsk oblasts. On July 4, Russian forces continued their offensive operations towards Siversk. On July 6, Russian forces began fighting around the villages of Spirne, Verkhnokamyanske, Hryhorivka, and Bilohorivka, all within 15km of Siversk. Three days later on July 9, Russian and separatist forces claimed they captured the town of Hryhorivka, which the British ministry of defense confirmed on the July 12. On July 11, Russian troops approached to within just a few kilometers of Siversk. On July 12, Russian forces attempted a limited ground assault east of Siversk. The Ukrainian General Staff claimed that Russian forces suffered serious losses during a failed assault toward Spirne and Ivano-Darivka.
 
 Russian state media TASS, backed by statements by DPR president Denis Pushilin claimed on July 13 that they had captured parts of Siversk. Former separatist commander Igor Girkin claimed that there was no fighting for the city, and that Russian troops simply entered after Ukrainian forces withdrew. Vitaly Kiselyov, the LPR's Assistant to the Interior Minister, backed up Russian war correspondents' claims that Russian and LPR forces seized control of Siversk, but footage published by the Ukrainian Joint Forces Operation confirmed that Russian forces did not capture Siversk on July 14, contradicting this claim. The Ukrainian General Staff claimed that Russian forces launched an attack and airstrike on Verkhnokamyanske on July 15, but the attack was repelled by Ukrainian forces. It was also claimed that Russian forces unsuccessfully attempted to capture Spirne.
@@ -125,6 +128,7 @@ On July 16, the Russian Ministry of Defense announced the cessation of the opera
 After July 24, the situation developed into a stalemate, with Russian forces unable to make further advances. Russian forces did not conduct any confirmed ground attacks in the Siversk area and Ukrainian positions around Siversk City on July 28, for the first time since the battle began. On September 7, units of the 80th Air Assault Brigade and the Donbas Battalion were able to push back the Russian forces to the outskirts of Verkhno'kamyanka in Luhansk Oblast. On September 9, Russian forces did not conduct any attacks on Siversk for the first time since July, having withdrawn from their positions surrounding the town.
 
 ## Casualties
+
 Four foreign volunteers—two Americans, one Canadian, and one Swede—fighting for Ukraine were killed by tank fire on July 22, during an attempt to clear Russian forces out of a ravine near Siversk according to their territorial defense forces commander Ruslan Miroshnichenko.
 
 The head of the military administration of the Donetsk Oblast reported 30 Russian soldiers killed in a raid in the peripheral area, also claiming that Russian losses are constantly increasing.
@@ -132,6 +136,7 @@ The head of the military administration of the Donetsk Oblast reported 30 Russia
 According to a senior DPR official, Ukrainian casualties since the beginning of the battle are over 25 soldiers killed and at least 100 wounded. The same officer later attributes these rather considerable losses to the highly accurate multiple rocket launchers supplied to Russia and its allies in the Donbas.
 
 ## Analysis
+
 On July 20, the Institute for the Study of War (ISW) stated that the Russian grouping in the Siversk area was likely still severely degraded by recent operations to complete the capture of the Luhansk Oblast administrative borders and was therefore only making slow and grinding progress towards Siversk, and that they were continuing to degrade their own offensive combat power in localized fights for small and relatively unimportant settlements. It was also stated that Russian troops were struggling to move across relatively sparsely-settled and open terrain, and would encounter terrain much more conducive to the Ukrainian defenders the closer they would get to the E40 around Slovyansk and Bakhmut due to the increasing population density and built-up nature of those areas. The ISW concluded that the current Russian offensive in Donbas would likely to culminate somewhere along the E40 in the following weeks.
 
 According to the ISW, the language of the Ukrainian General Staff's report on July 23 suggests that Russian forces may be advancing closer to the outskirts of Siversk itself from positions in the east.

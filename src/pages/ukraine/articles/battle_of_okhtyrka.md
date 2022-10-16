@@ -63,14 +63,16 @@ description: The battle of Okhtyrka was a military engagement in and around
   Ukraine. Fighting began in the outskirts of the city as Russian forces
   attempted to occupy the city.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(31).jpg
 ---
-        
+
 The **battle of Okhtyrka** was a military engagement in and around Okhtyrka city in Sumy Oblast of Ukraine. It began on 24 February 2022, as part of the Northeastern Ukraine offensive during the 2022 Russian invasion of Ukraine. Fighting began in the outskirts of the city as Russian forces attempted to occupy the city. The initial advance was repelled, and the city was attacked by artillery fire. On March 26, 2022, it was reported that the strategic stronghold of Trostianets was taken back by Ukrainian Forces. This disrupted Russian communications and supply routes, threatening the Russian front.
 
 The Russian offensive has been criticized for civilian casualties and the use of cluster bombs, which may constitute war crimes.
 
 ## Battle
+
 On the morning of 24 February, Russian forces entered Sumy Oblast from Russia, with fighting beginning at 07:30 at the nearby village of Velyka Pysarivka. Russian forces were unable to occupy Okhtyrka, and retreated the following day, leaving behind tanks and equipment.
 
 On 25 February, BM-27 Uragan missiles hit a pre-school in Okhtyrka. The missiles killed a child and two adults. The missiles were allegedly cluster bombs, whose use may constitute a war crime, according to Amnesty International. Ukrainian officials also claim that Russian forces shot at a civilian bus near Okhtyrka. Dmytro Zhyvytskyi, the governor of Sumy Oblast, stated that three other civilians had been killed in the city.
@@ -90,6 +92,7 @@ On 14 March, Pavlo Kuzmenko, the mayor of Okhtyrka, stated that at least three c
 By 26 March, Russian forces withdrew from Okhtyrka.
 
 ## Vacuum bomb
+
 On 28 February, Oksana Markarova, the Ukrainian ambassador to the United States, stated that Russian forces used a thermobaric (vacuum) bomb in Okhtyrka. International law does not prohibit the use of thermobaric munitions, fuel-air explosive devices, or vacuum bombs against military targets. Their use against civilian populations may be banned by the United Nations (UN) Convention on Certain Conventional Weapons (CCW).
 
 Markarova claimed that the use of thermobaric weapons is in violation of the Geneva Conventions. The attack destroyed a Ukrainian military base, killing 70 soldiers.

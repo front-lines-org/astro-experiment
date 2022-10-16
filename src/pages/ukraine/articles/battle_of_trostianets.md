@@ -14,7 +14,7 @@ infoboxes:
     image:
       text: Cleanup of Trostianets by SESU, 29.03.2022 (2).jpg
     image_size:
-      text: '300'
+      text: "300"
       number: 300
     caption:
       text: Aftermath of fighting in the town
@@ -52,13 +52,13 @@ infoboxes:
           type: internal
           page: ukraine
     units1:
-      text: '* 4th Guards Tank Division'
+      text: "* 4th Guards Tank Division"
       links:
         - text: 4th Guards Tank Division
           type: internal
           page: 4th Guards Tank Division
     units2:
-      text: '* 93rd Mechanized Brigade'
+      text: "* 93rd Mechanized Brigade"
       links:
         - text: 93rd Mechanized Brigade
           type: internal
@@ -78,6 +78,7 @@ description: The battle of Trostianets was a military engagement during the 2022
   was re-captured by Ukrainian forces in late March, with the 1st Guards being
   badly mauled in the processes.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(77).jpg
 ---
 

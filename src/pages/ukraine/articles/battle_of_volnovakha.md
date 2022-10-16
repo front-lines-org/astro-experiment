@@ -98,6 +98,7 @@ description: The battle of Volnovakha was a military engagement which lasted
   by DPR forces and led to the widespread destruction of the town and heavy
   casualties on both sides.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(43).jpg
 ---
 

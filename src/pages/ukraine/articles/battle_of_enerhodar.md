@@ -65,12 +65,14 @@ description: The battle of Enerhodar was a military engagement between the
   On 28 February, the Russian Ministry of Defense announced that they captured
   the city of Enerhodar and the Zaporizhzhia Nuclear Power Plant.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(91).jpg
 ---
-        
+
 The **battle of Enerhodar** was a military engagement between the Russian Armed Forces and the Armed Forces of Ukraine during the southern Ukraine offensive of the 2022 Russian invasion of Ukraine over the city of Enerhodar in Zaporizhzhia Oblast. Enerhodar is the location of the Zaporizhzhia Nuclear Power Plant, generating nearly half of the country's electricity derived from nuclear power and more than a fifth of total electricity generated in Ukraine, as well as the nearby thermal power station.
 
 ## Battle
+
 On 28 February, the Russian Ministry of Defense announced that they captured the city of Enerhodar and the Zaporizhzhia Nuclear Power Plant. However, the mayor of Enerhodar, Dmytro Orlov, denied that the city and the power plant had been captured. Local citizens later barricaded the road to the plant and the entrance to the city, forcing the Russian forces to turn back.
 
 On 1 March, Ukrainian officials stated that Russian forces had surrounded the city, with a Russian convoy heading into Enerhodar around 2:00 pm. According to Orlov, the city had difficulties obtaining food. In the evening, a protest by local residents blocked Russian forces from entering the city.
@@ -82,13 +84,15 @@ At 11:28 pm local time on the 3 March 2022, a column of 10 Russian armored vehic
 Russian forces also entered Enerhodar and took control of it. Orlov stated that the city lost its heating supply as a result of the battle.
 
 ## Aftermath
+
 Oleksandr Starukh, the governor of Zaporizhzhia Oblast, stated on 5 March that Russian forces had left Enerhodar after looting it and the situation in the city was completely under control of local authorities. However, Orlov denied the report and stated that Russian forces still occupied the perimeter of the city and the power plant, with local authorities still managing the city. The Ukrainian military administration for the southeast confirmed on 7 March that Enerhodar was under control of Russian forces.
 
 ### September
+
 On September 22, Ukrainian special forces were spotted at the city's entrance.
 
 ## See also
- * Battle of Chernobyl
 
+- Battle of Chernobyl
 
 ## References

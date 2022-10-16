@@ -120,6 +120,7 @@ description: The battle of Soledar is a series of military engagements near the
   their capitals with the same names, were seized in pro-Russian uprisings in
   2014.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(80).jpg
 ---
 

@@ -13,7 +13,8 @@ infoboxes:
     image_size:
       text: 300px
     caption:
-      text: A map of the Russian-occupied territory and military advances in Kherson
+      text:
+        A map of the Russian-occupied territory and military advances in Kherson
         Oblast at their maximum extent in March 2022
     date:
       text: 24 February 2022 – present
@@ -217,14 +218,14 @@ infoboxes:
       links:
         - text: order of battle
           type: internal
-          page: ''
+          page: ""
           anchor: Russia and pro-Russian separatists
     units2:
       text: See order of battle
       links:
         - text: order of battle
           type: internal
-          page: ''
+          page: ""
           anchor: Ukraine
     strength1:
       text: c. undefined 13,000 (March 2022) 20,000–25,000 (August 2022)
@@ -241,6 +242,7 @@ description: The southern Ukraine campaign is an ongoing theatre of operation in
   jointly surround and bombard the city of Mariupol in Donetsk Oblast, which
   fell after months of siege.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(37).jpg
 ---
 

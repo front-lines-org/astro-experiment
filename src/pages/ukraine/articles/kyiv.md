@@ -19,7 +19,8 @@ infoboxes:
     imagesize:
       text: 270px
     image_caption:
-      text: "Top-down, left-right (from upper left): Mariinskyi Palace, Kyiv Pechersk
+      text:
+        "Top-down, left-right (from upper left): Mariinskyi Palace, Kyiv Pechersk
         Lavra, Red University Building, House with Chimaeras, Saint Sophia
         Cathedral, Independence Square"
       links:
@@ -273,10 +274,11 @@ description: Kyiv (, ; Київ, ) or Kiev   is the capital and most populous ci
   January 2021, its population was 2,962,180, making Kyiv the seventh-most
   populous city in Europe.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(54).jpg
 ---
-        
-**Kyiv** (, ; Київ, ) or **Kiev**   is the capital and most populous city of Ukraine. It is in north-central Ukraine along the Dnieper River. As of 1 January 2021, its population was 2,962,180, making Kyiv the seventh-most populous city in Europe.
+
+**Kyiv** (, ; Київ, ) or **Kiev** is the capital and most populous city of Ukraine. It is in north-central Ukraine along the Dnieper River. As of 1 January 2021, its population was 2,962,180, making Kyiv the seventh-most populous city in Europe.
 
 Kyiv is an important industrial, scientific, educational, and cultural center in Eastern Europe. It is home to many high-tech industries, higher education institutions, and historical landmarks. The city has an extensive system of public transport and infrastructure, including the Kyiv Metro.
 
@@ -287,43 +289,44 @@ The city prospered again during the Russian Empire's Industrial Revolution in th
 Following the collapse of the Soviet Union and Ukrainian independence in 1991, Kyiv remained Ukraine's capital and experienced a steady influx of ethnic Ukrainian migrants from other regions of the country. During the country's transformation to a market economy and electoral democracy, Kyiv has continued to be Ukraine's largest and wealthiest city. Its armament-dependent industrial output fell after the Soviet collapse, adversely affecting science and technology, but new sectors of the economy such as services and finance facilitated Kyiv's growth in salaries and investment, as well as providing continuous funding for the development of housing and urban infrastructure. Kyiv emerged as the most pro-Western region of Ukraine; parties advocating tighter integration with the European Union dominate during elections.
 
 ## Name
-![Polonia Et Ungaria XX Nova Tabula, detail of Kyiv episcopate (“Kyouia epatus”)](https://wikipedia.org/wiki/Special:Redirect/file/Polonia_Et_Ungaria_XX_Nova_Tabula%2C_detail_of_Kyiv_episcopate_(%E2%80%9CKyouia_epatus%E2%80%9D).jpg?)
-![Kiev on 1804 map](https://wikipedia.org/wiki/Special:Redirect/file/Kiev_on_1804_map.jpg?)
 
+![Polonia Et Ungaria XX Nova Tabula, detail of Kyiv episcopate (“Kyouia epatus”)](<https://wikipedia.org/wiki/Special:Redirect/file/Polonia_Et_Ungaria_XX_Nova_Tabula%2C_detail_of_Kyiv_episcopate_(%E2%80%9CKyouia_epatus%E2%80%9D).jpg?>)
+![Kiev on 1804 map](https://wikipedia.org/wiki/Special:Redirect/file/Kiev_on_1804_map.jpg?)
 
 The Ukrainian name is Ки́їв, written in the Ukrainian alphabet (from Cyrillic), and since 2014 often rendered in Latin letters (or romanized) as.
 
-Before standardization of the alphabet in the early 20th century, the name was also spelled Кыѣвъ, Киѣвъ, or Кіѣвъ with the now-obsolete letter yat. The Old Ukrainian spelling from the 14th and 15th centuries was nominally *Києвъ, but various attested spellings include кїєва (gen.), Кїєвь and Киев (acc.), кїєво or кїєвом (ins.), києвє, Кіеве, Кїєвѣ, Києвѣ, or Киѣве (loc.).
+Before standardization of the alphabet in the early 20th century, the name was also spelled Кыѣвъ, Киѣвъ, or Кіѣвъ with the now-obsolete letter yat. The Old Ukrainian spelling from the 14th and 15th centuries was nominally \*Києвъ, but various attested spellings include кїєва (gen.), Кїєвь and Киев (acc.), кїєво or кїєвом (ins.), києвє, Кіеве, Кїєвѣ, Києвѣ, or Киѣве (loc.).
 
-The name descends from Old East Slavic. Old East Slavic chronicles, such as Laurentian Codex and Novgorod Chronicle, used the spellings Києвъ, Къıєвъ, or Кїєвъ. Lavretian Chronicle and Novgorod Chronicles : [http://litopys.org.ua/novglet/novg24.htm "''В лЂто 6743. Не хотя исперва оканныи, всепагубныи диаволъ роду человЂческому добра, въздвиже крамолу межи рускыми князи да быша человЂци не жили мирно: о том бо ся злыи радуется кровопролитью крестияньскому. Поиде князь Володимиръ Рюриковиць с **кыяны** и Данило Романович с галицаны на Михаила /л.158./ Всеволодица Чермного къ Чернигову, а Изяславъ побЂжа в Половци; и много воева около Чернигова и посадъ пожьже, а Михаилъ выступи ис Чернигова; и много пустошивъ около Чернигова, поиде опять; и Михаилъ створивъ прелесть на ДанилЂ и много би галицанъ и бещисла, Данила же едва уиде; а Володимиръ пришедши опять, сЂде въ ****КиевЂ****. И не ту бысть того до сыти зла, нь прииде Изяславъ с погаными Половци в силЂ тяжьцЂ и Михаилъ с черниговци под **Киевъ**, и взяша **Кыевъ**; а Володимера и княгыню его изымаша Половци, поведоша в землю свою, и много зла сътвориша **кияномъ**; а Михаилъ сЂде в ГалицЂ, а Изяславъ в КиевЂ; и опять пустиша Володимира Половци на искупЂ и жену его, и на НЂмцЂх имаша искупъ князи. 'В лЂто 6744 &#91;1236''&#93;. Поиде князь Ярославъ из Новаграда къ **Киеву** на столъ, понявши съ собою новгородцовъ болших муж: Судимира въ СлавнЂ, Якима Влунковица, Костя Вячеслалича, а новоторжець 100 муж; а в НовЂградЂ посади сына своего Александра; и, пришедши, сЂде в **КиевЂ** на столЂ; и державъ новгородцовъ и новоторжанъ одину недЂлю и, одаривъ, отпусти прочь; и приидоша вси здрави. Того же лЂта пришедше безбожныи Татарове, плениша всю землю Болгарьскую А и град их Великыи взяша, исЂкоша вся и жены и дЂти" and others.]  This is most likely derived from the Proto-Slavic name *Kyjevŭ gordŭ (literally, "Kyi's castle", "Kyi's gord"), and is associated with Kyi (Кий, Кий), the legendary eponymous founder of the city.
+The name descends from Old East Slavic. Old East Slavic chronicles, such as Laurentian Codex and Novgorod Chronicle, used the spellings Києвъ, Къıєвъ, or Кїєвъ. Lavretian Chronicle and Novgorod Chronicles : [http://litopys.org.ua/novglet/novg24.htm "''В лЂто 6743. Не хотя исперва оканныи, всепагубныи диаволъ роду человЂческому добра, въздвиже крамолу межи рускыми князи да быша человЂци не жили мирно: о том бо ся злыи радуется кровопролитью крестияньскому. Поиде князь Володимиръ Рюриковиць с **кыяны** и Данило Романович с галицаны на Михаила /л.158./ Всеволодица Чермного къ Чернигову, а Изяславъ побЂжа в Половци; и много воева около Чернигова и посадъ пожьже, а Михаилъ выступи ис Чернигова; и много пустошивъ около Чернигова, поиде опять; и Михаилъ створивъ прелесть на ДанилЂ и много би галицанъ и бещисла, Данила же едва уиде; а Володимиръ пришедши опять, сЂде въ ****КиевЂ****. И не ту бысть того до сыти зла, нь прииде Изяславъ с погаными Половци в силЂ тяжьцЂ и Михаилъ с черниговци под **Киевъ**, и взяша **Кыевъ**; а Володимера и княгыню его изымаша Половци, поведоша в землю свою, и много зла сътвориша **кияномъ**; а Михаилъ сЂде в ГалицЂ, а Изяславъ в КиевЂ; и опять пустиша Володимира Половци на искупЂ и жену его, и на НЂмцЂх имаша искупъ князи. 'В лЂто 6744 &#91;1236''&#93;. Поиде князь Ярославъ из Новаграда къ **Киеву** на столъ, понявши съ собою новгородцовъ болших муж: Судимира въ СлавнЂ, Якима Влунковица, Костя Вячеслалича, а новоторжець 100 муж; а в НовЂградЂ посади сына своего Александра; и, пришедши, сЂде в **КиевЂ** на столЂ; и державъ новгородцовъ и новоторжанъ одину недЂлю и, одаривъ, отпусти прочь; и приидоша вси здрави. Того же лЂта пришедше безбожныи Татарове, плениша всю землю Болгарьскую А и град их Великыи взяша, исЂкоша вся и жены и дЂти" and others.] This is most likely derived from the Proto-Slavic name \*Kyjevŭ gordŭ (literally, "Kyi's castle", "Kyi's gord"), and is associated with Kyi (Кий, Кий), the legendary eponymous founder of the city.
 
-*Kyiv* is the romanized official Ukrainian name for the city, and it is used for legislative and official acts. **Kiev** is the traditional English name for the city, but because of its historical derivation from the Russian name, Kiev lost favor with many Western media outlets after the outbreak of the Russo-Ukrainian War in 2014.
+_Kyiv_ is the romanized official Ukrainian name for the city, and it is used for legislative and official acts. **Kiev** is the traditional English name for the city, but because of its historical derivation from the Russian name, Kiev lost favor with many Western media outlets after the outbreak of the Russo-Ukrainian War in 2014.
 
 The city was known by various names in history. In the Norse sagas it was or, meaning city of the Kyivans (from ), which survives in modern Icelandic Kænugarður. Perhaps the earliest original manuscript to name the city is the Kyivan letter, written c. 930 AD by representatives of the city's Jewish community, with the name written as קייוב׳.
 
-The historian Julius Brutzkus in his work *The Khazar Origin of Ancient Kiev* hypothesizes that both Sambat and Kyiv are of Khazar origin meaning "hill fortress" and "lower settlement" respectively. Brutzkus claims that Sambat is not Kyiv, but rather Vyshhorod (High City) which is located nearby.
+The historian Julius Brutzkus in his work _The Khazar Origin of Ancient Kiev_ hypothesizes that both Sambat and Kyiv are of Khazar origin meaning "hill fortress" and "lower settlement" respectively. Brutzkus claims that Sambat is not Kyiv, but rather Vyshhorod (High City) which is located nearby.
 
-In the Byzantine Greek of Constantine Porphyrogenitus's 10th-century *De Administrando Imperio* it was Κιοάβα, Κίοβα, and "also called Sambatas", Σαμβατάς. In Arabic, it was كويابة in Al-Istakhri's work of 951 AD, and according to ibn Rustah and other 10th-century authors. In the medieval Latin of Thietmar of Merseburg's *Chronicon* it was mentioned for the year 1015 as Cuieva. After it was rebuilt in the 15th century, Kyiv was called by the Turkic (Crimean Tatar) name Menkerman or Mankerman.
+In the Byzantine Greek of Constantine Porphyrogenitus's 10th-century _De Administrando Imperio_ it was Κιοάβα, Κίοβα, and "also called Sambatas", Σαμβατάς. In Arabic, it was كويابة in Al-Istakhri's work of 951 AD, and according to ibn Rustah and other 10th-century authors. In the medieval Latin of Thietmar of Merseburg's _Chronicon_ it was mentioned for the year 1015 as Cuieva. After it was rebuilt in the 15th century, Kyiv was called by the Turkic (Crimean Tatar) name Menkerman or Mankerman.
 
-As a prominent city with a long history, its English name was subject to gradual evolution. Early English sources spelled this word as *Kiou*, *Kiow*, *Kiew*, *Kiovia*. On one of the oldest English maps of the region, Russiae, Moscoviae et Tartariae, published by Ortelius (London, 1570), the name of the city is spelled *Kiou*. On the 1650 map by Guillaume de Beauplan, the name of the city is *Kiiow*, and the region was named *Kÿowia*. In the book *Travels*, by Joseph Marshall (London, 1772), the city is called *Kiovia*.
+As a prominent city with a long history, its English name was subject to gradual evolution. Early English sources spelled this word as _Kiou_, _Kiow_, _Kiew_, _Kiovia_. On one of the oldest English maps of the region, Russiae, Moscoviae et Tartariae, published by Ortelius (London, 1570), the name of the city is spelled _Kiou_. On the 1650 map by Guillaume de Beauplan, the name of the city is _Kiiow_, and the region was named _Kÿowia_. In the book _Travels_, by Joseph Marshall (London, 1772), the city is called _Kiovia_.
 
-In English, *Kiev* appeared in print as early as 1804 in John Cary's "New map of Europe, from the latest authorities", and in Mary Holderness's 1823 travelogue *New Russia: Journey from Riga to the Crimea by way of Kiev*. The *Oxford English Dictionary* included *Kiev* in a quotation published by 1883, and *Kyiv* in 2018.
+In English, _Kiev_ appeared in print as early as 1804 in John Cary's "New map of Europe, from the latest authorities", and in Mary Holderness's 1823 travelogue _New Russia: Journey from Riga to the Crimea by way of Kiev_. The _Oxford English Dictionary_ included _Kiev_ in a quotation published by 1883, and _Kyiv_ in 2018.
 
-The Ukrainian version of the name, *Kyiw*, appears in the Volume 4 of the Geographical Dictionary of the Kingdom of Poland, published in 1883.
+The Ukrainian version of the name, _Kyiw_, appears in the Volume 4 of the Geographical Dictionary of the Kingdom of Poland, published in 1883.
 
-After Ukraine's 1991 independence, the Ukrainian government introduced the national rules for transliteration of geographic names into the Latin alphabet for legislative and official acts in October 1995, according to which the Ukrainian name Київ is romanized as *Kyiv*. These rules are applied for place names and addresses, as well as personal names in passports, street signs, and so on.
+After Ukraine's 1991 independence, the Ukrainian government introduced the national rules for transliteration of geographic names into the Latin alphabet for legislative and official acts in October 1995, according to which the Ukrainian name Київ is romanized as _Kyiv_. These rules are applied for place names and addresses, as well as personal names in passports, street signs, and so on.
 
 In 2018, the Ukrainian Foreign Ministry launched #CorrectUA, an online campaign to promote the use of official Ukrainian spellings by countries and organizations, in place of "outdated, Soviet-era" place-names. Specifically, for the capital, the campaign KyivNotKiev was developed as part of the broader campaign.
 
-The place name *Kyiv* is standardized in the authoritative database of Ukraine's toponyms maintained by Ukraine's mapping agency Derzhheokadastr. It has also been adopted by the United Nations GEGN Geographical Names Database, the United States Board on Geographic Names,   the International Air Transport Association, the European Union, English-speaking foreign diplomatic missions and governments, Public-facing government websites of major English-speaking states use *Kyiv*, including in the United Kingdom, United States , Canada , Australia , New Zealand , Ireland , and Malta. several international organizations, and the *Encyclopædia Britannica*. Some English-language news sources have adopted Kyiv in their style guides, including the AP, CP, Reuters,  and AFP news services, media organizations in Ukraine, and some media organizations in Canada,  the United Kingdom,   and the United States,   despite more resistance to the spelling change compared to others, like *Beijing* and *Mumbai*.
+The place name _Kyiv_ is standardized in the authoritative database of Ukraine's toponyms maintained by Ukraine's mapping agency Derzhheokadastr. It has also been adopted by the United Nations GEGN Geographical Names Database, the United States Board on Geographic Names, the International Air Transport Association, the European Union, English-speaking foreign diplomatic missions and governments, Public-facing government websites of major English-speaking states use _Kyiv_, including in the United Kingdom, United States , Canada , Australia , New Zealand , Ireland , and Malta. several international organizations, and the _Encyclopædia Britannica_. Some English-language news sources have adopted Kyiv in their style guides, including the AP, CP, Reuters, and AFP news services, media organizations in Ukraine, and some media organizations in Canada, the United Kingdom, and the United States, despite more resistance to the spelling change compared to others, like _Beijing_ and _Mumbai_.
 
-Alternative romanizations used in English-language sources include *Kyïv* (according to the ALA–LC romanization used in bibliographic cataloguing), *Kyjiv* (scholarly transliteration used in linguistics), and *Kyyiv* (the 1965 BGN/PCGN transliteration standard).
+Alternative romanizations used in English-language sources include _Kyïv_ (according to the ALA–LC romanization used in bibliographic cataloguing), _Kyjiv_ (scholarly transliteration used in linguistics), and _Kyyiv_ (the 1965 BGN/PCGN transliteration standard).
 
-The US media organization NPR adopted an on-air pronunciation of *Kyiv* closer to the Ukrainian, responding to the history and identity of the local population, in January 2022.
+The US media organization NPR adopted an on-air pronunciation of _Kyiv_ closer to the Ukrainian, responding to the history and identity of the local population, in January 2022.
 
 ## History
+
 ![Kyi, Czech, Khoryv and Lubed in der Radziwiłłchronik](https://wikipedia.org/wiki/Special:Redirect/file/Kyi%2C_Czech%2C_Khoryv_and_Lubed_in_der_Radziwi%C5%82%C5%82chronik.jpg?)
-![Pál Vágó (1853-1928) painter The Hungarian at Kiev (1896-99)](https://wikipedia.org/wiki/Special:Redirect/file/P%C3%A1l_V%C3%A1g%C3%B3_(1853-1928)_painter_The_Hungarian_at_Kiev_(1896-99).jpg?)
+![Pál Vágó (1853-1928) painter The Hungarian at Kiev (1896-99)](<https://wikipedia.org/wiki/Special:Redirect/file/P%C3%A1l_V%C3%A1g%C3%B3_(1853-1928)_painter_The_Hungarian_at_Kiev_(1896-99).jpg?>)
 ![Lebedev baptism](https://wikipedia.org/wiki/Special:Redirect/file/Lebedev_baptism.jpg?)
 ![Старий Київ](https://wikipedia.org/wiki/Special:Redirect/file/%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D0%B9_%D0%9A%D0%B8%D1%97%D0%B2.jpg?)
 ![Pic I V Ivasiuk Mykola Bohdan Khmelnytskys Entry to Kyiv](https://wikipedia.org/wiki/Special:Redirect/file/Pic_I_V_Ivasiuk_Mykola_Bohdan_Khmelnytskys_Entry_to_Kyiv.jpg?)
@@ -335,15 +338,13 @@ The first known humans in the region of Kyiv lived there in the late paleolithic
 
 Scholars continue to debate when the city was founded: the traditional founding date is 482 AD, so the city celebrated its 1,500th anniversary in 1982. Archaeological data indicates a founding in the sixth or seventh centuries, with some researchers dating the founding as late as the late 9th century,
 
-There are several legendary accounts of the origin of the city. One tells of members of a Slavic tribe (Eastern Polans), brothers Kyi (the eldest, after whom the city was named) Shchek and Khoryv, and their sister Lybid, who founded the city (See the *Primary Chronicle*). Another legend states that Saint Andrew passed through the area in the 1st century. Where the city is now he erected a cross, where a church later was built. Since the Middle Ages an image of Saint Michael has represented the city as well as the duchy.
-
-
+There are several legendary accounts of the origin of the city. One tells of members of a Slavic tribe (Eastern Polans), brothers Kyi (the eldest, after whom the city was named) Shchek and Khoryv, and their sister Lybid, who founded the city (See the _Primary Chronicle_). Another legend states that Saint Andrew passed through the area in the 1st century. Where the city is now he erected a cross, where a church later was built. Since the Middle Ages an image of Saint Michael has represented the city as well as the duchy.
 
 There is little historical evidence pertaining to the period when the city was founded. Scattered Slavic settlements existed in the area from the 6th century, but it is unclear whether any of them later developed into the city. On the Ptolemy world map there are several settlements indicated along the mid-stream of Borysthenes, among which is Azagarium, which some historians believe to be the predecessor to Kyiv.
 
-However, according to the 1773 *Dictionary of Ancient Geography* of Alexander Macbean, that settlement corresponds to the modern city of Chernobyl. Just south of Azagarium, there is another settlement, Amadoca, which is supposed as the capital of Amadoci people living in area between marshes of Amadoca in the west and Amadoca mountains in the east.
+However, according to the 1773 _Dictionary of Ancient Geography_ of Alexander Macbean, that settlement corresponds to the modern city of Chernobyl. Just south of Azagarium, there is another settlement, Amadoca, which is supposed as the capital of Amadoci people living in area between marshes of Amadoca in the west and Amadoca mountains in the east.
 
-Another name for Kyiv mentioned in history, the origin of which is not completely clear, is Sambat, which apparently has something to do with the Khazar Empire. The *Primary Chronicle* says the residents of Kyiv told Askold "there were three brothers Kyi, Shchek, and Khoriv. They founded this town and died, and now we are staying and paying taxes to their relatives the Khazars". In his book De Administrando Imperio, Constantine Porphyrogenitus mentions a caravan of small-cargo boats which assembled annually, and writes, "They come down the river Dnieper and assemble at the strong-point of Kyiv (Kioava), also called Sambatas".
+Another name for Kyiv mentioned in history, the origin of which is not completely clear, is Sambat, which apparently has something to do with the Khazar Empire. The _Primary Chronicle_ says the residents of Kyiv told Askold "there were three brothers Kyi, Shchek, and Khoriv. They founded this town and died, and now we are staying and paying taxes to their relatives the Khazars". In his book De Administrando Imperio, Constantine Porphyrogenitus mentions a caravan of small-cargo boats which assembled annually, and writes, "They come down the river Dnieper and assemble at the strong-point of Kyiv (Kioava), also called Sambatas".
 
 At least three Arabic-speaking 10th century geographers who traveled the area mention the city of Zānbat as the chief city of the Russes. Among them are Ahmad ibn Rustah, Abu Sa'id Gardezi, and an author of the Hudud al-'Alam. The texts of those authors were discovered by Russian orientalist Alexander Tumansky. The etymology of Sambat has been argued by many historians, including Grigoriy Ilyinsky, Nikolay Karamzin, Jan Potocki, Nikolay Lambin, Joachim Lelewel, Guðbrandur Vigfússon.
 
@@ -355,7 +356,7 @@ According to the aforementioned scholars the building of the fortress of Kyiv wa
 
 The city of Kyiv stood on the trade route between the Varangians and the Greeks. In 968 the nomadic Pechenegs attacked and then besieged the city. By 1000 AD the city had a population of 45,000.
 
-In March 1169, Grand Prince Andrey Bogolyubsky of Vladimir-Suzdal sacked Kyiv, leaving the old town and the prince's hall in ruins. He took many pieces of religious artwork - including the *Theotokos of Vladimir* icon - from nearby Vyshhorod. In 1203, Prince Rurik Rostislavich and his Kipchak allies captured and burned Kyiv. In the 1230s, the city was besieged and ravaged several times by different Rus princes. The city had not recovered from these attacks when, in 1240, the Mongol invasion of Rus', led by Batu Khan, completed the destruction of Kyiv.
+In March 1169, Grand Prince Andrey Bogolyubsky of Vladimir-Suzdal sacked Kyiv, leaving the old town and the prince's hall in ruins. He took many pieces of religious artwork - including the _Theotokos of Vladimir_ icon - from nearby Vyshhorod. In 1203, Prince Rurik Rostislavich and his Kipchak allies captured and burned Kyiv. In the 1230s, the city was besieged and ravaged several times by different Rus princes. The city had not recovered from these attacks when, in 1240, the Mongol invasion of Rus', led by Batu Khan, completed the destruction of Kyiv.
 
 These events had a profound effect on the future of the city and on the East Slavic civilization. Before Bogolyubsky's pillaging, Kyiv had had a reputation as one of the largest cities in the world, with a population exceeding 100,000 in the beginning of the 12th century.
 
@@ -364,8 +365,6 @@ In the early 1320s, a Lithuanian army led by Grand Duke Gediminas defeated a Sla
 With the 1569 (Union of Lublin), when the Polish–Lithuanian Commonwealth was established, the Lithuanian-controlled lands of the Kyiv region (Podolia, Volhynia, and Podlachia) were transferred from the Grand Duchy of Lithuania to the Crown of the Kingdom of Poland, and Kyiv became the capital of Kyiv Voivodeship. The 1658 Treaty of Hadiach envisaged Kyiv becoming the capital of the Grand Duchy of Rus' within the Polish–Lithuanian–Ruthenian Commonwealth, but this provision of the treaty never went into operation.
 
 Occupied by Russian troops since the 1654 Treaty of Pereyaslav, Kyiv became a part of the Tsardom of Russia from 1667 on the Truce of Andrusovo and enjoyed a degree of autonomy. None of the Polish-Russian treaties concerning Kyiv have ever been ratified. In the Russian Empire, Kyiv was a primary Christian centre, attracting pilgrims, and the cradle of many of the empire's most important religious figures, but until the 19th century, the city's commercial importance remained marginal.
-
-
 
 In 1834, the Russian government established Saint Vladimir University, now called the Taras Shevchenko National University of Kyiv after the Ukrainian poet Taras Shevchenko (1814–1861). (Shevchenko worked as a field researcher and editor for the geography department). The medical faculty of Saint Vladimir University, separated into an independent institution in 1919–1921 during the Soviet period, became the Bogomolets National Medical University in 1995.
 
@@ -385,22 +384,20 @@ In World War II, the city again suffered significant damage, and Nazi Germany oc
 
 Allegedly in response to the actions of the NKVD, the Germans rounded up all the local Jews they could find, nearly 34,000, and massacred them at Babi Yar in Kyiv on 29 and 30 September 1941. In the months that followed, thousands more were taken to Babi Yar where they were shot. It is estimated that the Germans murdered more than 100,000 people of various ethnic groups, mostly civilians, at Babi Yar during World War II.
 
-
-
 Kyiv recovered economically in the post-war years, becoming once again the third-most important city of the Soviet Union. The catastrophic accident at the Chernobyl Nuclear Power Plant in 1986 occurred only 100 km north of the city. However, the prevailing south wind blew most of the radioactive debris away from Kyiv.
 
 In the course of the collapse of the Soviet Union the Ukrainian parliament proclaimed the Declaration of Independence of Ukraine in the city on 24 August 1991. In 2004–2005, the city played host to the largest post-Soviet public demonstrations up to that time, in support of the Orange Revolution. From November 2013 until February 2014, central Kyiv became the primary location of Euromaidan.
 
 ## Environment
 
-
 ### Geography
-![Kyiv, Ukraine ESA22370890 (cropped)](https://wikipedia.org/wiki/Special:Redirect/file/Kyiv%2C_Ukraine_ESA22370890_(cropped).jpeg?)
+
+![Kyiv, Ukraine ESA22370890 (cropped)](<https://wikipedia.org/wiki/Special:Redirect/file/Kyiv%2C_Ukraine_ESA22370890_(cropped).jpeg?>)
 Geographically, Kyiv is located on the border of the Polesia woodland ecological zone, a part of the European mixed woods area, and the East European forest steppe biome. However, the city's unique landscape distinguishes it from the surrounding region. Kyiv is completely surrounded by Kyiv Oblast.
 
 Originally on the west bank, today Kyiv is located on both sides of the Dnieper, which flows southwards through the city towards the Black Sea. The older and higher western part of the city sits on numerous wooded hills (Kyiv Hills), with ravines and small rivers. Kyiv's geographical relief contributed to its toponyms, such as Podil (means lower), Pechersk (caves), and uzviz (a steep street, "descent"). Kyiv is a part of the larger Dnieper Upland adjoining the western bank of the Dnieper in its mid-flow, and which contributes to the city's elevation change.
 
-The northern outskirts of the city border the Polesian Lowland. Kyiv expanded into the Dnieper Lowland on the left bank (*to the east*) as late as the 20th century. The whole portion of Kyiv on the left bank of the Dnieper is generally referred to as *Left bank* (Лівий берег, Livyi bereh). Significant areas of the left bank Dnieper valley were artificially sand-deposited, and are protected by dams.
+The northern outskirts of the city border the Polesian Lowland. Kyiv expanded into the Dnieper Lowland on the left bank (_to the east_) as late as the 20th century. The whole portion of Kyiv on the left bank of the Dnieper is generally referred to as _Left bank_ (Лівий берег, Livyi bereh). Significant areas of the left bank Dnieper valley were artificially sand-deposited, and are protected by dams.
 
 Within the city the Dnieper River forms a branching system of tributaries, isles, and harbors within the city limits. The city is close to the mouth of the Desna River and the Kyiv Reservoir in the north, and the Kaniv Reservoir in the south. Both the Dnieper and Desna rivers are navigable at Kyiv, although regulated by the reservoir shipping locks and limited by winter freeze-over.
 
@@ -409,14 +406,15 @@ In total, there are 448 bodies of open water within the boundaries of Kyiv, whic
 According to the UN 2011 evaluation, there were no risks of natural disasters in Kyiv and its metropolitan area.
 
 ### Climate
-Kyiv has a warm-summer humid continental climate (Köppen *Dfb*). The warmest months are June, July, and August, with mean temperatures of 13.8 to 24.8 C. The coldest are December, January, and February, with mean temperatures of -4.6 to -1.1 C. The highest ever temperature recorded in the city was 39.4 °C on 30 July 1936.
+
+Kyiv has a warm-summer humid continental climate (Köppen _Dfb_). The warmest months are June, July, and August, with mean temperatures of 13.8 to 24.8 C. The coldest are December, January, and February, with mean temperatures of -4.6 to -1.1 C. The highest ever temperature recorded in the city was 39.4 °C on 30 July 1936.
 
 The coldest temperature ever recorded in the city was -32.9 °C on 11 January 1951. Snow cover usually lies from mid-November to the end of March, with the frost-free period lasting 180 days on average, but surpassing 200 days in some years.
 
 ## Legal status, local government and politics
 
-
 ### Legal status and local government
+
 The municipality of the city of Kyiv has a special legal status within Ukraine compared to the other administrative subdivisions of the country. The most significant difference is that the city is considered as a region of Ukraine (see Regions of Ukraine). It is the only city that has double jurisdiction. The Head of City State Administration – the city's governor – is appointed by the president of Ukraine, while the Head of the City Council – the mayor of Kyiv – is elected by local popular vote.
 
 The mayor of Kyiv is Vitali Klitschko, who was sworn in on 5 June 2014, after he had won the 25 May 2014 Kyiv mayoral elections with almost 57% of the votes. Since 25 June 2014, Klitschko is also Head of Kyiv City Administration. Klitschko was last reelected in the 2020 Kyiv local election with 50.52% of the votes, in the first round of the election.
@@ -426,19 +424,22 @@ Most key buildings of the national government are located along Hrushevskoho Str
 The city state administration and council is located in the Kyiv City council building on Khreshchatyk Street. The oblast state administration and council is located in the Kyiv Oblast council building on ploshcha Lesi Ukrayinky (Lesya Ukrayinka Square). The Kyiv-Sviatoshyn Raion state administration is located near Kiltseva doroha (Ring Road) on prospekt Peremohy (Victory Parkway), while the Kyiv-Sviatoshyn Raion local council is located on vulytsia Yantarna (Yantarnaya Street).
 
 ### Politics
-The growing political and economic role of the city, combined with its international relations, as well as extensive internet and social network penetration, have made Kyiv the most pro-Western and pro-democracy region of Ukraine; (so called) National Democratic parties advocating tighter integration with the European Union receive most votes during elections in Kyiv. Interactive parliamentary election 2012 result maps by Ukrayinska Pravda Election results in Ukraine since 1998, Central Election Commission of Ukraine Nations and Nationalism: A Global Historical Overview, ABC-CLIO, 2008, ISBN: 1851099077 (page 1629) Ukraine on its Meandering Path Between East and West by Andrej Lushnycky and Mykola Riabchuk, Peter Lang, 2009, ISBN: 303911607X  (page 122) After the parliamentary elections in Ukraine: a tough victory for the Party of Regions, Centre for Eastern Studies (7 November 2012) Communist and Post-Communist Parties in Europe by Uwe Backes and Patrick Moreau, Vandenhoeck & Ruprecht, 2008, ISBN: 978-3-525-36912-8 (page 396) Party of Regions gets 185 seats in Ukrainian parliament, Batkivschyna 101 – CEC, Interfax-Ukraine (12 November 2012) UDAR submits to Rada resolution on Ukraine's integration with EU, Interfax-Ukraine (8 January 2013) [http://www.ucipr.kiev.ua/publications/electronic-bulletin-your-choice-2012-issue-4-batkivshchyna/lang/en Electronic Bulletin "Your Choice – 2012". Issue 4: Batkivshchyna], Ukrainian Center for Independent Political Research (24 October 2012) [http://www.geopolitika.lt/?artc=4429 Ukraine's Party System in Transition? The Rise of the Radically Right-Wing All-Ukrainian Association "Svoboda"] by Andreas Umland, Centre for Geopolitical Studies (1 May 2011) In a poll conducted by the Kyiv International Institute of Sociology in the first half of February 2014, 5.3% of those polled in Kyiv believed "Ukraine and Russia must unite into a single state", nationwide this percentage was 12.5.
+
+The growing political and economic role of the city, combined with its international relations, as well as extensive internet and social network penetration, have made Kyiv the most pro-Western and pro-democracy region of Ukraine; (so called) National Democratic parties advocating tighter integration with the European Union receive most votes during elections in Kyiv. Interactive parliamentary election 2012 result maps by Ukrayinska Pravda Election results in Ukraine since 1998, Central Election Commission of Ukraine Nations and Nationalism: A Global Historical Overview, ABC-CLIO, 2008, ISBN: 1851099077 (page 1629) Ukraine on its Meandering Path Between East and West by Andrej Lushnycky and Mykola Riabchuk, Peter Lang, 2009, ISBN: 303911607X (page 122) After the parliamentary elections in Ukraine: a tough victory for the Party of Regions, Centre for Eastern Studies (7 November 2012) Communist and Post-Communist Parties in Europe by Uwe Backes and Patrick Moreau, Vandenhoeck & Ruprecht, 2008, ISBN: 978-3-525-36912-8 (page 396) Party of Regions gets 185 seats in Ukrainian parliament, Batkivschyna 101 – CEC, Interfax-Ukraine (12 November 2012) UDAR submits to Rada resolution on Ukraine's integration with EU, Interfax-Ukraine (8 January 2013) [http://www.ucipr.kiev.ua/publications/electronic-bulletin-your-choice-2012-issue-4-batkivshchyna/lang/en Electronic Bulletin "Your Choice – 2012". Issue 4: Batkivshchyna], Ukrainian Center for Independent Political Research (24 October 2012) [http://www.geopolitika.lt/?artc=4429 Ukraine's Party System in Transition? The Rise of the Radically Right-Wing All-Ukrainian Association "Svoboda"] by Andreas Umland, Centre for Geopolitical Studies (1 May 2011) In a poll conducted by the Kyiv International Institute of Sociology in the first half of February 2014, 5.3% of those polled in Kyiv believed "Ukraine and Russia must unite into a single state", nationwide this percentage was 12.5.
 
 ### Subdivisions
+
 ![View to Kiev](https://wikipedia.org/wiki/Special:Redirect/file/View_to_Kiev.jpg?)
 
-
 #### Traditional subdivision
+
 ![2018-07-15 Dniprovska Embankment, Berezniaky, Kyiv 2](https://wikipedia.org/wiki/Special:Redirect/file/2018-07-15_Dniprovska_Embankment%2C_Berezniaky%2C_Kyiv_2.jpg?)
 The Dnieper River naturally divides Kyiv into the Right Bank and the Left Bank areas. Historically located on the western right bank of the river, the city expanded into the left bank only in the 20th century. Most of Kyiv's attractions as well as the majority of business and governmental institutions are located on the right bank. The eastern "Left Bank" is predominantly residential. There are large industrial and green areas in both the Right Bank and the Left Bank.
 
 Kyiv is further informally divided into historical or territorial neighbourhoods, each housing from about 5,000 to 100,000 inhabitants.
 
 #### Formal subdivision
+
 Адміністративний поділ Києва.gif: Г – Holosiiv Raion
 
 О – Obolon Raion
@@ -459,7 +460,7 @@ Kyiv is further informally divided into historical or territorial neighbourhoods
 
 Дн – Dnipro Raion]]
 
-The first known formal subdivision of Kyiv dates to 1810 when the city was subdivided into 4 parts: Pechersk, Starokyiv, and the first and the second parts of Podil. In 1833–1834 according to Tsar Nicholas I's decree, Kyiv was subdivided into 6 police raions (districts); later being increased to 10. In 1917, there were 8 Raion Councils (*Duma*), which were reorganised by bolsheviks into 6 Party-Territory Raions.
+The first known formal subdivision of Kyiv dates to 1810 when the city was subdivided into 4 parts: Pechersk, Starokyiv, and the first and the second parts of Podil. In 1833–1834 according to Tsar Nicholas I's decree, Kyiv was subdivided into 6 police raions (districts); later being increased to 10. In 1917, there were 8 Raion Councils (_Duma_), which were reorganised by bolsheviks into 6 Party-Territory Raions.
 
 During the Soviet era, as the city was expanding, the number of raions also gradually increased. These newer districts of the city, along with some older areas were then named in honour of prominent communists and socialist-revolutionary figures; however, due to the way in which many communist party members eventually, after a certain period of time, fell out of favour and so were replaced with new, fresher minds, so too did the names of Kyiv's districts change accordingly.
 
@@ -470,19 +471,23 @@ Under Oleksandr Omelchenko (mayor from 1999 to 2006), there were further plans f
 Each raion has its own locally elected council with jurisdiction over a limited scope of affairs.
 
 ## Demographics
+
 According to the official registration statistics, there were 2,847,200 residents within the city limits of Kyiv in July 2013.
 
 ### Historical population
+
 According to the All-Ukrainian Census, the population of Kyiv in 2001 was 2,611,300. The historic changes in population are shown in the side table. According to the census, some 1,393,000 (53.3%) were female and 1,219,000 (46.7%) were male. Comparing the results with the previous census (1989) shows the trend of population ageing which, while prevalent throughout the country, is partly offset in Kyiv by the inflow of working age migrants. Some 1,069,700 people had higher or completed secondary education, a significant increase of 21.7% since 1989.
 
 The June 2007 unofficial population estimate based on amount of bakery products sold in the city (thus including temporary visitors and commuters) gave a number of at least 3.5 million people.
 
 ### Ethnic composition
+
 According to the 2001 census data, more than 130 nationalities and ethnic groups reside within the territory of Kyiv. Ukrainians constitute the largest ethnic group in Kyiv, and they account for 2,110,800 people, or 82.2% of the population. Russians comprise 337,300 (13.1%), Jews 17,900 (0.7%), Belarusians 16,500 (0.6%), Poles 6,900 (0.3%), Armenians 4,900 (0.2%), Azerbaijanis 2,600 (0.1%), Tatars 2,500 (0.1%), Georgians 2,400 (0.1%), Moldovans 1,900 (0.1%).
 
 A 2015 study by the International Republican Institute found that 94% of Kyiv was ethnic Ukrainian, and 5% ethnic Russian. Most of the city's non-Slav population comprises Tatars, Caucasians and other people from the former Soviet Union.
 
 ### Language statistics
+
 Both Ukrainian and Russian are commonly spoken in the city; approximately 75% of Kyiv's population responded "Ukrainian" to the 2001 census question on their native language, roughly 25% responded "Russian". According to a 2006 survey, Ukrainian is used at home by 23% of Kyivans, 52% use Russian, and 24% switch between both. In the 2003 sociological survey, when the question "What language do you use in everyday life?" was asked, 52% said "mostly Russian", 32% "both Russian and Ukrainian in equal measure", 14% "mostly Ukrainian", and 4.3% "exclusively Ukrainian".
 
 According to the census of 1897, of Kyiv's approximately 240,000 people approximately 56% of the population spoke the Russian language, 23% spoke the Ukrainian language, 13% spoke Yiddish, 7% spoke Polish and 1% spoke the Belarusian language.
@@ -490,11 +495,13 @@ According to the census of 1897, of Kyiv's approximately 240,000 people approxim
 A 2015 study by the International Republican Institute found that the languages spoken at home in Kyiv were Ukrainian (27%), Russian (32%), and an equal combination of Ukrainian and Russian (40%).
 
 ### Jews
+
 The Jews of Kyiv are first mentioned in a 10th-century letter. The Jewish population remained relatively small until the nineteenth century. A series of pogroms was carried out in 1882, and another in 1905. On the eve of World War I, the city's Jewish population was over 81,000. In 1939 there were approximately 224,000 Jews in Kyiv, some of whom fled the city ahead of the German invasion of the Soviet Union that began in June 1941. On 29 and 30 September 1941, nearly 34,000 Kyivan Jews were massacred at Babi Yar by the German Wehrmacht, SS, Ukrainian Auxiliary Police, and local collaborators.
 
 Jews began returning to Kyiv at the end of the war, but experienced another pogrom in September 1945. In the 21st century, Kyiv's Jewish community numbers about 20,000. There are two major synagogues in the city: the Great Choral Synagogue and the Brodsky Choral Synagogue.
 
 ## Cityscape
+
 Modern Kyiv is a mix of the old (Kyiv preserved about 70 percent of more than 1,000 buildings built during 1907–1914) and the new, seen in everything from the architecture to the stores and to the people themselves. When the capital of the Ukrainian SSR was moved from Kharkiv to Kyiv many new buildings were commissioned to give the city "the gloss and polish of a capital". In the discussions that centered on how to create a showcase city center, the current city center of Khreshchatyk and Maidan Nezalezhnosti (Independence Square) were not the obvious choices. Some of the early, ultimately not materialised, ideas included a part of Pechersk, Lypky, European Square and Mykhailivska Square.
 
 The plans of building massive monuments (of Vladimir Lenin and Joseph Stalin) were also abandoned, due to lack of money (in the 1930s–1950s) and because of Kyiv's hilly landscape. Experiencing rapid population growth between the 1970s and the mid-1990s, the city has continued its consistent growth after the turn of the millennium. As a result, Kyiv's central districts provide a dotted contrast of new, modern buildings among the pale yellows, blues and greys of older apartments. Urban sprawl has gradually reduced, while population densities of suburbs has increased. The most expensive properties are located in the Pechersk, and Khreshchatyk areas. It is also prestigious to own a property in newly constructed buildings in the Kharkivskyi Raion or Obolon along the Dnieper.
@@ -510,10 +517,10 @@ One of Kyiv's widely recognized modern landmarks is the highly visible giant Mot
 Among Kyiv's best-known monuments are Mikhail Mikeshin's statue of Bohdan Khmelnytsky astride his horse located near St. Sophia Cathedral, the venerated Vladimir the Great (St. Vladimir), the baptizer of Rus', overlooking the river above Podil from Saint Vladimir Hill, the monument to Kyi, Shchek and Khoryv and Lybid, the legendary founders of the city located at the Dnieper embankment. On Independence Square in the city centre, two monuments elevate two of the city protectors; the historic protector of Kyiv Michael Archangel atop a reconstruction of one of the old city's gates and a modern invention, the goddess-protector Berehynia atop a tall column.
 
 ## Culture
-![Kiev Opera](https://wikipedia.org/wiki/Special:Redirect/file/Kiev_Opera.jpg?)
-![Kiev Academic Puppet Theatre (6)](https://wikipedia.org/wiki/Special:Redirect/file/Kiev_Academic_Puppet_Theatre_(6).jpg?)
-![Esc 2005 concert on maidan](https://wikipedia.org/wiki/Special:Redirect/file/Esc_2005_concert_on_maidan.jpg?)
 
+![Kiev Opera](https://wikipedia.org/wiki/Special:Redirect/file/Kiev_Opera.jpg?)
+![Kiev Academic Puppet Theatre (6)](<https://wikipedia.org/wiki/Special:Redirect/file/Kiev_Academic_Puppet_Theatre_(6).jpg?>)
+![Esc 2005 concert on maidan](https://wikipedia.org/wiki/Special:Redirect/file/Esc_2005_concert_on_maidan.jpg?)
 
 Kyiv was the historic cultural centre of the East Slavic civilization and a major cradle for the Christianization of Kyivan Rus. Kyiv retained through centuries its cultural importance and even at times of relative decay, it remained the centre of primary importance of Eastern Orthodox Christianity. Its sacred sites, which include the Kyiv Pechersk Lavra (the Monastery of the Caves) and the Saint Sophia Cathedral are probably the most famous, attracted pilgrims for centuries and now recognized as a UNESCO World Heritage Site remain the primary religious centres as well as the major tourist attraction. The above-mentioned sites are also part of the Seven Wonders of Ukraine collection.
 
@@ -526,31 +533,34 @@ In 2005, Kyiv hosted the 50th annual Eurovision Song Contest and in 2017 the 62n
 Numerous songs and paintings were dedicated to the city. Some songs became part of Russian, Ukrainian and Jewish folklore. The most popular songs are "How not to love you, Kyiv of mine?" and "Kyiv Waltz". Renowned Ukrainian composer Oleksandr Bilash wrote an operetta called "Legend of Kyiv".
 
 ### Attractions
-![Vydubychi Monastery 2008(Kiev)](https://wikipedia.org/wiki/Special:Redirect/file/Vydubychi_Monastery_2008(Kiev).JPG?)
+
+![Vydubychi Monastery 2008(Kiev)](<https://wikipedia.org/wiki/Special:Redirect/file/Vydubychi_Monastery_2008(Kiev).JPG?>)
 It is said that one can walk from one end of Kyiv to the other in the summertime without leaving the shade of its many trees. Most characteristic are the horse-chestnuts (каштани, kashtany).
 
 Kyiv is known as a green city with two botanical gardens and numerous large and small parks. The National Museum of the History of Ukraine in the Second World War is located here, which offers both indoor and outdoor displays of military history and equipment surrounded by verdant hills overlooking the Dnieper river.
 
-Among the numerous islands, Venetsianskyi (or Hydropark) is the most developed. It is accessible by metro or by car, and includes an amusement park, swimming beaches, boat rentals, and night clubs. The Victory Park (*Park Peremohy*) located near Darnytsia subway station is a popular destination for strollers, joggers, and cyclists. Boating, fishing, and water sports are popular pastimes in Kyiv. The area lakes and rivers freeze over in the winter and ice fishermen are a frequent sight, as are children with their ice skates. However, the peak of summer draws out a greater mass of people to the shores for swimming or sunbathing, with daytime high temperatures sometimes reaching 30 to 34 C.
+Among the numerous islands, Venetsianskyi (or Hydropark) is the most developed. It is accessible by metro or by car, and includes an amusement park, swimming beaches, boat rentals, and night clubs. The Victory Park (_Park Peremohy_) located near Darnytsia subway station is a popular destination for strollers, joggers, and cyclists. Boating, fishing, and water sports are popular pastimes in Kyiv. The area lakes and rivers freeze over in the winter and ice fishermen are a frequent sight, as are children with their ice skates. However, the peak of summer draws out a greater mass of people to the shores for swimming or sunbathing, with daytime high temperatures sometimes reaching 30 to 34 C.
 
-The centre of Kyiv (Independence Square and Khreschatyk Street) becomes a large outdoor party place at night during summer months, with thousands of people having a good time in nearby restaurants, clubs and outdoor cafes. The central streets are closed for auto traffic on weekends and holidays. Andriyivskyy Descent is one of the best known historic streets and a major tourist attraction in Kyiv. The hill is the site of the Castle of Richard the Lionheart; the baroque-style St Andrew's Church; the home of Kyiv born writer, Mikhail Bulgakov; the *monument to Yaroslav the Wise*, the Grand Prince of Kyiv and of Novgorod; and numerous other monuments.
+The centre of Kyiv (Independence Square and Khreschatyk Street) becomes a large outdoor party place at night during summer months, with thousands of people having a good time in nearby restaurants, clubs and outdoor cafes. The central streets are closed for auto traffic on weekends and holidays. Andriyivskyy Descent is one of the best known historic streets and a major tourist attraction in Kyiv. The hill is the site of the Castle of Richard the Lionheart; the baroque-style St Andrew's Church; the home of Kyiv born writer, Mikhail Bulgakov; the _monument to Yaroslav the Wise_, the Grand Prince of Kyiv and of Novgorod; and numerous other monuments.
 
-A wide variety of farm produce is available in many of Kyiv's farmer markets with the Besarabsky Market located in the very centre of the city being most famous. Each residential region has its own market, or *rynok*. Here one will find table after table of individuals hawking everything imaginable: vegetables, fresh and smoked meats, fish, cheese, honey, dairy products such as milk and home-made *smetana* (sour cream), caviar, cut flowers, housewares, tools and hardware, and clothing. Each of the markets has its own unique mix of products with some markets devoted solely to specific wares such as automobiles, car parts, pets, clothing, flowers, and other things.
+A wide variety of farm produce is available in many of Kyiv's farmer markets with the Besarabsky Market located in the very centre of the city being most famous. Each residential region has its own market, or _rynok_. Here one will find table after table of individuals hawking everything imaginable: vegetables, fresh and smoked meats, fish, cheese, honey, dairy products such as milk and home-made _smetana_ (sour cream), caviar, cut flowers, housewares, tools and hardware, and clothing. Each of the markets has its own unique mix of products with some markets devoted solely to specific wares such as automobiles, car parts, pets, clothing, flowers, and other things.
 
 At the city's southern outskirts, near the historic Pyrohiv village, there is an outdoor museum, officially called the Museum of Folk Architecture and Life of Ukraine It has an area of 1.5 km2. This territory houses several "mini-villages" that represent by region the traditional rural architecture of Ukraine.
 
 Kyiv also has numerous recreational attractions like bowling alleys, go-cart tracks, paintball venues, billiard halls and even shooting ranges. The 100-year-old Kyiv Zoo is located on 40 hectares and according to CBC "the zoo has 2,600 animals from 328 species".
 
 ### Museums and galleries
+
 ![Будинок Київської художньої школи](https://wikipedia.org/wiki/Special:Redirect/file/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D1%8C%D0%BE%D1%97_%D1%88%D0%BA%D0%BE%D0%BB%D0%B8.jpg?)
 Kyiv is home to some 40 different museums. In 2009 they recorded a total of 4.3 million visits.
 
 The National Museum of the History of Ukraine in the Second World War is a memorial complex commemorating the Eastern Front of World War II located in the hills on the right-bank of the Dnieper River in Pechersk. Kyiv fortress is the 19th-century fortification buildings situated in Ukrainian capital Kyiv, that once belonged to western Russian fortresses. These structures (once a united complex) were built in the Pechersk and neighbourhoods by the Russian army.
 
-Some of the buildings are restored and turned into a museum called the *Kyiv Fortress*, while others are in use in various military and commercial installations. The National Art Museum of Ukraine is a museum dedicated to Ukrainian art. The Golden Gate is a historic gateway in the ancient city's walls. The name *Zoloti Vorota* is also used for a nearby theatre and a station of the Kyiv Metro. The small Ukrainian National Chernobyl Museum acts as both a memorial and historical center devoted to the events surrounding the 1986 Chernobyl disaster and its effect on the Ukrainian people, the environment, and subsequent attitudes toward the safety of nuclear power as a whole.
+Some of the buildings are restored and turned into a museum called the _Kyiv Fortress_, while others are in use in various military and commercial installations. The National Art Museum of Ukraine is a museum dedicated to Ukrainian art. The Golden Gate is a historic gateway in the ancient city's walls. The name _Zoloti Vorota_ is also used for a nearby theatre and a station of the Kyiv Metro. The small Ukrainian National Chernobyl Museum acts as both a memorial and historical center devoted to the events surrounding the 1986 Chernobyl disaster and its effect on the Ukrainian people, the environment, and subsequent attitudes toward the safety of nuclear power as a whole.
 
 ### Sports
-![Пробіг під каштанами (2011). Старт.](https://wikipedia.org/wiki/Special:Redirect/file/%D0%9F%D1%80%D0%BE%D0%B1%D1%96%D0%B3_%D0%BF%D1%96%D0%B4_%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D0%B0%D0%BC%D0%B8_(2011)._%D0%A1%D1%82%D0%B0%D1%80%D1%82..jpg?)
+
+![Пробіг під каштанами (2011). Старт.](<https://wikipedia.org/wiki/Special:Redirect/file/%D0%9F%D1%80%D0%BE%D0%B1%D1%96%D0%B3_%D0%BF%D1%96%D0%B4_%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D0%B0%D0%BC%D0%B8_(2011)._%D0%A1%D1%82%D0%B0%D1%80%D1%82..jpg?>)
 Kyiv has many professional and amateur football clubs, including Dynamo Kyiv, Arsenal Kyiv and FC Obolon Kyiv but only Dynamo Kyiv play in the Ukrainian Premier League. Of these three, Dynamo Kyiv has had the most success over the course of its history. For example, up until the collapse of the Soviet Union in 1991, the club won 13 USSR Championships, 9 USSR Cups, and 3 USSR Super Cups, thus making Dynamo the most successful club in the history of the Soviet Top League.
 
 Other prominent non-football sport clubs in the city include: the Sokil Kyiv ice hockey club and BC Budivelnyk basketball club. Both of these teams play in the highest Ukrainian leagues for their respective sports. Budivelnyk was founded in 1945, Sokil was founded in 1963, during the existence of the Soviet Union. Both these teams play their home games at the Kyiv Palace of Sports.
@@ -560,29 +570,33 @@ During the 1980 Summer Olympics held in the Soviet Union, Kyiv held the prelimin
 Most Ukrainian national teams play their home international matches in Kyiv. The Ukraine national football team, for example, will play matches at the re-constructed Olympic Stadium from 2011.
 
 ### Tourism
+
 Since introducing a visa-free regime for EU-member states and Switzerland in 2005, Ukraine has seen a steady increase in the number of foreign tourists visiting the country. Before the 2008–09 recession, the average annual growth in the number of foreign visits in Kyiv was 23% over a three-year period. In 2009, a total of 1.6 million tourists stayed in Kyiv hotels, of whom almost 259,000 (ca. 16%) were foreigners.
 
 After UEFA Euro 2012, the city became the most popular destination for European tourists. A record number of 1.8 million foreign tourists was registered then along with about 2.5 million domestic tourists. More than 850,000 foreign tourists visited Kyiv in the first half of 2018, as compared to 660,000 tourists over the same period in 2013. As of 2018, the hotel occupancy rate from May to September averages 45–50%. Hostels and three-star hotels are approximately 90% full, four-star hotels 65–70%. Six five-star hotels average 50–55% occupancy. Ordinary tourists generally come from May to October, and business tourists from September to May.
 
 ### City anthem
+
 In 2014, the Kyiv city's council established the city's anthem. It became a 1962 song, "Yak tebe ne liubyty, Kyieve mii!" (Як тебе не любити, Києве мій!, roughly "How can I not love you, Kyiv of mine!").
 
 ### City symbols
+
 The horse chestnut tree is one of the symbols of Kyiv. It was heavily present on the city's coat of arms used from 1969 to 1995.
 
 ## Economy
+
 ![Крещатик 38 дробь 2 Киев 2012 01](https://wikipedia.org/wiki/Special:Redirect/file/%D0%9A%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B8%D0%BA_38_%D0%B4%D1%80%D0%BE%D0%B1%D1%8C_2_%D0%9A%D0%B8%D0%B5%D0%B2_2012_01.JPG?)
 
-|      2004      |      2005      |      2006      |      2007      |      2008      |      2009      |      2010      |      2011      |      2012      |      2013      |                |
-|       ---      |       ---      |       ---      |       ---      |       ---      |       ---      |       ---      |       ---      |       ---      |       ---      |       ---      |
-|      61.4      |      77.1      |      95.3      |      135.9     |      169.6     |      169.5     |      196.6     |      223.8     |      275.7     |                | Nominal GRP (UAH bn) |
-|      11.5      |      15.0      |      18.9      |      26.9      |      32.2      |      21.8      |      24.8      |      28.0      |      34.5      |                | Nominal GRP (USD bn)** |
-|      4,348     |      5,616     |      6,972     |      9,860     |     11,693     |      7,841     |      8,875     |     10,007     |     12,192     |     13,687     | Nominal GRP per capita (USD)** |
-|       182      |       259      |       342      |       455      |       584      |       406      |       432      |       504      |       577      |                | Monthly wage (USD)** |
-|       n/a      |       4.6      |       3.8      |       3.3      |       3.3      |       7.1      |       6.4      |       6.1      |       6.0      |       5.7      | Unemployment rate (%)*** |
-|       n/a      |       n/a      |       n/a      |      34.87     |      46.50     |      42.79     |      50.09     |      62.80     |      73.00     |      77.14     | Retail sales (UAH bn) |
-|       n/a      |       n/a      |       n/a      |      6.90      |      8.83      |      5.49      |      6.31      |      7.88      |      9.14      |      9.65      | Retail sales (USD bn) |
-|       2.1      |       3.0      |       4.8      |       7.0      |      11.7      |      16.8      |      19.2      |      21.8      |      24.9      |      27.3      | Foreign direct investment (USD bn) |
+| 2004  | 2005  | 2006  | 2007  | 2008   | 2009  | 2010  | 2011   | 2012   | 2013   |                                    |
+| ----- | ----- | ----- | ----- | ------ | ----- | ----- | ------ | ------ | ------ | ---------------------------------- |
+| 61.4  | 77.1  | 95.3  | 135.9 | 169.6  | 169.5 | 196.6 | 223.8  | 275.7  |        | Nominal GRP (UAH bn)               |
+| 11.5  | 15.0  | 18.9  | 26.9  | 32.2   | 21.8  | 24.8  | 28.0   | 34.5   |        | Nominal GRP (USD bn)\*\*           |
+| 4,348 | 5,616 | 6,972 | 9,860 | 11,693 | 7,841 | 8,875 | 10,007 | 12,192 | 13,687 | Nominal GRP per capita (USD)\*\*   |
+| 182   | 259   | 342   | 455   | 584    | 406   | 432   | 504    | 577    |        | Monthly wage (USD)\*\*             |
+| n/a   | 4.6   | 3.8   | 3.3   | 3.3    | 7.1   | 6.4   | 6.1    | 6.0    | 5.7    | Unemployment rate (%)\*\*\*        |
+| n/a   | n/a   | n/a   | 34.87 | 46.50  | 42.79 | 50.09 | 62.80  | 73.00  | 77.14  | Retail sales (UAH bn)              |
+| n/a   | n/a   | n/a   | 6.90  | 8.83   | 5.49  | 6.31  | 7.88   | 9.14   | 9.65   | Retail sales (USD bn)              |
+| 2.1   | 3.0   | 4.8   | 7.0   | 11.7   | 16.8  | 19.2  | 21.8   | 24.9   | 27.3   | Foreign direct investment (USD bn) |
 
 As with most capital cities, Kyiv is a major administrative, cultural and scientific centre of the country. It is the largest city in Ukraine in terms of both population and area and enjoys the highest levels of business activity. On 1 January 2010, there were around 238,000 business entities registered in Kyiv.
 
@@ -599,42 +613,47 @@ In May 2011, Kyiv authorities presented a 15-year development strategy which cal
 – data not available; – calculated at annual average official exchange rate; – ILO methodology (% of workforce).
 
 ### Industry
+
 Primary industries in Kyiv include utilities – i.e., electricity, gas and water supply (26% of total industrial output), manufacture of food, beverages and tobacco products (22%), chemical (17%), mechanical engineering (13%) and manufacture of paper and paper products, including publishing, printing and reproduction of recorded media (11%). The Institute of Oil Transportation is headquartered here.
 
 ### Manufacture
-![Antonov An-124-100M Ruslan, Antonov Design Bureau AN2177099](https://wikipedia.org/wiki/Special:Redirect/file/Antonov_An-124-100M_Ruslan%2C_Antonov_Design_Bureau_AN2177099.jpg?)
- * Kuznya na Rybalskomu, naval production
- * Antonov Serial Production Plant (former Aviant), airplanes manufacturing
- * Aeros, small aircraft production
- * Kyiv Roshen Factory, confectionery
- * Kyiv Arsenal (former arms manufacturer), specializes in production of optic-precision instruments
- * Obolon, brewery
- * Kyiv Aircraft Repair Plant 410, repair factory located at Zhulyany Airport
 
+![Antonov An-124-100M Ruslan, Antonov Design Bureau AN2177099](https://wikipedia.org/wiki/Special:Redirect/file/Antonov_An-124-100M_Ruslan%2C_Antonov_Design_Bureau_AN2177099.jpg?)
+
+- Kuznya na Rybalskomu, naval production
+- Antonov Serial Production Plant (former Aviant), airplanes manufacturing
+- Aeros, small aircraft production
+- Kyiv Roshen Factory, confectionery
+- Kyiv Arsenal (former arms manufacturer), specializes in production of optic-precision instruments
+- Obolon, brewery
+- Kyiv Aircraft Repair Plant 410, repair factory located at Zhulyany Airport
 
 ## Education and science
 
-
 ### Scientific research
+
 ![Владимирская 54 Киев 2010 01](https://wikipedia.org/wiki/Special:Redirect/file/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_54_%D0%9A%D0%B8%D0%B5%D0%B2_2010_01.JPG?)
 Scientific research is conducted in many institutes of higher education and, additionally, in many research institutes affiliated with the Ukrainian Academy of Sciences. Kyiv is home to Ukraine's ministry of education and science, and is also noted for its contributions to medical and computer science research.
 
 In 2016, UNIT Factory (Ukrainian National IT Factory) opened. It offers a completely new format of IT education. The education is completely free for all trainees subject to compliance with the terms of the program. Within this project are the Technology Companies' Development Center (TCDC), BIONIC University open inter-corporate IT-university, as well as two hi-tech laboratories—VR Lab (Crytek) and Smart City lab.
 
 ### University education
+
 ![Universidad Roja de Kiev](https://wikipedia.org/wiki/Special:Redirect/file/Universidad_Roja_de_Kiev.jpg?)
 Kyiv hosts many universities, the major ones being Kyiv National Taras Shevchenko University, the National Technical University "Kyiv Polytechnic Institute", Kyiv-Mohyla Academy and the Kyiv National University of Trade and Economics. Of these, the Mohyla Academy is the oldest, founded as a theological school in 1632, but Shevchenko University, founded in 1834, is the oldest in continuous operation. The total number of institutions of higher education in Kyiv approaches 200, allowing young people to pursue almost any line of study. While education traditionally remains largely in the hands of the state there are several accredited private institutions in the city.
 
 ### Secondary education
+
 There are about 530 general secondary schools and about 680 nursery schools and kindergartens in Kyiv. Additionally, there are evening schools for adults, specialist technical schools and the Evangel Theological Seminary.
 
 ### Public libraries
+
 There are many libraries in the city with the Vernadsky National Library, which is Ukraine's main academic library and scientific information centre, as well as one of the world's largest national libraries, being the largest and most important one. The National Library is affiliated with the Academy of Sciences in so far as it is a deposit library and thus serves as the academy's archives' store. The national library is the world's foremost repository of Jewish folk music recorded on Edison wax cylinders. Their Collection of Jewish Musical Folklore (1912–1947) was inscribed on UNESCO's Memory of the World Register in 2005.
 
 ## Transportation
 
-
 ### Local public transport
+
 ![ЕлектроЛАЗ-301 фото 2](https://wikipedia.org/wiki/Special:Redirect/file/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%9B%D0%90%D0%97-301_%D1%84%D0%BE%D1%82%D0%BE_2.jpg?)
 ![Золоті Ворота](https://wikipedia.org/wiki/Special:Redirect/file/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%96_%D0%92%D0%BE%D1%80%D0%BE%D1%82%D0%B0.jpg?)
 Local public transportation in Kyiv includes the Metro (underground), buses and minibuses, trolleybuses, trams, taxi and funicular. There is also an intra-city ring railway service.
@@ -651,13 +670,12 @@ The Kyiv public transport system, except for taxi, uses a simple flat rate tarif
 
 The taxi market in Kyiv is expansive but not regulated. In particular, the taxi fare per kilometer is not regulated. There is a fierce competition between private taxi companies.
 
-
-
 ### Roads and bridges
+
 ![Tabliczka E40](https://wikipedia.org/wiki/Special:Redirect/file/Tabliczka_E40.svg?)
 ![Tabliczka E95](https://wikipedia.org/wiki/Special:Redirect/file/Tabliczka_E95.svg?)
 ![Tabliczka E373](https://wikipedia.org/wiki/Special:Redirect/file/Tabliczka_E373.svg?)
-Kyiv represents the focal point of Ukraine's "national roads" system, thus linked by road to all cities of the country. European routes, and  intersect in Kyiv.
+Kyiv represents the focal point of Ukraine's "national roads" system, thus linked by road to all cities of the country. European routes, and intersect in Kyiv.
 
 There are eight over-Dnieper bridges and dozens of grade-separated intersections in the city. Several new intersections are under construction. There are plans to build a full-size, fully grade-separated ring road around Kyiv.
 
@@ -666,163 +684,163 @@ In 2009, Kyiv's roads were in poor technical condition and maintained inadequate
 Traffic jams and lack of parking space are growing problems for all road transport services in Kyiv.
 
 ### Air transport
+
 Kyiv is served by two international passenger airports: the Boryspil Airport located 30 km away, and the smaller, municipally owned Zhulyany Airport on the southern outskirts of the city. There are also the Gostomel cargo airport and additional three operating airfields facilitating the Antonov aircraft manufacturing company and general aviation.
 
 ### Railways
- * Nizhyn (north-eastern)
- * Hrebinka (south-eastern)
- * Myronivka (southern)
- * Fastiv (south-western)
- * Korosten (western)
-Railways are Kyiv's main mode of intracity and suburban transportation. The city has a developed railroad infrastructure including a long-distance passenger station, 6 cargo stations, depots, and repairing facilities. However, this system still fails to meet the demand for passenger service. Particularly, the Kyiv-Pasazhyrskyi Railway Station is the city's only long-distance passenger terminal (*vokzal*).
+
+- Nizhyn (north-eastern)
+- Hrebinka (south-eastern)
+- Myronivka (southern)
+- Fastiv (south-western)
+- Korosten (western)
+  Railways are Kyiv's main mode of intracity and suburban transportation. The city has a developed railroad infrastructure including a long-distance passenger station, 6 cargo stations, depots, and repairing facilities. However, this system still fails to meet the demand for passenger service. Particularly, the Kyiv-Pasazhyrskyi Railway Station is the city's only long-distance passenger terminal (_vokzal_).
 
 Construction is underway for turning the large Darnytsia railway station on the left-bank part of Kyiv into a long-distance passenger hub, which may ease traffic at the central station. Bridges over the Dnieper River are another problem restricting the development of city's railway system. Presently, only one rail bridge out of two is available for intense train traffic. A new combined rail-auto bridge is under construction, as a part of Darnytsia project.
 
 In 2011, the Kyiv city administration established a new 'Urban Train' for Kyiv. This service runs at standard 4- to 10-minute intervals throughout the day and follows a circular route around the city centre, which allows it to serve many of Kyiv's inner suburbs. Interchanges between the Kyiv Metro and Fast Tram exist at many of the urban train's station stops.
 
-Suburban 'Elektrichka' trains are serviced by the publicly owned Ukrainian Railways. The suburban train service is fast, and unbeatably safe in terms of traffic accidents. But the trains are not reliable, as they may fall significantly behind schedule, may not be safe in terms of crime, and the *elektrichka* cars are poorly maintained and are overcrowded in rush hours.
+Suburban 'Elektrichka' trains are serviced by the publicly owned Ukrainian Railways. The suburban train service is fast, and unbeatably safe in terms of traffic accidents. But the trains are not reliable, as they may fall significantly behind schedule, may not be safe in terms of crime, and the _elektrichka_ cars are poorly maintained and are overcrowded in rush hours.
 
-There are five *elektrichka* directions from Kyiv:
+There are five _elektrichka_ directions from Kyiv:
 
-More than a dozen of *elektrichka* stops are located within the city allowing residents of different neighborhoods to use the suburban trains.
+More than a dozen of _elektrichka_ stops are located within the city allowing residents of different neighborhoods to use the suburban trains.
 
 ## Twin towns – sister cities
- * 🇹🇷 Ankara, Turkey (1993)
- * 🇹🇲 Ashgabat, Turkmenistan (2001)
- * 🇰🇿 Astana, Kazakhstan (1998)
- * 🇬🇷 Athens, Greece (1996)
- * 🇦🇿 Baku, Azerbaijan (1997)
- * 🇨🇳 Beijing, China (1993)
- * 🇰🇬 Bishkek, Kyrgyzstan (1997)
- * 🇧🇷 Brasília, Brazil (2000)
- * 🇸🇰 Bratislava, Slovakia (1969)
- * 🇧🇪 Brussels, Belgium (1997)
- * 🇦🇷 Buenos Aires, Argentina (2000)
- * 🇺🇸 Chicago, United States (1991)
- * 🇲🇩 Chișinău, Moldova (1993)
- * Edinburgh, United Kingdom (1989)
- * 🇮🇹 Florence, Italy (1967)
- * 🇨🇺 Havana, Cuba (1994)
- * 🇮🇩 Jakarta, Indonesia (2005)
- * 🇵🇱 Kraków, Poland (1993)
- * 🇯🇵 Kyoto, Japan (1971)
- * 🇩🇪 Leipzig, Germany (1956)
- * 🇵🇪 Lima, Peru (2005)
- * 🇲🇽 Mexico City, Mexico (1997)
- * 🇩🇪 Munich, Germany (1989)
- * Odense, Denmark (1989)
- * 🇰🇬 Osh Region, Kyrgyzstan (2002)
- * Pretoria, South Africa (1993)
- * 🇱🇻 Riga, Latvia (1998)
- * 🇧🇷 Rio de Janeiro, Brazil (2000)
- * 🇨🇱 Santiago, Chile (1998)
- * 🇧🇬 Sofia, Bulgaria (1997)
- * 🇨🇳 Suzhou, China (2005)
- * 🇪🇪 Tallinn, Estonia (1994)
- * 🇫🇮 Tampere, Finland (1954)
- * 🇺🇿 Tashkent, Uzbekistan (1998)
- * Tbilisi, Georgia (1999)
- * 🇫🇷 Toulouse, France (1975)
- * 🇱🇹 Vilnius, Lithuania (1991)
- * 🇵🇱 Warsaw, Poland (1994)
- * 🇨🇳 Wuhan, China (1990)
-Kyiv is twinned with:
 
-
+- 🇹🇷 Ankara, Turkey (1993)
+- 🇹🇲 Ashgabat, Turkmenistan (2001)
+- 🇰🇿 Astana, Kazakhstan (1998)
+- 🇬🇷 Athens, Greece (1996)
+- 🇦🇿 Baku, Azerbaijan (1997)
+- 🇨🇳 Beijing, China (1993)
+- 🇰🇬 Bishkek, Kyrgyzstan (1997)
+- 🇧🇷 Brasília, Brazil (2000)
+- 🇸🇰 Bratislava, Slovakia (1969)
+- 🇧🇪 Brussels, Belgium (1997)
+- 🇦🇷 Buenos Aires, Argentina (2000)
+- 🇺🇸 Chicago, United States (1991)
+- 🇲🇩 Chișinău, Moldova (1993)
+- Edinburgh, United Kingdom (1989)
+- 🇮🇹 Florence, Italy (1967)
+- 🇨🇺 Havana, Cuba (1994)
+- 🇮🇩 Jakarta, Indonesia (2005)
+- 🇵🇱 Kraków, Poland (1993)
+- 🇯🇵 Kyoto, Japan (1971)
+- 🇩🇪 Leipzig, Germany (1956)
+- 🇵🇪 Lima, Peru (2005)
+- 🇲🇽 Mexico City, Mexico (1997)
+- 🇩🇪 Munich, Germany (1989)
+- Odense, Denmark (1989)
+- 🇰🇬 Osh Region, Kyrgyzstan (2002)
+- Pretoria, South Africa (1993)
+- 🇱🇻 Riga, Latvia (1998)
+- 🇧🇷 Rio de Janeiro, Brazil (2000)
+- 🇨🇱 Santiago, Chile (1998)
+- 🇧🇬 Sofia, Bulgaria (1997)
+- 🇨🇳 Suzhou, China (2005)
+- 🇪🇪 Tallinn, Estonia (1994)
+- 🇫🇮 Tampere, Finland (1954)
+- 🇺🇿 Tashkent, Uzbekistan (1998)
+- Tbilisi, Georgia (1999)
+- 🇫🇷 Toulouse, France (1975)
+- 🇱🇹 Vilnius, Lithuania (1991)
+- 🇵🇱 Warsaw, Poland (1994)
+- 🇨🇳 Wuhan, China (1990)
+  Kyiv is twinned with:
 
 ### Other cooperation agreements
- * 🇷🇸 Belgrade, Serbia (2002)
- * 🇫🇮 Helsinki, Finland
- * 🇮🇱 Jerusalem, Israel (2000)
- * Lisbon, Portugal
- * 🇫🇷 Paris, France
- * 🇮🇹 Rome, Italy
- * 🇸🇪 Stockholm, Sweden
- * 🇨🇦 Toronto, Canada (1991)
- * 🇱🇾 Tripoli, Libya (2001)
- * 🇦🇹 Vienna, Austria
- * 🇦🇲 Yerevan, Armenia (1995)
 
+- 🇷🇸 Belgrade, Serbia (2002)
+- 🇫🇮 Helsinki, Finland
+- 🇮🇱 Jerusalem, Israel (2000)
+- Lisbon, Portugal
+- 🇫🇷 Paris, France
+- 🇮🇹 Rome, Italy
+- 🇸🇪 Stockholm, Sweden
+- 🇨🇦 Toronto, Canada (1991)
+- 🇱🇾 Tripoli, Libya (2001)
+- 🇦🇹 Vienna, Austria
+- 🇦🇲 Yerevan, Armenia (1995)
 
 ## Notable people
+
 ![Vladimir Horowitz 1986](https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Horowitz_1986.jpg?)
 ![Milla Jovovich Cannes Crop](https://wikipedia.org/wiki/Special:Redirect/file/Milla_Jovovich_Cannes_Crop.jpg?)
 ![Golda Meir 03265u](https://wikipedia.org/wiki/Special:Redirect/file/Golda_Meir_03265u.jpg?)
 ![Igor Sikorsky-TIME-1953](https://wikipedia.org/wiki/Special:Redirect/file/Igor_Sikorsky-TIME-1953.jpg?)
- * Nikolai Amosov, (1913–2002) Soviet and Ukrainian heart surgeon and inventor
- * Leonid Bronevoy, (1928–2017) Soviet and Russian actor
- * Nikolai Berdyaev, (1874–1948) Russian Orthodox religious and political philosopher
- * Mikhail Bulgakov, (1891–1940) Soviet writer, medical doctor and playwright
- * Eugenia Chuprina (born 1971) poet, novelist, writer, playwright
- * Daniel the Traveller 12th C. travel writer from the Kievan Rus'.
- * Zino Davidoff (1906–1994), Swiss premium tobacco manufacturer; known as *"King of Cigars"*
- * Ilya Ehrenburg, (1891–1967) Soviet writer, journalist, translator, and cultural figure
- * André Grabar, (1896–1990) historian of Romanesque art and the art of the Eastern Roman Empire and the Bulgarian Empire
- * Dmytro Hnatyuk, (1925–2016) Soviet and Ukrainian opera singer
- * Eugeniusz Horbaczewski, (1917–1944) Polish fighter pilot
- * Milton Horn, (1906–1995) Russian-American sculptor
- * Vladimir Horowitz, (1903–1989) American classical pianist
- * Milla Jovovich, (born 1975) American actress
- * Jan Koum, (born 1976) American computer programmer, CEO and co-founder of WhatsApp
- * Viktor Kaspruk, (born 1955) political scientist
- * Sonya Koshkina (born 1985), Ukrainian journalist, editor-in-chief
- * Kateryna Kukhar, (born 1982) prima ballerina
- * Ana Layevska, (born 1982) Ukrainian-Mexican actress
- * Serge Lifar, (1905–1986) French ballet dancer
- * Kazimir Malevich, (1879–1935) pioneer of geometric abstract art and the originator of the avant-garde Suprematist movement
- * Natalya Marchenkova, (born 1948) animator and animation director, born in Kyiv.
- * Jonathan Markovitch, (born 1967) Chief Rabbi of Kyiv
- * Natalia Matsak, (born 1982) ballet dancer
- * Golda Meir, (1898–1978) Israeli politician, the fourth Prime Minister of Israel
- * Petro Mohyla (1596–1647) Metropolitan bishop of Kyiv from 1633.
- * Mikhail Morgulis, (1941–2021) Russian-language writer, editor and theologian
- * Moses of Kiev, 12th century Talmudist
- * Galyna Moskvitina (born 1963), painter
- * Oleg (ca.845-912) Rurikid prince who ruled 882–912.
- * Olga of Kiev (ca.900–969) a regent of Kievan Rus' for her son Sviatoslav from 945 until 960.
- * Alexander Ostrowski, (1893–1986), mathematician
- * Yuliia "Taira" Paievska, (born 1968) founder of "Taira's Angels"
- * Borys Paton, (1918–2020) scientist, chairman of the National Academy of Sciences of Ukraine
- * Nicholas Pritzker, scion of the Pritzker Family
- * Theophan Prokopovich (1681–1736) theologian, poet, mathematician and philosopher.
- * Ivan Putrov (born 1980), dancer, born and trained in the city, former Principal with The Royal Ballet in London
- * Natalya Semenchenko, (born 1976) professor, writer and publicist
- * Lev Shestov, (1866–1938), Russian existentialist philosopher
- * Igor Sikorsky, (1889–1972), Russian-American aviation pioneer
- * Oksana Shvets, (1955–2022), Ukrainian actress
- * Alexander Vertinsky, (1889—1957) singer, composer, poet, cabaret artist and actor
- * Vladimir the Great (ca.958–1015), Grand Prince of Kiev & ruler of Kievan Rus' from 980 to 1015.
- * Ludmila Anatolievna Yaroshevskaya, (1906–1975) composer
 
-
-
+- Nikolai Amosov, (1913–2002) Soviet and Ukrainian heart surgeon and inventor
+- Leonid Bronevoy, (1928–2017) Soviet and Russian actor
+- Nikolai Berdyaev, (1874–1948) Russian Orthodox religious and political philosopher
+- Mikhail Bulgakov, (1891–1940) Soviet writer, medical doctor and playwright
+- Eugenia Chuprina (born 1971) poet, novelist, writer, playwright
+- Daniel the Traveller 12th C. travel writer from the Kievan Rus'.
+- Zino Davidoff (1906–1994), Swiss premium tobacco manufacturer; known as _"King of Cigars"_
+- Ilya Ehrenburg, (1891–1967) Soviet writer, journalist, translator, and cultural figure
+- André Grabar, (1896–1990) historian of Romanesque art and the art of the Eastern Roman Empire and the Bulgarian Empire
+- Dmytro Hnatyuk, (1925–2016) Soviet and Ukrainian opera singer
+- Eugeniusz Horbaczewski, (1917–1944) Polish fighter pilot
+- Milton Horn, (1906–1995) Russian-American sculptor
+- Vladimir Horowitz, (1903–1989) American classical pianist
+- Milla Jovovich, (born 1975) American actress
+- Jan Koum, (born 1976) American computer programmer, CEO and co-founder of WhatsApp
+- Viktor Kaspruk, (born 1955) political scientist
+- Sonya Koshkina (born 1985), Ukrainian journalist, editor-in-chief
+- Kateryna Kukhar, (born 1982) prima ballerina
+- Ana Layevska, (born 1982) Ukrainian-Mexican actress
+- Serge Lifar, (1905–1986) French ballet dancer
+- Kazimir Malevich, (1879–1935) pioneer of geometric abstract art and the originator of the avant-garde Suprematist movement
+- Natalya Marchenkova, (born 1948) animator and animation director, born in Kyiv.
+- Jonathan Markovitch, (born 1967) Chief Rabbi of Kyiv
+- Natalia Matsak, (born 1982) ballet dancer
+- Golda Meir, (1898–1978) Israeli politician, the fourth Prime Minister of Israel
+- Petro Mohyla (1596–1647) Metropolitan bishop of Kyiv from 1633.
+- Mikhail Morgulis, (1941–2021) Russian-language writer, editor and theologian
+- Moses of Kiev, 12th century Talmudist
+- Galyna Moskvitina (born 1963), painter
+- Oleg (ca.845-912) Rurikid prince who ruled 882–912.
+- Olga of Kiev (ca.900–969) a regent of Kievan Rus' for her son Sviatoslav from 945 until 960.
+- Alexander Ostrowski, (1893–1986), mathematician
+- Yuliia "Taira" Paievska, (born 1968) founder of "Taira's Angels"
+- Borys Paton, (1918–2020) scientist, chairman of the National Academy of Sciences of Ukraine
+- Nicholas Pritzker, scion of the Pritzker Family
+- Theophan Prokopovich (1681–1736) theologian, poet, mathematician and philosopher.
+- Ivan Putrov (born 1980), dancer, born and trained in the city, former Principal with The Royal Ballet in London
+- Natalya Semenchenko, (born 1976) professor, writer and publicist
+- Lev Shestov, (1866–1938), Russian existentialist philosopher
+- Igor Sikorsky, (1889–1972), Russian-American aviation pioneer
+- Oksana Shvets, (1955–2022), Ukrainian actress
+- Alexander Vertinsky, (1889—1957) singer, composer, poet, cabaret artist and actor
+- Vladimir the Great (ca.958–1015), Grand Prince of Kiev & ruler of Kievan Rus' from 980 to 1015.
+- Ludmila Anatolievna Yaroshevskaya, (1906–1975) composer
 
 ### Sport
- * Oleg Blokhin, (born 1952) Ukrainian football player
- * Valeriy Lobanovskyi, (1939–2002) Soviet and Ukrainian football coach
- * Andriy Shevchenko, (born 1976) Ukrainian footballer
 
+- Oleg Blokhin, (born 1952) Ukrainian football player
+- Valeriy Lobanovskyi, (1939–2002) Soviet and Ukrainian football coach
+- Andriy Shevchenko, (born 1976) Ukrainian footballer
 
 ## Honour
- * Kyiv Peninsula in Graham Land, Antarctica is named after the city of Kyiv.
 
+- Kyiv Peninsula in Graham Land, Antarctica is named after the city of Kyiv.
 
 ## See also
- * List of national landmarks of cultural heritage in Kyiv
- * List of crossings of the Dnieper River
- * List of universities, colleges, and research institutions in Kyiv
- * Outline of Ukraine
- * Yehupetz
 
+- List of national landmarks of cultural heritage in Kyiv
+- List of crossings of the Dnieper River
+- List of universities, colleges, and research institutions in Kyiv
+- Outline of Ukraine
+- Yehupetz
 
 ## References
 
-
 ## Further reading
- * Brutzkus, J. "The Khazar Origin of Ancient Kiev". Slavonic and East European Review. American Series, vol. 3, no. 1, 1944, pp. 108–124. JSTOR. Accessed 16 June 2020.
 
+- Brutzkus, J. "The Khazar Origin of Ancient Kiev". Slavonic and East European Review. American Series, vol. 3, no. 1, 1944, pp. 108–124. JSTOR. Accessed 16 June 2020.
 
 ## External links
- * Київська міська державна адміністрація – official web portal of the Kyiv City State Administration
- * Kyiv—Official Tourist Guide
- * Kyiv—Official Tourist Guide
+
+- Київська міська державна адміністрація – official web portal of the Kyiv City State Administration
+- Kyiv—Official Tourist Guide
+- Kyiv—Official Tourist Guide

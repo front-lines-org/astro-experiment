@@ -65,7 +65,7 @@ infoboxes:
           type: internal
           page: 247th Guards Air Assault Regiment
     units2:
-      text: '* 30th Mechanized Brigade'
+      text: "* 30th Mechanized Brigade"
       links:
         - text: 30th Mechanized Brigade
           type: internal
@@ -102,14 +102,14 @@ infoboxes:
         75 soldiers killed (20th attack only)
       formatting:
         bold:
-          - 'Per Ukraine:'
+          - "Per Ukraine:"
     casualties2:
       text: |-
         Per Russia:
         1 drone and 5 missiles shot down
       formatting:
         bold:
-          - 'Per Russia:'
+          - "Per Russia:"
 title: 2022 Chornobaivka attacks
 shortDescription: Military attacks in Chornobaivka during the 2022 Russian invasion of Ukraine
 description: The 2022 Chornobaivka attacks consist of a series of Ukrainian
@@ -122,6 +122,7 @@ description: The 2022 Chornobaivka attacks consist of a series of Ukrainian
   resulted in the death of the Russian general Yakov Rezantsev of the 49th
   Combined Arms Army on 24 March.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(107).jpg
 ---
 

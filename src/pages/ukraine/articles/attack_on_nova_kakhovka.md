@@ -36,8 +36,8 @@ infoboxes:
         7 soldiers and civilians killed 60 soldiers and civilians wounded
       formatting:
         bold:
-          - 'Per Ukraine:'
-          - 'Per Russia:'
+          - "Per Ukraine:"
+          - "Per Russia:"
 title: Attack on Nova Kakhovka
 shortDescription: 2022 military action by Ukraine
 description: On 11 July 2022, Ukrainian forces launched a missile attack on the
@@ -46,6 +46,7 @@ description: On 11 July 2022, Ukrainian forces launched a missile attack on the
   having recently acquired them from the United States. Targets in the city were
   hit with large explosions, destroying an ammunitions depot.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(81).jpg
 ---
 

@@ -37,6 +37,7 @@ description: The 2022 Deliatyn attack was a blow to the underground warehouse of
   missiles from the Dagger complex to destroy underground troops in Deliatyn,
   Ivano-Frankivsk Oblast.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(66).jpg
 ---
 

@@ -88,40 +88,42 @@ description: The Russian occupation of Zaporizhzhia Oblast is an ongoing
   laid siege and captured the city of Enerhodar, home to the Zaporizhzhia
   Nuclear Power Plant, which came under Russian control on 4 March.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(27).jpg
 ---
-        
-![2022 Russian invasion of Ukraine](https://wikipedia.org/wiki/Special:Redirect/file/2022_Russian_invasion_of_Ukraine.svg?)
 
+![2022 Russian invasion of Ukraine](https://wikipedia.org/wiki/Special:Redirect/file/2022_Russian_invasion_of_Ukraine.svg?)
 
 The **Russian occupation of Zaporizhzhia Oblast** is an ongoing military occupation, which began on 24 February 2022, as Russian forces invaded Ukraine and began capturing the southern portion of Zaporizhzhia Oblast. On 26 February, the city of Berdiansk came under Russian control, followed by the Russian victory at Melitopol on 1 March. Russian forces also laid siege and captured the city of Enerhodar, home to the Zaporizhzhia Nuclear Power Plant, which came under Russian control on 4 March. The capital of Zaporizhzhia Oblast, Zaporizhzhia, has not been taken by the Russian army and remains under Ukrainian control.
 
 In May, Russia started offering passports in those regions. In July, Russia issued a decree which extends Russian 2022 war censorship laws to Zaporizhzhia Oblast, and included deportation to Russia as punishment. In September, the occupation forces held "referendums" in the occupied areas of Zaporizhzhia Oblast and Kherson Oblast for the oblasts to join the Russian Federation. On 27 September, Russian officials claimed that the accession "referendum" passed, with 93.11% of voters in favour of joining the Russian Federation. Russia signed an accession treaty with the Russian administration of the region on September 30, 2022.
 
-The Russian-installed occupation force was initially called "*Zaporozhye military-civilian administration*" (Запорожская военно–гражданская администрация). Its name was changed to "*Zaporozhye Oblast*" (Запорожская область) after the Russian annexation. "*Zaporozhye*" is the Russian equivalent of "*Zaporizhzhia*". Melitopol serves as the *de facto* capital city of the Russian administration due to Russia's lack of control over Zaporizhzhia City, which is the *de jure* capital.
+The Russian-installed occupation force was initially called "_Zaporozhye military-civilian administration_" (Запорожская военно–гражданская администрация). Its name was changed to "_Zaporozhye Oblast_" (Запорожская область) after the Russian annexation. "_Zaporozhye_" is the Russian equivalent of "_Zaporizhzhia_". Melitopol serves as the _de facto_ capital city of the Russian administration due to Russia's lack of control over Zaporizhzhia City, which is the _de jure_ capital.
 
 ## Occupation
 
-
 ### Berdiansk
+
 On 26 February 2022, Russian troops captured the Port of Berdiansk and the Berdiansk Airport. By the following day, the Russian military had taken full control of the city.
 
 Beginning on 14 March, the port was used as a logistics hub by the Russians to support their offensive in southern Ukraine and in particular the siege of Mariupol. On 21 March, Russian media Zvezda reported on the arrival of amphibious transports in Berdiansk. A Russian navy officer described it as "a landmark event that will open logistical possibilities to the Black Sea Navy".
 
-On 24 March, Ukrainian forces launched an airstrike against the *Saratov*, which was destroyed and sunk, and one of the two s took damage but was able to leave the port. At the time, it was the heaviest naval loss suffered by Russia during the invasion, and one of Ukraine's most significant successes.
+On 24 March, Ukrainian forces launched an airstrike against the _Saratov_, which was destroyed and sunk, and one of the two s took damage but was able to leave the port. At the time, it was the heaviest naval loss suffered by Russia during the invasion, and one of Ukraine's most significant successes.
 
 ### Melitopol
+
 On 1 March 2022, shortly after the city's capture, citizens of Melitopol held a street protest against the military occupation of the city. The protestors marched and used their bodies to block a convoy of Russian military vehicles.
 
 On 10 March, the director of the Melitopol Museum of Local History, Leila Ibragimova, was arrested at her home by Russian forces, and was detained in an unknown location. One day later, Melitopol's mayor, Ivan Fedorov, was abducted by Russian troops for refusing to cooperate with them and continuing to fly a Ukrainian flag in his office. Russian authorities did not comment on Fedorov's disappearance, but the prosecutor's office of the Russian-backed self-proclaimed breakaway state (located within Ukraine) Luhansk People's Republic accused him of "terrorist activities".
 
-On 12 March, the Zaporizhzhia Oblast regional administration stated that former councillor and member of Opposition Bloc, Halyna Danylchenko, was appointed as acting mayor. Former People's Deputy of Ukraine Yevhen Balytskyi was alleged to be *de facto* in control of the city's government by the Security Service of Ukraine. Meanwhile, hundreds of people took part in a protest outside Melitopol city hall to demand the release of Fedorov. Olga Gaysumova, head of the non-governmental organization "Conscientious Society of Melitopol" and the organizer of local protests against Russian forces, was arrested. On 13 March, the Melitopol City Council declared that, "The occupying troops of the Russian Federation are trying to illegally create an occupation administration of the city of Melitopol." It appealed to the Prosecutor General of Ukraine, Iryna Venediktova, to launch a pre-trial investigation into Danylchenko and her party Opposition Bloc for treason. *Ukrayinska Pravda* reported that the Russian military had abducted Melitopol's District Council Chairman Serhiy Priyma and had tried to abduct City Council Secretary Roman Romanov. Meanwhile, Russian military vehicles were seen announcing via loudspeakers that rallies and demonstrations had been prohibited and that a curfew was imposed from 6:00 pm to 6:00 am. On 14 March *Ukrayinska Pravda* reported that Russian forces had prevented new protests by blocking of the central square of Melitopol. It also said "Two activists were abducted and taken away in an unknown direction."
+On 12 March, the Zaporizhzhia Oblast regional administration stated that former councillor and member of Opposition Bloc, Halyna Danylchenko, was appointed as acting mayor. Former People's Deputy of Ukraine Yevhen Balytskyi was alleged to be _de facto_ in control of the city's government by the Security Service of Ukraine. Meanwhile, hundreds of people took part in a protest outside Melitopol city hall to demand the release of Fedorov. Olga Gaysumova, head of the non-governmental organization "Conscientious Society of Melitopol" and the organizer of local protests against Russian forces, was arrested. On 13 March, the Melitopol City Council declared that, "The occupying troops of the Russian Federation are trying to illegally create an occupation administration of the city of Melitopol." It appealed to the Prosecutor General of Ukraine, Iryna Venediktova, to launch a pre-trial investigation into Danylchenko and her party Opposition Bloc for treason. _Ukrayinska Pravda_ reported that the Russian military had abducted Melitopol's District Council Chairman Serhiy Priyma and had tried to abduct City Council Secretary Roman Romanov. Meanwhile, Russian military vehicles were seen announcing via loudspeakers that rallies and demonstrations had been prohibited and that a curfew was imposed from 6:00 pm to 6:00 am. On 14 March _Ukrayinska Pravda_ reported that Russian forces had prevented new protests by blocking of the central square of Melitopol. It also said "Two activists were abducted and taken away in an unknown direction."
 
 On 16 March, Fedorov was freed from captivity. Some Ukrainian officials said he was freed in a "special operation". Zelenskyy's press aide Daria Zarivna however later said he was exchanged for nine Russian conscripts captured by Ukrainian forces.
 
 On 23 March 2022, Mayor Fedorov reported that the city was experiencing problems with food, medications, and fuel supplies, while the Russian military was seizing businesses, intimidating the local population, and holding several journalists in custody. On 22 April, Fedorov said that over 100 Russian soldiers had been killed by partisans during the occupation of the city.
 
 ### Enerhodar
+
 On 4 March, the city of Enerhodar and the Zaporizhzhia Nuclear Power Plant came under a Russian military occupation.
 
 Oleksandr Starukh, the governor of Zaporizhzhia Oblast, stated on 5 March that Russian forces had left the city after looting it and the situation in the city was completely under the control of local authorities. However, Orlov denied the report and stated that Russian forces still occupied the perimeter of the city and the power plant, with local authorities still managing the city. The Ukrainian military administration for the southeast confirmed on 7 March that Enerhodar was under control of Russian forces.
@@ -129,15 +131,17 @@ Oleksandr Starukh, the governor of Zaporizhzhia Oblast, stated on 5 March that R
 On 6 March, the IAEA released a statement saying that Russian forces were interfering in the operations of the power plant, stating that "any action of plant management—including measures related to the technical operation of the six reactor units—requires prior approval by the Russian commander," and further stating that "Russian forces at the site have switched off some mobile networks and the internet so that reliable information from the site cannot be obtained through the normal channels of communication". On 9 March, Herman Galushchenko, Energy Minister of Ukraine, claimed that Russian forces were holding the workers at the power plant hostage and had forced several to make propaganda videos.
 
 ### Mykhailivka
+
 On August 24, 2022, the Russian-appointed head of Mykhailivka in Zaporizhzhia Oblast, Ivan Sushko, was assassinated in a car bombing.
 
 ### Administrative divisions
+
 According to the occupation administration, the Zaporizhzhia Military-Civilian Administration is divided into 5 districts including Berdiansk Raion, Melitopol Raion, Polohy Raion, Vasylivka Raion and Zaporizhzhia Raion.
 
 ## Occupation administration
 
-
 ### History
+
 On 4 March 2022, the former leader of the Anti-Maidan of Zaporizhzhia, Volodymyr Rogov, who calls himself “a member of the Main Council of the Zaporizhzhia Oblast Military-Civilian administration of the Zaporozhye”, published in his telegram channel part of the provisions of the program of “comprehensive financial and economic measures for the economic development of the regions of Ukraine controlled by the Russian Federation”. This program was written in its entirety in the newspapers published by the occupying authorities, as well as on March 9 in the public “Military-Civilian Administration of Melitopol”. According to the BBC, the program was written in a complex bureaucratic style and was similar to other similar documents of the Russian authorities.
 
 On 12 March, Halyna Danylchenko was proclaimed by the Russians as the acting mayor of the city of Melitopol, but Ukrainian sources stated that Yevhen Balytskyi became the unofficial head of the city.
@@ -157,31 +161,29 @@ According to the results of the referendum, according to the MCA, 93.11% of vote
 On September 28, the Zaporizhzhia MCA announced the withdrawal of the region from Ukraine.
 
 ### Composition
- * }
-The composition of the administration is published on its website, however, not all members of the administration are listed there, but only the Head, the commandant of Berdiansk, and the deputy for housing and communal services.
+
+- }
+  The composition of the administration is published on its website, however, not all members of the administration are listed there, but only the Head, the commandant of Berdiansk, and the deputy for housing and communal services.
 
 The table lists notable members of the administration.
 
-
-
 ## Control of cities in the Oblast
 
-
 ## See also
- * Russian-occupied territories of Ukraine
- * Russian occupation of the Autonomous Republic of Crimea and Sevastopol
- * Russian occupation of Chernihiv Oblast
- * Russian occupation of Donetsk Oblast
- * Russian occupation of Kharkiv Oblast
- * Russian occupation of Kherson Oblast
- * Russian occupation of Kyiv Oblast
- * Russian occupation of Luhansk Oblast
- * Russian occupation of Mykolaiv Oblast
- * Russian occupation of Sumy Oblast
- * Russian occupation of Zhytomyr Oblast
- * Snake Island during the 2022 Russian invasion of Ukraine
- * Annexation of Crimea by the Russian Federation
- * Annexation of Southern and Eastern Ukraine
 
+- Russian-occupied territories of Ukraine
+- Russian occupation of the Autonomous Republic of Crimea and Sevastopol
+- Russian occupation of Chernihiv Oblast
+- Russian occupation of Donetsk Oblast
+- Russian occupation of Kharkiv Oblast
+- Russian occupation of Kherson Oblast
+- Russian occupation of Kyiv Oblast
+- Russian occupation of Luhansk Oblast
+- Russian occupation of Mykolaiv Oblast
+- Russian occupation of Sumy Oblast
+- Russian occupation of Zhytomyr Oblast
+- Snake Island during the 2022 Russian invasion of Ukraine
+- Annexation of Crimea by the Russian Federation
+- Annexation of Southern and Eastern Ukraine
 
 ## References

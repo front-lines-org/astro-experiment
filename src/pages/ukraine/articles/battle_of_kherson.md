@@ -93,12 +93,12 @@ infoboxes:
         Heavy
       formatting:
         bold:
-          - 'Per Ukraine:'
+          - "Per Ukraine:"
     casualties2:
-      text: 'Per Ukraine: ~300 soldiers and civilians killed'
+      text: "Per Ukraine: ~300 soldiers and civilians killed"
       formatting:
         bold:
-          - 'Per Ukraine:'
+          - "Per Ukraine:"
 title: Battle of Kherson
 shortDescription: Engagement during the 2022 Russian invasion of Ukraine
 description: The Battle of Kherson was a military engagement between Russian and
@@ -111,6 +111,7 @@ description: The Battle of Kherson was a military engagement between Russian and
   outskirts of Kherson, the enemy is pressing from the occupied Crimea, trying
   to advance towards Melitopol."
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(1).jpg
 ---
 

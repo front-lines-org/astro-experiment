@@ -270,12 +270,14 @@ description: Chernihiv Oblast (Черні́гівська о́бласть; also
   Oblast are 1,511 settlements of various sizes ranging from large cities to
   very small villages.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(1).jpg
 ---
-        
+
 **Chernihiv Oblast** (Черні́гівська о́бласть; also referred to as **Chernihivshchyna**, Черні́гівщина) is an oblast (province) of northern Ukraine. The administrative center of the oblast is the city of Chernihiv. Within the Oblast are 1,511 settlements of various sizes ranging from large cities to very small villages. Population:
 
 ## Geography
+
 The total area of the province is around 31,900 km².
 
 On the west, the oblast is bordered by the Kyiv Reservoir of the Dnieper River and Kyiv Oblast, which has a enclave known as Slavutych, which was created from Chernihiv Oblast for the inhabitants of Chernobyl following the Chernobyl disaster. It is bordered by Sumy Oblast to the east and Poltava Oblast to the south. The northern border of the oblast is part of Ukraine's international border abutting Belarus's Homyel Voblast in the north-west and the Russian Bryansk Oblast in the north-east, respectively.
@@ -283,60 +285,62 @@ On the west, the oblast is bordered by the Kyiv Reservoir of the Dnieper River a
 The oblast is bisected into northern and southern sections by the Desna River, which enters the Dnieper just north of the Kyiv city limits.
 
 ## History
+
 Chernihiv Oblast was created as part of the Ukrainian Soviet Socialist Republic on 15 October 1932.
 
 The capital city of Chernihiv has known human settlement for over 2,000 years, according to archaeological excavations. Chernihiv Oblast comprises a very important historical region, notable as early as the Kievan Rus' period, when the cities of Chernihiv and Novhorod-Siverskyi were frequently mentioned. The city of Chernihiv was the second most important Ukrainian city during the Rus' period of Ukrainian history, often serving as a major regional capital. Danylo of Chernihiv wrote of his pilgrimage to Jerusalem during this era. The numerous architectural monuments of the city bear witness to the invasions suffered, including those by the Tatars/Mongols, Lithuanians, Poles, Nazis and the Russians. Numerous tragic events have taken place in the region, such as the Battle of Kruty, the Tragedy of Koryukivka, and many others.
 
 During the 2022 invasion of Ukraine, Chernihiv Oblast was one of the first regions where Russian and Ukrainian forces clashed. On 4 April 2022 Governor of Chernihiv Oblast Vyacheslav Chaus stated that the Russian military had left Chernihiv Oblast, but that it had planted mines in many areas. On 4 and 5 April 2022 units of the State Border Guard Service of Ukraine retook control of their border crossing in Chernihiv Oblast.
 
-The oblast is located in the historic region of Polesia (Полісся, translit. *Polissia*).
+The oblast is located in the historic region of Polesia (Полісся, translit. _Polissia_).
 
 ## Administrative subdivisions
+
 ![Chernihiv Oblast 2020 subdivisions](https://wikipedia.org/wiki/Special:Redirect/file/Chernihiv_Oblast_2020_subdivisions.jpg?)
- * Administrative Centre - 1 (Chernihiv)
- * Raions — 5;
- * Settlements — 1534, including:
- * Villages — 1489;
- * Cities/Towns — 45, including:
- * Urban-type settlement — 30;
- * Cities — 15
- * Silradas — 525.
 
+- Administrative Centre - 1 (Chernihiv)
+- Raions — 5;
+- Settlements — 1534, including:
+- Villages — 1489;
+- Cities/Towns — 45, including:
+- Urban-type settlement — 30;
+- Cities — 15
+- Silradas — 525.
 
-Since July 2020, Cherkasy Oblast is administratively subdivided into 5 *raions* (districts).
+Since July 2020, Cherkasy Oblast is administratively subdivided into 5 _raions_ (districts).
 
 The following data incorporates the number of each type of administrative divisions of Chernihiv Oblast:
-
-
 
 The local administration of the oblast is controlled by the Chernihiv Oblast Rada. The governor of the oblast is the Chernihiv Oblast Rada speaker, appointed by the President of Ukraine.
 
 ### Important cities
- * Main cities
- * 1) Coat of Arms of Chernihiv.svg Chernihiv (294,727)
- * 2) Nizhyn gerb.png Nizhyn (72,422)
- * 3) Priluky.png Pryluky (58,456)
- * 4) Bahmach gerb.svg Bakhmach (18,798)
- * 5) Nosivka new gerb.gif Nosivka (14,185)
- * 6) Novhorod-Siverskiy herb.png Novhorod-Siverskyi (14,025)
- * Other cities
- * Borzna (historical city)
- * Kozelets (historical city)
- * Liubech (historical city of Medieval Ages)
- * Baturyn (Hetman residence and fort)
 
+- Main cities
+- 1.  Coat of Arms of Chernihiv.svg Chernihiv (294,727)
+- 2.  Nizhyn gerb.png Nizhyn (72,422)
+- 3.  Priluky.png Pryluky (58,456)
+- 4.  Bahmach gerb.svg Bakhmach (18,798)
+- 5.  Nosivka new gerb.gif Nosivka (14,185)
+- 6.  Novhorod-Siverskiy herb.png Novhorod-Siverskyi (14,025)
+- Other cities
+- Borzna (historical city)
+- Kozelets (historical city)
+- Liubech (historical city of Medieval Ages)
+- Baturyn (Hetman residence and fort)
 
 ### Raions
- * Chernihiv Raion
- * Koriukivka Raion
- * Nizhyn Raion
- * Novhorod-Siverskyi Raion
- * Pryluky Raion
-The five raions (*districts*) of the Chernihiv Oblast are:
+
+- Chernihiv Raion
+- Koriukivka Raion
+- Nizhyn Raion
+- Novhorod-Siverskyi Raion
+- Pryluky Raion
+  The five raions (_districts_) of the Chernihiv Oblast are:
 
 The Slavutych municipality is located in Chernihiv Oblast on the eastern bank of the Dnieper, but officially belongs to Kyiv Oblast (being an administrative exclave).
 
 ## Demographics
+
 The current estimated population of the oblast is around 976,701 (as of 2021).
 
 The population of the oblast is predominantly Ukrainian, with minority Belarusian and Russian populations concentrated in the northern districts.
@@ -344,57 +348,57 @@ The population of the oblast is predominantly Ukrainian, with minority Belarusia
 The province has experienced long-term population decline. The population has fallen 37% from the 1959 figure of 1,554,000, the steepest decline of any Ukrainian oblast. It has the lowest population density in the country.
 
 ### Age structure
- * 0-14 years: 12.9% (male 70,680/female 67,487)
- * 15-64 years: 68.4% (male 352,230/female 378,864)
- * *65 years and over:* 18.7% (male 61,722/female 138,277) (2013 official)
 
+- 0-14 years: 12.9% (male 70,680/female 67,487)
+- 15-64 years: 68.4% (male 352,230/female 378,864)
+- _65 years and over:_ 18.7% (male 61,722/female 138,277) (2013 official)
 
 ### Median age
- * *total:* 42.8 years
- * *male:* 38.5 years
- * *female:* 46.9 years (2013 official)
 
+- _total:_ 42.8 years
+- _male:_ 38.5 years
+- _female:_ 46.9 years (2013 official)
 
 ## Economy
 
-
 ### Industry
+
 The economy of Chernihiv Oblast is centered around petroleum and natural gas extraction, transport, machinery, tobacco and the textile industry. A major tobacco factory is situated in Pryluky. The cities of Bakhmach and Nizhyn are important railway junctions on the route from Russia and Belarus to Southeast Europe. There are notable machinery and electronics industries in Chernihiv. Chernihiv also has a brewery producing beer under the name "Chernihivske".
 
 ## Religion
+
 The religion among believers in the oblast is overwhelmingly Eastern Orthodox. A substantial percentage of the population is atheist. Small minorities of Ukrainian Catholics, Roman Catholics (including the descendants of earlier Polish colonists), and recent converts to Protestantism are also present.
 
 ## Culture and tourist attractions
- * Antoniyev caverns
- * Saviour's Transfiguration Cathedral
- * Hustynskyi monastery
- * Knyazhyi hrad
-There are a few outstanding historical Orthodox churches and buildings in Chernihiv, Novhorod-Siverskyi, Liubech, Nizhyn (Nezhyn) and Koselets' (a city of Ancient Rus', older than Kyiv). Nizhyn is an historical cossack city and home to a university.
+
+- Antoniyev caverns
+- Saviour's Transfiguration Cathedral
+- Hustynskyi monastery
+- Knyazhyi hrad
+  There are a few outstanding historical Orthodox churches and buildings in Chernihiv, Novhorod-Siverskyi, Liubech, Nizhyn (Nezhyn) and Koselets' (a city of Ancient Rus', older than Kyiv). Nizhyn is an historical cossack city and home to a university.
 
 The Chernihiv region was famous for its specific style of folk icon-painting. Brightness and realistic depictions of the saints were typical for it, with red and hot yellow paints used. The icons were decorated by flowers in a manner reminiscent of Slavonic pre-Christian traditions. The icons from the Chernihiv region were spread outside its territory. Many of them are preserved in the Museum of Ukrainian home icons of the Radomysl Castle.
 
 ## Nomenclature
-Most of Ukraine's oblasts are named after their capital cities, officially referred to as "oblast centers" (обласний центр, translit. *oblasnyi tsentr*). The name of each oblast is a relative adjective, formed by adding a feminine suffix to the name of respective centre city: *Chernihiv* is the centre of the *Chernihivs’ka oblast’* (Chernihiv Oblast). Most oblasts are also sometimes referred to in a feminine noun form, following the convention of traditional regional place names, ending with the suffix "-shchyna", as is the case with the Chernihiv Oblast, *Chernihivshchyna*.
+
+Most of Ukraine's oblasts are named after their capital cities, officially referred to as "oblast centers" (обласний центр, translit. _oblasnyi tsentr_). The name of each oblast is a relative adjective, formed by adding a feminine suffix to the name of respective centre city: _Chernihiv_ is the centre of the _Chernihivs’ka oblast’_ (Chernihiv Oblast). Most oblasts are also sometimes referred to in a feminine noun form, following the convention of traditional regional place names, ending with the suffix "-shchyna", as is the case with the Chernihiv Oblast, _Chernihivshchyna_.
 
 ## See also
- * Subdivisions of Ukraine
- * Chernigov Governorate
 
+- Subdivisions of Ukraine
+- Chernigov Governorate
 
 ## References
- * Kardash, Peter. *Ukraine and Ukrainians*. Ed. Peter Lockwood. Melbourne: Fortuna Publishers, 1988.
- * (1972) Історіа міст і сіл Української CCP - Чернігівська область (History of Towns and Villages of the Ukrainian SSR - Chernihiv Oblast), Kiev.
- * Information Card of the Region - Official site of the Cabinet of Ministers of Ukraine
- * Богомолець. О. "Замок-музей Радомисль на Шляху Королів Via Regia". — Київ, 2013
 
-
-
+- Kardash, Peter. _Ukraine and Ukrainians_. Ed. Peter Lockwood. Melbourne: Fortuna Publishers, 1988.
+- (1972) Історіа міст і сіл Української CCP - Чернігівська область (History of Towns and Villages of the Ukrainian SSR - Chernihiv Oblast), Kiev.
+- Information Card of the Region - Official site of the Cabinet of Ministers of Ukraine
+- Богомолець. О. "Замок-музей Радомисль на Шляху Королів Via Regia". — Київ, 2013
 
 ## External links
- * Very detailed map of Chernigov Guberniya as in 1910 Latinised placenames
- * Chernihiv Oblast State Administration
- * patent.net.ua - Symbols of Chernihiv Oblast
- * The Official Site of the Radomysl Castle
- * Economic Portal of Chernihiv Region
 
-
+- Very detailed map of Chernigov Guberniya as in 1910 Latinised placenames
+- Chernihiv Oblast State Administration
+- patent.net.ua - Symbols of Chernihiv Oblast
+- The Official Site of the Radomysl Castle
+- Economic Portal of Chernihiv Region

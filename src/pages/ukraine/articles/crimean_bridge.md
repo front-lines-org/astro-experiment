@@ -118,9 +118,10 @@ description: The Crimean Bridge, also called Kerch Strait Bridge or Kerch
   longest bridge ever constructed by Russia. Besides transportation, Russia
   intended the bridge to support its claims to Crimea.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(46).jpg
 ---
-        
+
 The **Crimean Bridge**, also called **Kerch Strait Bridge** or **Kerch Bridge**, is a pair of parallel bridges, one for a four-lane road and one for a double-track railway, spanning the Kerch Strait between the Taman Peninsula of Krasnodar Krai in Russia and the Kerch Peninsula of Crimea in Ukraine. Built by the Russian Federation after its annexation of Crimea at the start of the Russo-Ukrainian War in 2014, the bridge cost ₽227.92 billion (US$3.7 billion) and has a length of 19 km, making it the longest bridge in Europe and the longest bridge ever constructed by Russia. Besides transportation, Russia intended the bridge to support its claims to Crimea.
 
 In January 2015, the multibillion-dollar contract for the construction of the bridge was awarded to Arkady Rotenberg's Stroygazmontazh. Construction of the bridge commenced in February 2016. The road bridge was inaugurated by Russian President Vladimir Putin on 15 May 2018 and opened for cars on 16 May and for trucks on 1 October. The rail bridge was inaugurated on 23 December 2019 and the first scheduled passenger train crossed the bridge two days later. The bridge was opened for freight trains on 30 June 2020. A record amount of traffic, totaling 36,393 cars, was recorded on 15 August 2020.
@@ -131,11 +132,10 @@ On 8 October 2022, at 6:07 a.m. local time, a huge explosion occurred on the roa
 
 ## History
 
-
 ### Pre-annexation proposals and attempts
 
-
 #### Kerch railway bridge
+
 Proposals to build a bridge across the Kerch Strait were considered from the early 20th century onward.
 
 During World War II the German Organisation Todt built a ropeway over the strait. Finished in June 1943, it had daily capacity of 1,000 tons. Construction of a combined road and railway bridge started in April 1943, but before it was finished, retreating German troops blew up the completed parts of the bridge and destroyed the ropeway.
@@ -143,15 +143,16 @@ During World War II the German Organisation Todt built a ropeway over the strait
 In 1944, the Soviet Union constructed a 4.5 km railway bridge across the strait. This bridge, not designed as permanent, was marred by design and construction errors, and was destroyed by flowing ice in February 1945. A proposal to repair it was quickly dismissed and the remnants of the bridge were dismantled, with permanent bridge designs envisaged instead.
 
 #### Soviet proposals
+
 In 1949 the Soviet government ordered the construction of a 5.969 km two-tier combined road-rail bridge (two road lanes on the upper tier and two rail tracks on the lower tier) with 40 m clearance below, connecting Yeni-Kale with Chushka Spit, but in 1950 the construction was halted and a ferry line was created instead.
 
 A different version of the fixed link, the Kerch waterworks project («Керченский гидроузел») was developed since the mid-1960s, proposing a system of dams and bridges across the strait. The project was not implemented due to a lack of funding and the collapse of the USSR.
 
 #### Negotiations between Ukrainian and Russian governments
 
-|                |                |                |
-|       ---      |       ---      |       ---      |
-|                |                | Possible alignments of the proposed bridge as of 2002. The red route ("Tuzla" or "Southern") ultimately became the basis for the Crimean Bridge built by Russia, while the cyan route (Cape Fonar – Cape Maly Kut, also known as "Northern route") was the one preliminarily preferred by the Ukrainian government in 2011. |
+|     |     |                                                                                                                                                                                                                                                                                                                             |
+| --- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     |     | Possible alignments of the proposed bridge as of 2002. The red route ("Tuzla" or "Southern") ultimately became the basis for the Crimean Bridge built by Russia, while the cyan route (Cape Fonar – Cape Maly Kut, also known as "Northern route") was the one preliminarily preferred by the Ukrainian government in 2011. |
 
 Although the idea of an international bridge linking Ukraine and Russia survived the 1991 dissolution of the Soviet Union, the two countries failed to finalize the project. Former Moscow mayor Yury Luzhkov was a vocal advocate for a highway bridge across the strait, expressing hope that it would bring the Crimeans closer to Russia, both economically and symbolically. Similar hopes were expressed by pro-Russian authorities in Crimea, who hoped that the bridge would contribute to either a "revival of the Silk Road" or to a multinational road along the Black Sea coast.
 
@@ -166,6 +167,7 @@ It was decided a special working group would determine the location and set the 
 In the following months, as relations deteriorated, bilateral negotiations over the bridge collapsed, yet Russia claimed that it expected the December 2013 deals to be honored, and on 3 March prime minister Dmitry Medvedev signed a governmental decree to create a subsidiary of Avtodor to oversee the project. A contest for the engineering survey of the bridge project was announced by that subsidiary on 18 March, but by that time the premise of the contest, which still referred to 2013 agreements, was already outdated. In April 2014, following Russian annexation of Crimea the Ukrainian government gave Russia six months notice of its withdrawal from the now-defunct bilateral Kerch Bridge agreement.
 
 ### After 2014 annexation and start of construction
+
 ![Krymskij-most](https://wikipedia.org/wiki/Special:Redirect/file/Krymskij-most.png?)
 Following the Russian invasion and annexation of Crimea in March 2014 amid a sharp deterioration in Ukrainian-Russian relations, Russia declared it would unilaterally build the Kerch Strait bridge to connect the Russian mainland with the annexed Ukrainian peninsula. The project was strategic, an instrumental part of Russian plans to integrate the newly annexed territory into Russia. The project aims to shift Crimean dependence on Ukraine and reduce Kyiv's leverage, remove Moscow's reliance upon inadequate sea and air links for supplying the peninsula, and allow Russia to independently supply Crimea, whose economy has become dependent upon significant subsidies from Moscow. The bridge has a symbolic purpose: it is meant to show Russia's resolve to hold Crimea, and as a "physical" attachment of Crimea to Russian territory.
 
@@ -178,9 +180,11 @@ Since December 2018 the United Nations General Assembly has repeatedly condemned
 Following the Russian invasion of Ukraine in February 2022, Ukrainian plans and calls for the "destruction" of the bridge have risen, bringing criticism and talks of guaranteed protection of the bridge from Dmitry Peskov, the Kremlin Press Secretary.
 
 #### 2022 explosion
+
 On 8 October 2022, there was a large explosion on the bridge, collapsing part of the road section and causing some oil tanker wagons on the rail section to catch fire. Chairman of the State Council of Crimea, Vladimir Konstantinov, attributed the explosion to a Ukrainian attack.
 
 ## Design
+
 ![Russia stamp 2018 № 2403](https://wikipedia.org/wiki/Special:Redirect/file/Russia_stamp_2018_%E2%84%96_2403.jpg?)
 ![RR5712-0050R](https://wikipedia.org/wiki/Special:Redirect/file/RR5712-0050R.png?)
 ![Kerch Strait Bridge, 2018-04-14](https://wikipedia.org/wiki/Special:Redirect/file/Kerch_Strait_Bridge%2C_2018-04-14.jpg?)
@@ -203,6 +207,7 @@ The geology of the Kerch Strait is difficult: it has a tectonic fault, and the b
 Some experts expressed doubts that the construction was safe, given the tectonic and sea current conditions in the strait.
 
 ## Construction
+
 ![Putin opens Crimean Bridge.webm](https://wikipedia.org/wiki/Special:Redirect/file/Putin_opens_Crimean_Bridge.webm?)
 ![Train Crimean Bridge 2019.webm](https://wikipedia.org/wiki/Special:Redirect/file/Train_Crimean_Bridge_2019.webm?)
 Preliminary work on the bridge began in May 2015. More than 200 bombs and a few airplanes (including an Ilyushin Il-2 and a Curtiss P-40 Kittyhawk) from the World War II era were found in the area during pre-construction clearance. Three temporary bridges were built, to facilitate access (independent of weather and currents) for main construction. By October 2015, the first of the temporary bridges had been constructed, connecting Tuzla Island and Taman Peninsula.
@@ -223,9 +228,9 @@ The rail bridge design provides the ability to install an overhead railway elect
 
 ## Operation and impact
 
-
 ### On Crimea and Russia
-![Opening of the Crimean bridge (2018-05-15) 19](https://wikipedia.org/wiki/Special:Redirect/file/Opening_of_the_Crimean_bridge_(2018-05-15)_19.jpg?)
+
+![Opening of the Crimean bridge (2018-05-15) 19](<https://wikipedia.org/wiki/Special:Redirect/file/Opening_of_the_Crimean_bridge_(2018-05-15)_19.jpg?>)
 The road bridge, opened in 2018, quickly overtook the Kerch Strait ferry as a preferred route of communication between Crimea and Russia. In its first 12 hours of operation the bridge broke the traffic record of the ferry, which had been established in August 2017. After the bridge was opened for trucks in October 2018, truck transportation via the ferry virtually ceased. After the first full year of operation (May 2018 – May 2019) the road bridge had served three times more traffic than the Kerch Strait ferry had served in the whole of 2017.
 
 Since the road bridge is free of charge, in contrast to the ferry, it is claimed that users of the bridge saved more than 16 billion rubles. The bridge is said to have contributed to an increase of the number of tourists visiting the Crimea, with bridge traffic peaking in the summer months – on 5 August 2018 the bridge broke a single-day record for car traffic, with 32,000 vehicles crossing the span, followed by over 33,000 vehicles on 12 August that year and over 35,000 a year later.
@@ -233,30 +238,30 @@ Since the road bridge is free of charge, in contrast to the ferry, it is claimed
 A fall in the price of retail goods in Crimea, which was expected to occur after the opening of the road bridge, did not happen. According to the local Russian administration, this situation persists because large retail groups are not operating in Crimea due to either risk of being sanctioned or because they deem Crimea a "logistic dead end", although there were expectations that the opening of the rail bridge would eventually contribute to a decrease in price of certain goods.
 
 ### On Ukraine
+
 ![Kerch Strait incident](https://wikipedia.org/wiki/Special:Redirect/file/Kerch_Strait_incident.png?)
 The Russian bridge offers the sole access point for ships travelling to and from Ukraine's eastern port cities, including Mariupol and Berdiansk through which Ukraine exported steel and agricultural products, Since completion of the bridge various restrictions were imposed on Ukrainian shipping which affect their operating costs, which Ukraine and others alleged is part of a creeping hybrid blockade of Ukrainian ports in the Azov Sea.
 
-These restriction include Russian inspections of ships had risen sharply since the bridge opened in May 2018, some being forced to wait for three days before being allowed through. Additionally, due to the height limits of the main span of the Bridge (33 to 35 m above sea level) the Ukrainian maritime authority said many ships are too big to pass safely under the bridge. The bulk carrier *Copan* (deadweight tonnage 17,777 tons) solved this problem by cutting off the top of her mast. On 26 October 2018 *The Globe and Mail*, citing Ukrainian sources, reported that the bridge had reduced Ukrainian shipping from its Sea of Azov ports by about 25%.
+These restriction include Russian inspections of ships had risen sharply since the bridge opened in May 2018, some being forced to wait for three days before being allowed through. Additionally, due to the height limits of the main span of the Bridge (33 to 35 m above sea level) the Ukrainian maritime authority said many ships are too big to pass safely under the bridge. The bulk carrier _Copan_ (deadweight tonnage 17,777 tons) solved this problem by cutting off the top of her mast. On 26 October 2018 _The Globe and Mail_, citing Ukrainian sources, reported that the bridge had reduced Ukrainian shipping from its Sea of Azov ports by about 25%.
 
 In November 2018 the area near the bridge became a site of the Kerch Strait incident, in which the Russian navy claimed that three Ukrainian vessels entered Russian territorial waters. Russian forces seized the vessels and arrested their crews. During this time, passage through the Strait was blocked by a large cargo ship, placed under the bridge to prevent passage of other craft. In response, Ukraine declared martial law in some regions of the country for 30 days.
 
 ## Archaeology
+
 Part of a large Greek terracotta statue was found at the Crimean Bridge construction site, during the underwater digging near the Ak-Burun Cape. According to archaeologists, this is a unique finding, since it is the first of its kind found in the northern Black Sea area.
 
 ## In popular culture
+
 Russian film director Tigran Keosayan made a romantic comedy film about the construction of the bridge called The Crimean Bridge. Made with Love!. It was officially released in cinemas in Russia on 1 November 2018.
 
 ## Gallery
 
-
 ## Notes
-
 
 ## References
 
-
 ## Further reading
 
-
 ## External links
- * Security cam video of bridge explosion, 8 October 2022.
+
+- Security cam video of bridge explosion, 8 October 2022.

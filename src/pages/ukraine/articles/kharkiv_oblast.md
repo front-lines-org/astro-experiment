@@ -248,17 +248,20 @@ description: Kharkiv Oblast (Харківська́ о́бласть), also refe
   the west and Sumy Oblast to the north-west. The area of the oblast is 31,400
   km², corresponding to 5.2% of the total territory of Ukraine.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(3).jpg
 ---
-        
+
 **Kharkiv Oblast** (Харківська́ о́бласть), also referred to as **Kharkivshchyna** (Ха́рківщина), is an oblast (province) of eastern Ukraine. The oblast borders Russia to the north, Luhansk Oblast to the east, Donetsk Oblast to the south-east, Dnipropetrovsk Oblast to the south-west, Poltava Oblast to the west and Sumy Oblast to the north-west. The area of the oblast is 31,400 km², corresponding to 5.2% of the total territory of Ukraine.
 
 The oblast is the third most populous province of Ukraine, with a population of 2,633,834 in 2021, more than half (1.43 million) of whom live in the city of Kharkiv, the oblast's administrative center. While the Russian language is primarily spoken in the cities of Kharkiv oblast, elsewhere in the oblast most inhabitants speak Ukrainian.
 
 ## Geography
+
 The oblast borders Russia (Belgorod Oblast) to the north, Luhansk Oblast to the east, Donetsk Oblast to the south-east, Dnipropetrovsk Oblast to the south-west, Poltava Oblast to the west and Sumy Oblast to the north-west.
 
 ## History
+
 During the Soviet administrative reform of 1923–1929, in 1925, the Kharkov Governorate was abolished leaving its five okruhas: Okhtyrka (originally Bohodukhiv), Izyum, Kupyansk, Sumy, and Kharkiv. Introduced in the Soviet Union in 1923, a similar subdivisions existed in Ukraine back in 1918. In 1930 all okruhas were also abolished with raions becoming the first level of subdivision of Ukraine until 1932.
 
 The modern Kharkiv Oblast was established on 27 February 1932. In the summer of 1932, some parts of the oblast were included in the newly created Donetsk Oblast originally centered in Artemivsk (later in Stalino). Then in the fall, some territories of the Kharkiv Oblast were used in creation of Chernihiv Oblast. More territories became part of Poltava Oblast in fall of 1937 and Sumy Oblast in winter of 1939.
@@ -274,81 +277,82 @@ During the 2022 Russian invasion of Ukraine, the Russian military launched a maj
 In early September 2022, the Ukrainian military commenced a counteroffensive in the region. Several settlements in the region were recaptured from Russian control. By 10 September 2022, Ukraine had recaptured Kupiansk and Izium. On 11 September, Russia had retreated from many of the settlements it previously occupied in the oblast and the Russian Ministry of Defense announced a formal withdrawal of Russian forces from most of Kharkiv Oblast stating that an "operation to curtail and transfer troops" was underway." By 12 September 2022, as the Russian front lines in Kharkiv Oblast continued to collapse, Ukrainian forces had managed to push back to the north-eastern border with Russia in some areas of the region. By 3 October 2022, Russian forces had completely withdrawn from Kharkiv Oblast.
 
 ## Demographics
- * Ukrainians – 70.7%
- * Russians – 25.6%
- * Belarusians – 0.5%
- * Jews – 0.4%
- * Armenians – 0.4%
- * Azeris – 0.2%
- * Georgians – 0.15%
- * Tatars – 0.14%
- * Others – 2.1%
- * Ukrainian – 53.8%
- * Russian – 44.3%
- * Other languages – 1.9%
-Its population in 2001 was 2,895,800 million (1,328,900 males (45.9%) and 1,566,900 females (54.1%)).
+
+- Ukrainians – 70.7%
+- Russians – 25.6%
+- Belarusians – 0.5%
+- Jews – 0.4%
+- Armenians – 0.4%
+- Azeris – 0.2%
+- Georgians – 0.15%
+- Tatars – 0.14%
+- Others – 2.1%
+- Ukrainian – 53.8%
+- Russian – 44.3%
+- Other languages – 1.9%
+  Its population in 2001 was 2,895,800 million (1,328,900 males (45.9%) and 1,566,900 females (54.1%)).
 
 At the 2001 census, the ethnic groups within the Kharkiv Oblast were:
 
-
-
 Groups by native language:
 
-
-
 ### Age structure
- * *0–14 years:* 12.6% (male 177,464/female 167,321)
- * *15–64 years:* 72.2% (male 945,695/female 1,024,841)
- * *65 years and over:* 15.2% (male 135,737/female 277,725) (2013 official)
 
+- _0–14 years:_ 12.6% (male 177,464/female 167,321)
+- _15–64 years:_ 72.2% (male 945,695/female 1,024,841)
+- _65 years and over:_ 15.2% (male 135,737/female 277,725) (2013 official)
 
 ### Median age
- * *total:* 40.5 years
- * *male:* 36.9 years
- * *female:* 44.1 years (2013 official)
 
+- _total:_ 40.5 years
+- _male:_ 36.9 years
+- _female:_ 44.1 years (2013 official)
 
 ## Administrative divisions
+
 ![Kharkiv oblast detail map](https://wikipedia.org/wiki/Special:Redirect/file/Kharkiv_oblast_detail_map.png?)
 
-|      Name      | Ukrainian name |   Area (km2)   | Population (2021) |  Admin. center |
-|       ---      |       ---      |       ---      |       ---      |       ---      |
-| Bohodukhiv Raion | Богодухівський район |      1,160     |     124,936    |   Bohodukhiv   |
-|  Chuhuiv Raion | Чугуївський район |      1,149     |     197,695    |     Chuhuiv    |
-|   Izium Raion  | Ізюмський район |      1,553     |     175,986    |      Izium     |
-|  Kharkiv Raion | Харківський район |      1,403     |    1,745,734   |     Kharkiv    |
-| Krasnohrad Raion | Красноградський район |      9,851     |     105,948    |   Krasnohrad   |
-| Kupiansk Raion | Куп’янський район |      4,618     |     133,135    |    Kupiansk    |
-|  Lozova Raion  | Лозівський район |      1,404     |     150,400    |     Lozova     |
+| Name             | Ukrainian name        | Area (km2) | Population (2021) | Admin. center |
+| ---------------- | --------------------- | ---------- | ----------------- | ------------- |
+| Bohodukhiv Raion | Богодухівський район  | 1,160      | 124,936           | Bohodukhiv    |
+| Chuhuiv Raion    | Чугуївський район     | 1,149      | 197,695           | Chuhuiv       |
+| Izium Raion      | Ізюмський район       | 1,553      | 175,986           | Izium         |
+| Kharkiv Raion    | Харківський район     | 1,403      | 1,745,734         | Kharkiv       |
+| Krasnohrad Raion | Красноградський район | 9,851      | 105,948           | Krasnohrad    |
+| Kupiansk Raion   | Куп’янський район     | 4,618      | 133,135           | Kupiansk      |
+| Lozova Raion     | Лозівський район      | 1,404      | 150,400           | Lozova        |
 
 The Kharkiv Oblast is administratively subdivided into 7 raions (districts). Prior to the 2020 decentralization reform, there were 25 raions, and also 7 cities (municipalities) that were directly subordinate to the oblast government (Chuhuiv, Izium, Kupiansk, Liubotyn, Lozova, Pervomaiskyi, and the administrative center of the oblast, Kharkiv).
 
-
-
 ## Nomenclature
-Most of Ukraine's oblasts are named after their capital cities, officially called "oblast centers" (обласний центр, translit. *oblasnyi tsentr*). The name of each oblast is a relative adjective, formed by adding a feminine suffix to the name of respective center city: *Kharkiv* is the center of the *Kharkivs’ka oblast’* (Kharkiv Oblast). Most oblasts are also sometimes referred to in a feminine noun form, following the convention of traditional regional place names, ending with the suffix "-shchyna", as is the case with the Kharkiv Oblast, *Kharkivshchyna*.
+
+Most of Ukraine's oblasts are named after their capital cities, officially called "oblast centers" (обласний центр, translit. _oblasnyi tsentr_). The name of each oblast is a relative adjective, formed by adding a feminine suffix to the name of respective center city: _Kharkiv_ is the center of the _Kharkivs’ka oblast’_ (Kharkiv Oblast). Most oblasts are also sometimes referred to in a feminine noun form, following the convention of traditional regional place names, ending with the suffix "-shchyna", as is the case with the Kharkiv Oblast, _Kharkivshchyna_.
 
 ## Economy
+
 The Kharkiv oblast has a primarily industrial economy, including engineering, metallurgy, manufacturing, production of chemicals and food processing. It also has an important agricultural sector with 19,000 square kilometres of arable land (comprising 5.9% of the total arable lands of Ukraine). Agricultural production grew substantially in 2015.
 
 Also in Kharkiv is the airplane plant for space controlling systems. It is a major center for all branches of engineering, from large-scale manufacture to microelectronics. Also situated in Kharkiv Oblast is a gas field, which is one of the biggest in Ukraine.
 
 ## Points of interest
-![Стадион ОСК Металлист (21299283693)](https://wikipedia.org/wiki/Special:Redirect/file/%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%9E%D0%A1%D0%9A_%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82_(21299283693).jpg?)
- * Derzhprom Building
- * Pokrov monastery (Kharkiv)
- * Skovoroda museum
-The following sites were nominated for the Seven Wonders of Ukraine.
+
+![Стадион ОСК Металлист (21299283693)](<https://wikipedia.org/wiki/Special:Redirect/file/%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%9E%D0%A1%D0%9A_%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82_(21299283693).jpg?>)
+
+- Derzhprom Building
+- Pokrov monastery (Kharkiv)
+- Skovoroda museum
+  The following sites were nominated for the Seven Wonders of Ukraine.
 
 ## Sport
+
 It has a regional federation within Ukrainian Bandy and Rink bandy Federation.
 
 ## References
 
-
 ## External links
- * Kharkiv Oblast Facts & Figures
- * Kharkiv Oblast statistics
- * Maps of Kharkiv oblast Cities, Towns and Villages
- * About Kharkiv Oblast
- * Post codes directory of Kharkiv Oblast
+
+- Kharkiv Oblast Facts & Figures
+- Kharkiv Oblast statistics
+- Maps of Kharkiv oblast Cities, Towns and Villages
+- About Kharkiv Oblast
+- Post codes directory of Kharkiv Oblast

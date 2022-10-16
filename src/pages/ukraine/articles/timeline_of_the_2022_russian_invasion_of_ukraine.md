@@ -7,6 +7,7 @@ description: On 24 February 2022, Russia launched a military invasion of
   satisfy criteria of completeness. Please note that some events may only be
   fully understood and/or discovered in retrospect.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(8).jpg
 ---
 

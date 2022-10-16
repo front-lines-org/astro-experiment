@@ -277,17 +277,18 @@ description: The Kyiv offensive was a theater in the 2022 Russian invasion of
   Kyiv and its surrounding areas. Russian operations around Kyiv saw the
   occupation of parts of neighbouring Zhytomyr Oblast as well.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(27).jpg
 ---
-        
+
 The **Kyiv offensive** was a theater in the 2022 Russian invasion of Ukraine. It involved attacks by Russia across the Russo-Ukrainian and Belarusian–Ukrainian borders beginning on 24 February 2022 for the control of Kyiv and its surrounding areas. Russian operations around Kyiv saw the occupation of parts of neighbouring Zhytomyr Oblast as well. Kyiv is the capital city of Ukraine, and houses the headquarters for the Ukrainian government and military command.
 
 Russian forces initially successfully captured several towns and cities in Kyiv Oblast. However, the offensive stalled over logistical and tactical issues. Amid heavy losses and little progress in the offensive, Russia withdrew its forces from Kyiv. Ukrainian forces subsequently retook control over Russian-occupied areas in the oblast in April 2022. Russian forces also retreated from Zhytomyr Oblast in April.
 
 ## History
 
-
 ### Russian advance on Kyiv
+
 On the morning of 24 February 2022, Russia initiated attacks on Kyiv Oblast with artillery and missile strikes on several primary targets, including Boryspil International Airport, Kyiv's primary airport. Russia apparently intended to rapidly seize Kyiv, with Spetsnaz infiltrating the city, supported by airborne operations and a rapid mechanised advance from the north. Russian Airborne Forces attempted to seize two key airfields near Kyiv, launching an airborne assault on Antonov Airport, followed by a similar landing at Vasylkiv, near Vasylkiv Air Base south of Kyiv, on 26 February.
 
 The attacks were unsuccessful due to several factors, including the disparity in morale and performance between Ukrainian and Russian forces, the Ukrainian use of sophisticated man-portable weapons provided by Western allies, poor Russian logistics and equipment performance, the failure of the Russian Air Force to achieve air superiority, and Russian military attrition during their siege of major cities. As Russian forces advanced towards Kyiv, Zelenskyy warned that "subversive groups" were approaching the city.
@@ -301,9 +302,11 @@ The attack force reached the Chernobyl Exclusion Zone and captured the Chernobyl
 The Russian advance was greatly hindered by logistical difficulties, partially caused by the Belarusian opposition, as dissident railway workers, hackers and security forces disrupted railway lines in Belarus. This operation, known as the 2022 rail war in Belarus, was mainly organized by individuals and three larger networks known as "Bypol", the "Community of Railway Workers", and the "Cyber Partisans".
 
 #### Operations in Zhytomyr Oblast
+
 Throughout the battle at Kyiv Oblast, the Zhytomyr Oblast was also affected. Russian forces operating nearby Kyiv had advanced some 20 mi into the oblast towards Bihun, Ukraine and Ovruch as of 3 March. The General Staff of the Ukrainian Armed Forces claimed that two Russian BTGs were within the territory of Zhytomyr Oblast.
 
 #### Antonov Airport occupied
+
 At 8:00 a.m. local time on 24 February 2022, 20 to 34 Russian military helicopters (Mil Mi-8 transport helicopters escorted by Ka-52 "Alligator" attack helicopters) flew south from the Belarus–Ukraine border and approached the town of Hostomel. The helicopter group reportedly carried around 300 VDV airborne troops, purportedly from the 11th Guards Air Assault Brigade or 31st Guards Air Assault Brigade for an assault on Antonov Airport nearby.
 
 The assault was an attempt to secure the site as an airbridge for Russian transport troops and heavy equipment (such as artillery and tanks) for an invasion on Kyiv proper. The helicopter group was met by attacks from Ukrainian small arms and MANPADS. The attack eventually downed one to three helicopters, with their pilots ejecting. Despite the attacks, the airport was swiftly captured due to minimal defense by members of the National Guard.
@@ -313,6 +316,7 @@ After the capture of the airport, Russian troops began to prepare for the arriva
 A renewed airborne assault was launched a day after the initial attack. With Russian mechanized units achieving breakthroughs at nearby Ivankiv, they were able to advance and capture the airport after a combined ground-based assault. Despite their success, the airport was deemed inoperable, ending chances for a swift Ukrainian capitulation via the capture of Kyiv. During the clash at Antonov Airport, the only existing Antonov An-225 Mriya (the world's largest operational aircraft) was destroyed in its storage hangar. The Russian government claimed nearly 200 Ukrainian deaths in the assault with no losses of its own.
 
 #### Fall of Ivankiv and Dymer
+
 Following the victory at Chernobyl, the Russian invading force approached the town of Ivankiv, 42 miles south of the Chernobyl Nuclear Power Plant. To halt the convoy, Ukrainian soldiers demolished a bridge over the Teteriv River, stopping the advance of the Russian column. Ukrainian airborne assault troops then engaged Russian units at Ivankiv and neighboring Dymer.
 
 Some Russian units were able to penetrate the Ukrainian defense at Ivankiv and reinforce other units at Antonov Airport, leading to its capture. During the fighting, the town was shelled, generating civilian casualties. The next day, a large Russian convoy was seen on satellite imagery heading toward the town.
@@ -320,6 +324,7 @@ Some Russian units were able to penetrate the Ukrainian defense at Ivankiv and r
 The Ivankiv Historical and Local History Museum was destroyed on 27 February, causing significant losses in its collection, notably the destruction of over 20 artworks by Maria Prymachenko. Fighting at Ivankiv continued until it was captured by Russian forces on 2 March.
 
 #### Hostomel attacked
+
 ![Battle of Hostomel, 04.03.2021, Skirmish Aftermath](https://wikipedia.org/wiki/Special:Redirect/file/Battle_of_Hostomel%2C_04.03.2021%2C_Skirmish_Aftermath.jpg?)
 After securing a breakthrough at Ivankiv on 25 February, troops from the 41st Combined Arms Army, 31st Guards Air Assault Brigade, and the Chechen 141st Motorized Regiment advanced to the nearby town of Hostomel on the same day. Hostomel was defended by elements of the 79th Air Assault Brigade, 3rd Spetsnaz Regiment, and the 3rd Special Purpose Regiment, along with civilian militias. Members of the Chechen 141st Regiment approached the town and began preparations for the assassination of Ukrainian president Volodymyr Zelenskyy.
 
@@ -330,12 +335,14 @@ Both sides suffered heavy losses during the battle: Russian forces lost over 21 
 Major Valeriy Chybineyev (sniper commander of the Ukrainian 79th Brigade) was killed near Antonov Airport on 4 April. After Hostomel's occupation, Ukrainian officials accused Russian units of preventing the evacuation of local civilians. Russian soldiers were reported spreading misinformation to residents about the state of war. On 7 March, Yuri Prilipko, the mayor of Hostomel, was killed by Russian troops.
 
 #### Ukrainian victory at Vasylkiv
+
 ![Thieves disguised as Ukrainian soldiers caught in Boryspil for stealing weapons](https://wikipedia.org/wiki/Special:Redirect/file/Thieves_disguised_as_Ukrainian_soldiers_caught_in_Boryspil_for_stealing_weapons.jpg?)
 On 26 February, Russian paratroopers began an assault on Vasylkiv, 40 km south of Kyiv, to capture a military airbase nearby. Ukrainian fighters shot down two Russian Ilyushin Il-76 transport aircraft that were attempting to land paratroopers for the assault. US officials later stated on 26 April that American intelligence data, shared with Ukrainian forces in real-time, assisted with the downing of the Il-76.
 
 Despite fierce anti-aircraft resistance, a large group of Russian paratrooper units was able to land near Vasylkiv. The units then advanced to the city and were involved in heavy fighting with the Ukrainian 40th Tactical Aviation Brigade, but were later repulsed. The victory was later proclaimed by the city mayor, Natalia Balasynovych, who claimed over 200 Ukrainian injuries during the fight. Following the conclusion of the battle, Ukrainian forces patrolled the city in search of Russian stragglers.
 
 #### Battle of Kyiv
+
 ![Выдвижение танкового подразделения в Киевской области в ходе вторжения на Украину 005](https://wikipedia.org/wiki/Special:Redirect/file/%D0%92%D1%8B%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8_%D0%B2_%D1%85%D0%BE%D0%B4%D0%B5_%D0%B2%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%83_005.png?)
 On 25 February, Russian fighter aircraft began bombarding central Kyiv. A Ukrainian Su-27 was then shot down. Russian saboteurs dressed as Ukrainian soldiers attempted to infiltrate Obolon, a suburb north of central Kyiv, just 10 km from the Verkhovna Rada building (the seat of the Ukrainian parliament), but were all captured or killed by Ukrainian troops. Army reserves were then activated to defend Kyiv. Gunfire, described by Ukrainian officials as clashes between Ukrainian and Russian troops, was heard in several wards of the city. Zelenskyy urged residents to engage in urban guerrilla warfare with Molotov cocktails against Russian forces. Guns were distributed to civilian militias. The Ukrainian government imposed a curfew on the city the next morning. Ukrainian forces claimed to have killed around 60 Russian saboteurs in a single day.
 
@@ -350,7 +357,8 @@ Estonian intelligence estimated that the advancing Russian convoy would arrive a
 On 10 March, Ukrainian forces claimed that the Azov Special Operations Detachment and the 72nd Mechanized Brigade ambushed the 6th and 239th Tank Regiments of the 90th Guards Tank Division in Brovary, inflicting heavy losses, including killing the 6th Tank Regiment's commander, Colonel Andrei Zakharo, forcing them to retreat.
 
 #### Fighting at Bucha and Irpin
-![Bucha main street, 2022-04-06 (0804)](https://wikipedia.org/wiki/Special:Redirect/file/Bucha_main_street%2C_2022-04-06_(0804).jpg?)
+
+![Bucha main street, 2022-04-06 (0804)](<https://wikipedia.org/wiki/Special:Redirect/file/Bucha_main_street%2C_2022-04-06_(0804).jpg?>)
 Fighting neared Bucha on 27 February, as the 36th Combined Arms Army and Russian special police forces approached the city. Russian artillery began bombarding the city at the same time, causing several civilian casualties, reportedly also wounding the mayor of Bucha, Anatoliy Fedoruk. As fighting developed, Russian breakthroughs allowed units to advance to Irpin.
 
 Ukrainian forces used artillery to shell Russian convoys to halt the advance, and destroyed a bridge linking Bucha and Irpin. According to the mayor of Irpin, Oleksandr Markushin, Russian forces were trapped and destroyed. Ukrainian forces engaged and destroyed an armored column on 28 February.
@@ -358,6 +366,7 @@ Ukrainian forces used artillery to shell Russian convoys to halt the advance, an
 Irpin was struck by missiles on 2 March. Russian forces attacked a Ukrainian checkpoint in Yasnohorodka on 6 March. Markushin had refused requests by Russian forces to surrender the town.
 
 ### Stalemate (11–15 March)
+
 ![Российские десантники захватили вооружение, поставленное западными странами.ogv](https://wikipedia.org/wiki/Special:Redirect/file/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D0%BB%D0%B8_%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%2C_%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%BC%D0%B8_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC%D0%B8.ogv?)
 ![Движение колонн ВС РФ и охрана моста в Киевской области 02](https://wikipedia.org/wiki/Special:Redirect/file/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD_%D0%92%D0%A1_%D0%A0%D0%A4_%D0%B8_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B0_%D0%BC%D0%BE%D1%81%D1%82%D0%B0_%D0%B2_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8_02.png?)
 By early March, Russian advances along the west side of the Dnipro were limited, after setbacks from Ukrainian defences. As of 5 March, a large Russian convoy, reportedly 64 km in length, had made little progress toward Kyiv. The London-based think tank Royal United Services Institute (RUSI) assessed Russian advances from the north and east as "stalled". Advances along the Chernihiv axis had largely halted as a siege there began. By 11 March, it was reported that the lengthy convoy had largely dispersed, taking up positions uder tree cover. Rocket launchers were also identified.
@@ -374,11 +383,12 @@ On 13 March, the UK's Ministry of Defence reported that Russian forces were 25 k
 
 That day American journalist Brent Renaud was killed and two other journalists were wounded at a checkpoint in Irpin when Russian forces reportedly shot at a car carrying non-Ukrainian journalists. Ukrainian forces prevented an attempt by Russian forces to advance further on Kyiv by blowing up a pontoon bridge on the Irpin river near Hostomel and 5 km north of the main bridge on the river. Russian advances across the Irpin were also hindered by flooding caused by their own attack on the Kozarovychi dam, which regulates flow from the Kyiv Reservoir.
 
-On 14 March, *Fox News* reporter Benjamin Hall was wounded in the village of Horenka while reporting on the conflict near Kyiv. Cameraman Pierre Zakrzewski and Oleksandra Kuvshynova, a Ukrainian news producer and fixer, were killed in the same attack. Anton Herashchenko, an adviser to the Ukrainian Minister of Internal Affairs, stated that the deaths were caused by Russian shelling. Russian forces meanwhile had captured Bucha and half of Irpin by 14 March.
+On 14 March, _Fox News_ reporter Benjamin Hall was wounded in the village of Horenka while reporting on the conflict near Kyiv. Cameraman Pierre Zakrzewski and Oleksandra Kuvshynova, a Ukrainian news producer and fixer, were killed in the same attack. Anton Herashchenko, an adviser to the Ukrainian Minister of Internal Affairs, stated that the deaths were caused by Russian shelling. Russian forces meanwhile had captured Bucha and half of Irpin by 14 March.
 
 On 15 March, a new military headquarters responsible for the defense of Kyiv was established. Zelenskyy appointed acting Commander of the Joint Forces Oleksandr Pavlyuk as head of the “Kyiv Regional Military Administration” and Eduard Koskalov the new Commander of the Joint Forces. The National Police of Ukraine stated that one civilian was killed and two others wounded in Hostomel when Russian troops fired at evacuation buses. In Bucha, Russian troops captured volunteers and employees of the city council, although they released them the next day.
 
 ### Ukrainian counter offensive (16 March – 4 April)
+
 ![UkrainiansinBucha](https://wikipedia.org/wiki/Special:Redirect/file/UkrainiansinBucha.png?)
 ![UkrainiansinPripyat](https://wikipedia.org/wiki/Special:Redirect/file/UkrainiansinPripyat.png?)
 ![Working trip of the President of Ukraine to the Kyiv region 108](https://wikipedia.org/wiki/Special:Redirect/file/Working_trip_of_the_President_of_Ukraine_to_the_Kyiv_region_108.jpg?)
@@ -398,7 +408,7 @@ Unable to achieve a quick victory in Kyiv, Russian forces switched strategies an
 
 Between 22 and 24 March, Ukraine retook the strategically important town of Makariv (22 March), the village of Moschun (23 March) and the small settlement of Lukyanovka (24 March). It was claimed that three Russian tanks and nine infantry fighting vehicles were destroyed at Lukyanovka, as well some armor captured, while Ukrainian troops were reportedly working on the encirclement of Russian units in nearby villages. Irpin was reportedly 80% controlled by Ukrainian forces, while Russia launched rocket attacks against the town.
 
-On 23 March, reports arose that Russian soldiers were starting to mutiny against their leaders. Colonel Yuri Medvedev was fighting in Makariv when a soldier from the 37th Guards Motor Rifle Brigade was reported to have deliberately rammed into the colonel, breaking both his legs, allegedly killing him. This was because the 37th Brigade, which he was commanding, was reported to have lost close to 50% of its men while fighting in Makariv. Dan Sabbagh wrote in *The Guardian* that while the attack most likely occurred, little evidence existed confirming that Medvedev had indeed died.
+On 23 March, reports arose that Russian soldiers were starting to mutiny against their leaders. Colonel Yuri Medvedev was fighting in Makariv when a soldier from the 37th Guards Motor Rifle Brigade was reported to have deliberately rammed into the colonel, breaking both his legs, allegedly killing him. This was because the 37th Brigade, which he was commanding, was reported to have lost close to 50% of its men while fighting in Makariv. Dan Sabbagh wrote in _The Guardian_ that while the attack most likely occurred, little evidence existed confirming that Medvedev had indeed died.
 
 On 24 March, the International Atomic Energy Agency (IAEA) said that Russian shelling on Slavutych prevented personnel from rotating to and from the Chernobyl nuclear plant.
 
@@ -421,6 +431,7 @@ On 1 April, Ukraine recaptured 13 villages in Kyiv oblast, while Russian forces 
 On 2 April, Ukrainian forces retook control over all of Kyiv Oblast including Irpin, Bucha, and Hostomel. Visual confirmation of Ukrainian forces retaking Pripyat district and the border area with Belarus was released on 3 April. Ukraine said it uncovered evidence of war crimes in Bucha. On 4 April, the Zhytomyr Oblast was declared liberated.
 
 ## Aftermath
+
 ![На Київщині прикордонники, спільно із побратимами зі ЗС України, дістали на сушу вертоліт рашистів.webm](https://wikipedia.org/wiki/Special:Redirect/file/%D0%9D%D0%B0_%D0%9A%D0%B8%D1%97%D0%B2%D1%89%D0%B8%D0%BD%D1%96_%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2C_%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE_%D1%96%D0%B7_%D0%BF%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D0%BC%D0%B0%D0%BC%D0%B8_%D0%B7%D1%96_%D0%97%D0%A1_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8%2C_%D0%B4%D1%96%D1%81%D1%82%D0%B0%D0%BB%D0%B8_%D0%BD%D0%B0_%D1%81%D1%83%D1%88%D1%83_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%96%D1%82_%D1%80%D0%B0%D1%88%D0%B8%D1%81%D1%82%D1%96%D0%B2.webm?)
 After Ukraine had fully retaken Kyiv Oblast, its military began to mop up pockets of isolated Russian troops who had been left behind in the retreat. The Institute for the Study of War assessed that these remnant groups did not offer organized resistance. The Institute for the Study of War aso said that some of the Russian units that were pulled back to Belarus and western Russia would "remain combat ineffective for a protracted period".
 
@@ -429,12 +440,13 @@ On 6 April, NATO secretary general Jens Stoltenberg said that the Russian "retra
 As the second phase of the invasion began, Kyiv was left generally free from attack apart from isolated missile strikes, one of which occurred during the 28 April visit of UN Secretary-General António Guterres, who met with Zelenskyy to discuss the fate of survivors at the siege of Mariupol.
 
 ### Bucha massacre
+
 Ukrainian authorities said that more than 300 civilian inhabitants of Bucha had been summarily executed. The bodies were discovered after the Russians withdrew. In total, 458 civilian deaths were recorded in Bucha, along with 1,300 deaths in Russian-occupied areas of Kyiv Oblast.
 
 ## See also
- * Northeastern Ukraine offensive
- * Eastern Ukraine offensive
- * Southern Ukraine offensive
 
+- Northeastern Ukraine offensive
+- Eastern Ukraine offensive
+- Southern Ukraine offensive
 
 ## References

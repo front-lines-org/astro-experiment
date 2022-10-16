@@ -251,10 +251,11 @@ description: Luhansk Oblast (Луга́нська о́бласть; Луганс
   область, until 1958 and again from 1970 to 1991 ) in honor of Kliment
   Voroshilov.
 author: Wikipedia
+pubDate: 14 Jul 2022
 img: ukraine(114).jpg
 ---
-        
-**Luhansk Oblast** (Луга́нська о́бласть; Луганская область; also referred to as **Luhanshchyna**, Луга́нщина) is the easternmost oblast (province) of Ukraine. The oblast's administrative center is Luhansk. The oblast was established in 1938 and bore the name *Voroshilovgrad Oblast* (Ворошиловградська область, until 1958 and again from 1970 to 1991 ) in honor of Kliment Voroshilov. Its population is estimated as
+
+**Luhansk Oblast** (Луга́нська о́бласть; Луганская область; also referred to as **Luhanshchyna**, Луга́нщина) is the easternmost oblast (province) of Ukraine. The oblast's administrative center is Luhansk. The oblast was established in 1938 and bore the name _Voroshilovgrad Oblast_ (Ворошиловградська область, until 1958 and again from 1970 to 1991 ) in honor of Kliment Voroshilov. Its population is estimated as
 
 Important cities within the oblast include Alchevsk, Antratsyt, Brianka, Kirovsk, Krasnyi Luch, Krasnodon, Lysychansk, Luhansk, Pervomaisk, Rovenky, Rubizhne, Sverdlovsk, Sievierodonetsk, and Stakhanov.
 
@@ -263,8 +264,8 @@ Important cities within the oblast include Alchevsk, Antratsyt, Brianka, Kirovsk
 On 30 September 2022 Russia annexed the Luhansk (LPR), Donetsk (Donetsk People's Republic), Zaporizhzhia, and Kherson Oblasts. However, the referendums and subsequent annexations are internationally unrecognized.
 
 ## Geography
-![Lugansk province physical map](https://wikipedia.org/wiki/Special:Redirect/file/Lugansk_province_physical_map.svg?)
 
+![Lugansk province physical map](https://wikipedia.org/wiki/Special:Redirect/file/Lugansk_province_physical_map.svg?)
 
 Luhansk Oblast is located in eastern Ukraine. The area of the oblast (26,700 km2), comprises about 4.42% of the total area of Ukraine.
 
@@ -277,12 +278,13 @@ The region is located in the valley of the Siversky Donets river, which splits t
 The left bank of the Siversky Donets river is part of the Starobilsk Plain. To the north this transforms into the Central Russian Upland.
 
 ### Adjacent subdivisions
- * *north*
- * *northeast*
- * *east*
- * *south*
- * *west*
-Belgorod Oblast, Russia
+
+- _north_
+- _northeast_
+- _east_
+- _south_
+- _west_
+  Belgorod Oblast, Russia
 
 Voronezh Oblast, Russia
 
@@ -294,10 +296,9 @@ Kharkiv Oblast
 
 ## History
 
-
 ### Soviet Ukraine (1938–1991)
-![Don Cossacks monument Luhansk](https://wikipedia.org/wiki/Special:Redirect/file/Don_Cossacks_monument_Luhansk.JPG?)
 
+![Don Cossacks monument Luhansk](https://wikipedia.org/wiki/Special:Redirect/file/Don_Cossacks_monument_Luhansk.JPG?)
 
 The oblast originated in 1938 as Voroshylovhrad (Russian: Voroshilovgrad) Oblast after the Donetsk Oblast was split between Voroshylovhrad and Stalino (today Donetsk Oblast) oblasts. After the invasion by Nazi Germany in 1941, the region came under a German military administration, due to its proximity to frontlines. It was occupied at the end of 1942 as part of Case Blue German offensive directed towards Stalingrad.
 
@@ -307,13 +308,14 @@ During the fateful March Referendum of 1991, 70.16% of all Ukrainians voted to r
 
 ### Independent Ukraine (1991–2014)
 
-
 #### Pro-Russian insurgency (2014–2022)
+
 On 8 April 2014, following the annexation of Crimea by Russia, pro-Russian separatists occupying the Luhansk Oblast administrative building planned to declare the independence of the region as the Luhansk Parliamentary Republic, after other pro-Russian separatists declared Donetsk People's Republic in the Donetsk Oblast (7 April 2014). When the Luhansk Parliamentary Republic ceased to exist, the separatists declared the Luhansk People's Republic on 27 April 2014. They held a disputed referendum on separating from Ukraine on 11 May 2014. The legitimacy of the referendums was not recognized by any government. Ukraine does not recognize the referendum, while the EU and US said the polls were illegal. Subsequently, the war in Donbas began.
 
 As a result of the war in Donbas, Luhansk insurgents control the southern third of the oblast, which includes the city of Luhansk, the region's most populous city and the capital of the oblast. Due to this, most oblast government functions have moved to Sievierodonetsk, which forces of the Government of Ukraine recaptured in July 2014. Many universities located in the occupied areas have moved to government-controlled cities such as Sievierodonetsk, Starobilsk or Rubizhne. A survey conducted in December 2014 by the Kyiv International Institute of Sociology found that 5.7% of the oblast's population supported their region joining Russia, 84.1% did not support the idea, and the rest were undecided or did not respond. Insurgent-controlled areas were not polled.
 
 #### Russian occupation (2022–present)
+
 During the 2022 Russian invasion of Ukraine, Russian ground forces entered the occupied territory of Luhansk Oblast by crossing the Russian border on February 22, 2022. They invaded government-controlled territory across the line of contact and the Russian border on February 24. As of 26 May 2022 had occupied all but 5% of the region.
 
 During the Battle of Donbas, Russian troops attacked and eventually captured the cities of Sieverodonetsk and Lysychansk during May and June 2022 in two of the most significant and most intense battles of the Eastern Ukraine offensive. By 3 July 2022, Russian and allied troops controlled all cities in the oblast.
@@ -325,62 +327,61 @@ On 11 September 2022, there were unconfirmed reports that Bilohorivka near Lysyc
 A referendum was held in Luhansk on joining the Russian Federation, although Ukraine along with the United Nations and most observers declared the referendum to be illegitimate. Following the supposed victory in the voting, the region and the Luhansk People's Republic were absorbed into Russia, becoming a subject of Russia.
 
 ## Administrative subdivisions
+
 ![Luhansk Oblast Map](https://wikipedia.org/wiki/Special:Redirect/file/Luhansk_Oblast_Map.jpg?)
 
-|  English Name  |   Local Name   |      Type      |   Area (km2)   | Population Census 2001 | Population Estimate 1 Jan 2012 |    Admin.ctr   |
-|       ---      |       ---      |       ---      |       ---      |       ---      |       ---      |       ---      |
-|    Alchevsk    |    Алчевськ    | city of regional significance |       49       |     119,193    |     112,071    |    Alchevsk    |
-|    Antratsyt   |    Антрацит    | city of regional significance |       61       |     90,835     |     78,482     |    Antratsit   |
-| Antratsitivsky | Антрацитівський (район) |      raion     |      1,662     |     36,971     |     31,454     |    Antratsit   |
-| Bilokurakynsky | Білокуракинський (район) |      raion     |      1,436     |     23,807     |     19,858     |  Bilokurakyne  |
-|   Bilovodsky   | Біловодський (район) |      raion     |      1,597     |     27,559     |     24,459     |    Bilovodsk   |
-|     Brianka    |     Брянка     | city of regional significance |       64       |     61,357     |     54,085     |     Brianca    |
-|     Kirovsk    |    Кіровськ    | city of regional significance |       35       |     45,012     |     36,708     |     Kirovsk    |
-|    Krasnodon   |    Краснодон   | city of regional significance |       77       |     118,168    |     104,640    |    Krasnodon   |
-|  Krasnodonsky  | Краснодонський (район) |      raion     |      1,386     |     32,846     |     29,983     |    Krasnodon   |
-|  Krasnyi Luch  |   Красний Луч  | city of regional significance |       154      |     145,129    |     125,166    |  Krasnyi Luch  |
-|    Kreminsky   | Кремінський (район) |      raion     |      1,627     |     51,927     |     42,357     |    Kreminna    |
-|     Luhansk    |    Луганськ    | city of regional significance |       286      |     503,248    |     466,627    |     Luhansk    |
-|   Lutuhynsky   | Лутугинський (район) |      raion     |      1,057     |     73,914     |     67,977     |    Lutuhyne    |
-|   Lysychansk   |   Лисичанськ   | city of regional significance |       96       |     133,258    |     120,785    |   Lysychansk   |
-|    Markivsky   | Марківський (район) |      raion     |      1,166     |     19,002     |     15,991     |    Markivka    |
-|    Milovsky    | Міловський (район) |      raion     |       971      |     17,415     |     15,696     |     Milove     |
-|  Novoaidarsky  | Новоайдарський (район) |      raion     |      1,536     |     28,451     |     25,618     |    Novoaidar   |
-|  Novopskovsky  | Новопсковський (район) |      raion     |      1,623     |     38,322     |     35,271     |    Novopskov   |
-|   Perevalsky   | Перевальський (район) |      raion     |       807      |     87,383     |     72,387     |    Perevalsk   |
-|   Pervomaisk   | Первомайськ (Міськрада) | city of regional significance |       89       |     80,622     |     70,581     |   Pervomaisk   |
-|  Popasniansky  | Попаснянський (район) |      raion     |      1,325     |     50,559     |     41,232     |     Popasna    |
-|     Rovenky    |    Ровеньки    | city of regional significance |       217      |     91,712     |     84,366     |     Rovenky    |
-|    Rubizhne    |     Рубіжне    | city of regional significance |       34       |     65,322     |     60,750     |    Rubizhne    |
-| Sievierodonetsk |  Северодонецьк | city of regional significance |       58       |     129,752    |     120,264    | Sieverodonetsk |
-| Slovianoserbsky (raion) | Слов'яносербський (район) |      raion     |      1,113     |     62,125     |     55,462     | Slovianoserbsk |
-|    Stakhanov   |    Стаханов    | city of regional significance |       92       |     108,266    |     92,818     |    Stakhanov   |
-| Stanychno-Luhansy | Станично-Луганський (район) |      raion     |      1,896     |     52,762     |     49,732     | Stanychno-Luhanske |
-|   Starobilsky  | Старобільський (район) |      raion     |      1,582     |     57,755     |     47,765     |   Starobilsk   |
-|    Svativsky   | Сватівський (район) |      raion     |      1,739     |     43,069     |     37,652     |     Svatove    |
-|   Sverdlovsk   |   Свердловськ  | city of regional significance |       84       |     110,159    |     99,024     |   Sverdlovsk   |
-|   Sverdlovsky  | Свердловський (район) |      raion     |      1,132     |     14,574     |     12,210     |   Sverdlovsk   |
-|    Troitsky    | Троїцький (район) |      raion     |      1,633     |     25,704     |     21,205     |    Troitske    |
-| **''Total Oblast** | Луганська (Область) |     oblast     |     26,683     |    2,546,178   |    2,272,676   |     Luhansk    |
-
-
+| English Name            | Local Name                  | Type                          | Area (km2) | Population Census 2001 | Population Estimate 1 Jan 2012 | Admin.ctr          |
+| ----------------------- | --------------------------- | ----------------------------- | ---------- | ---------------------- | ------------------------------ | ------------------ |
+| Alchevsk                | Алчевськ                    | city of regional significance | 49         | 119,193                | 112,071                        | Alchevsk           |
+| Antratsyt               | Антрацит                    | city of regional significance | 61         | 90,835                 | 78,482                         | Antratsit          |
+| Antratsitivsky          | Антрацитівський (район)     | raion                         | 1,662      | 36,971                 | 31,454                         | Antratsit          |
+| Bilokurakynsky          | Білокуракинський (район)    | raion                         | 1,436      | 23,807                 | 19,858                         | Bilokurakyne       |
+| Bilovodsky              | Біловодський (район)        | raion                         | 1,597      | 27,559                 | 24,459                         | Bilovodsk          |
+| Brianka                 | Брянка                      | city of regional significance | 64         | 61,357                 | 54,085                         | Brianca            |
+| Kirovsk                 | Кіровськ                    | city of regional significance | 35         | 45,012                 | 36,708                         | Kirovsk            |
+| Krasnodon               | Краснодон                   | city of regional significance | 77         | 118,168                | 104,640                        | Krasnodon          |
+| Krasnodonsky            | Краснодонський (район)      | raion                         | 1,386      | 32,846                 | 29,983                         | Krasnodon          |
+| Krasnyi Luch            | Красний Луч                 | city of regional significance | 154        | 145,129                | 125,166                        | Krasnyi Luch       |
+| Kreminsky               | Кремінський (район)         | raion                         | 1,627      | 51,927                 | 42,357                         | Kreminna           |
+| Luhansk                 | Луганськ                    | city of regional significance | 286        | 503,248                | 466,627                        | Luhansk            |
+| Lutuhynsky              | Лутугинський (район)        | raion                         | 1,057      | 73,914                 | 67,977                         | Lutuhyne           |
+| Lysychansk              | Лисичанськ                  | city of regional significance | 96         | 133,258                | 120,785                        | Lysychansk         |
+| Markivsky               | Марківський (район)         | raion                         | 1,166      | 19,002                 | 15,991                         | Markivka           |
+| Milovsky                | Міловський (район)          | raion                         | 971        | 17,415                 | 15,696                         | Milove             |
+| Novoaidarsky            | Новоайдарський (район)      | raion                         | 1,536      | 28,451                 | 25,618                         | Novoaidar          |
+| Novopskovsky            | Новопсковський (район)      | raion                         | 1,623      | 38,322                 | 35,271                         | Novopskov          |
+| Perevalsky              | Перевальський (район)       | raion                         | 807        | 87,383                 | 72,387                         | Perevalsk          |
+| Pervomaisk              | Первомайськ (Міськрада)     | city of regional significance | 89         | 80,622                 | 70,581                         | Pervomaisk         |
+| Popasniansky            | Попаснянський (район)       | raion                         | 1,325      | 50,559                 | 41,232                         | Popasna            |
+| Rovenky                 | Ровеньки                    | city of regional significance | 217        | 91,712                 | 84,366                         | Rovenky            |
+| Rubizhne                | Рубіжне                     | city of regional significance | 34         | 65,322                 | 60,750                         | Rubizhne           |
+| Sievierodonetsk         | Северодонецьк               | city of regional significance | 58         | 129,752                | 120,264                        | Sieverodonetsk     |
+| Slovianoserbsky (raion) | Слов'яносербський (район)   | raion                         | 1,113      | 62,125                 | 55,462                         | Slovianoserbsk     |
+| Stakhanov               | Стаханов                    | city of regional significance | 92         | 108,266                | 92,818                         | Stakhanov          |
+| Stanychno-Luhansy       | Станично-Луганський (район) | raion                         | 1,896      | 52,762                 | 49,732                         | Stanychno-Luhanske |
+| Starobilsky             | Старобільський (район)      | raion                         | 1,582      | 57,755                 | 47,765                         | Starobilsk         |
+| Svativsky               | Сватівський (район)         | raion                         | 1,739      | 43,069                 | 37,652                         | Svatove            |
+| Sverdlovsk              | Свердловськ                 | city of regional significance | 84         | 110,159                | 99,024                         | Sverdlovsk         |
+| Sverdlovsky             | Свердловський (район)       | raion                         | 1,132      | 14,574                 | 12,210                         | Sverdlovsk         |
+| Troitsky                | Троїцький (район)           | raion                         | 1,633      | 25,704                 | 21,205                         | Troitske           |
+| **''Total Oblast**      | Луганська (Область)         | oblast                        | 26,683     | 2,546,178              | 2,272,676                      | Luhansk            |
 
 Like the rest of the provinces in Ukraine, Luhansk Oblast has a double jurisdiction. The oblast is predominantly administrated by the Luhansk Oblast State Administration, headed by the governor of the oblast, who is appointed by the President of Ukraine. The province has a representative body, the provincial council, which is headed by its chairman and elected by popular vote.
 
-The province is primarily divided into 18 *raions* (districts), and 37 cities, including 14 cities of regional significance. The administrative center is Luhansk. These raions are listed below with their areas and populations.
+The province is primarily divided into 18 _raions_ (districts), and 37 cities, including 14 cities of regional significance. The administrative center is Luhansk. These raions are listed below with their areas and populations.
 
 The province's secondary division consists of various municipalities. Those municipalities may consist of one or more populated places. The municipalities are administratively subordinate to the raion in which they are located, with the exception of 14 cities subordinated directly to the oblast. The city of Luhansk is subdivided into its own four city-districts (boroughs).
 
-All subdivisions are governed by their respective councils (*radas*).
+All subdivisions are governed by their respective councils (_radas_).
 
 ### Cities
- * regional municipalities
 
+- regional municipalities
 
 ## Demographics
+
 ![City Day Lisichansk](https://wikipedia.org/wiki/Special:Redirect/file/City_Day_Lisichansk.JPG?)
 ![LuhanskRussianLang2001](https://wikipedia.org/wiki/Special:Redirect/file/LuhanskRussianLang2001.PNG?)
-
 
 The population is largely Russian-speaking, although ethnic Ukrainians constitute a majority (58.0%). Among the minorities are native Russians (39.1%), Belarusians (0.8%), and others (1.4%). Ukrainians constitute the majority in all raions except for Stanytsia-Luhanska Raion and Krasnodon Raion, both of which are east of Luhansk. Ethnic Russians also constitute the majority in regionally significant cities, such as Krasnodon, Sverdlovsk, Krasnyi Luch and Stakhanov.
 
@@ -389,107 +390,112 @@ In the 2001 Ukrainian Census, more than 68.8% of the population considered thems
 Its population (as of 2004) of 2,461,506 constitutes 5.13% of the overall Ukrainian population. The Luhansk Oblast rates fifth in Ukraine by the number of its inhabitants, having an average population density of 90.28/km2. About 87% of the population lives in urban areas, while the remaining 13% reside in agricultural areas. According to the national census, 54% of the population are Ukrainians and 42% are Russians.
 
 ### Age structure
- * 0-14 years: 12.3% (male 143,272/female 134,803)
- * 15-64 years: 71.4% (male 768,544/female 838,639)
- * *65 years and over:* 16.3% (male 117,782/female 248,914) (2013 official)
 
+- 0-14 years: 12.3% (male 143,272/female 134,803)
+- 15-64 years: 71.4% (male 768,544/female 838,639)
+- _65 years and over:_ 16.3% (male 117,782/female 248,914) (2013 official)
 
 ### Median age
- * *total:* 42.1 years
- * *male:* 38.2 years
- * *female:* 45.9 years (2013 official)
 
+- _total:_ 42.1 years
+- _male:_ 38.2 years
+- _female:_ 45.9 years (2013 official)
 
 ## Economy
+
 Economically the region is connected with the Donets Basin.
 
 ### Extracting industry
- * Lysychansk Coal
- * Luhansk Coal
- * Sverdlov Anthracite
- * Anthracite
- * Pervomaisk Coal
- * Rovenky Anthracite
- * Donbas Anthracite
 
+- Lysychansk Coal
+- Luhansk Coal
+- Sverdlov Anthracite
+- Anthracite
+- Pervomaisk Coal
+- Rovenky Anthracite
+- Donbas Anthracite
 
 ### Machine building
-![СО17-1000](https://wikipedia.org/wiki/Special:Redirect/file/%D0%A1%D0%9E17-1000.JPG?)
- * Luhanskteplovoz
- * Krasnyi Luch Machine building Factory
- * Pervomaisk Power mechanical Factory
- * Stakhanov Railcar Plant
 
+![СО17-1000](https://wikipedia.org/wiki/Special:Redirect/file/%D0%A1%D0%9E17-1000.JPG?)
+
+- Luhanskteplovoz
+- Krasnyi Luch Machine building Factory
+- Pervomaisk Power mechanical Factory
+- Stakhanov Railcar Plant
 
 ### Metallurgy
- * Alchevsk Metallurgy Combine
- * Alchevsk Coke-chemical Factory
 
+- Alchevsk Metallurgy Combine
+- Alchevsk Coke-chemical Factory
 
 ### Chemical and oil refinery
- * Sievierodonetsk Association Azot
- * Association Skloplastyk
- * Lysynchansk Oil Refinery
 
+- Sievierodonetsk Association Azot
+- Association Skloplastyk
+- Lysynchansk Oil Refinery
 
 ### Agriculture
- * Derkul Horse Factory
-The oblast has post industrial sites which run off building material into surrounding land. Yakymchuk 2018 finds feral stands of *Triticum aestivum* have colonised several of these sites.
 
-
+- Derkul Horse Factory
+  The oblast has post industrial sites which run off building material into surrounding land. Yakymchuk 2018 finds feral stands of _Triticum aestivum_ have colonised several of these sites.
 
 ### Power generation
- * Sievierodonetsk Power Station
- * Luhansk power station
- * Shteriv power station (liquidated)
 
+- Sievierodonetsk Power Station
+- Luhansk power station
+- Shteriv power station (liquidated)
 
 ## Transport
- * within the Luhansk Oblast uses highway that starts from Debaltseve (Donetsk Oblast), passes through the city of Krasnyi Luch, and enters the Russian Federation at the border checkpoint "Dovzhansky" (settlement Dovzhanske, town of Biryukove).
- * within the Luhansk Oblast uses highway that starts from Debaltseve (Donetsk Oblast), passes through the city of Luhansk, and enters the Russian Federation at the border checkpoint "Izvaryne" (town of Izvaryne).
- * There is also another highway that runs from north to south and connects Starobilsk, Luhansk, and Krasnyi Luch with Donetsk.
-Through the region pass two major European routes and. There are 24 Russo-Ukrainian international border checkpoints of various entry.
+
+- within the Luhansk Oblast uses highway that starts from Debaltseve (Donetsk Oblast), passes through the city of Krasnyi Luch, and enters the Russian Federation at the border checkpoint "Dovzhansky" (settlement Dovzhanske, town of Biryukove).
+- within the Luhansk Oblast uses highway that starts from Debaltseve (Donetsk Oblast), passes through the city of Luhansk, and enters the Russian Federation at the border checkpoint "Izvaryne" (town of Izvaryne).
+- There is also another highway that runs from north to south and connects Starobilsk, Luhansk, and Krasnyi Luch with Donetsk.
+  Through the region pass two major European routes and. There are 24 Russo-Ukrainian international border checkpoints of various entry.
 
 Rail transportation is administered by the Donetsk Railway.
 
 There is also its regional airport Luhansk International Airport with its own carrier.
 
 ## Education
-![Vladimir Dal's house in Luhansk](https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Dal's_house_in_Luhansk.jpg?)
- * East Ukrainian National University
- * University of Luhansk
- * Donbas State Technical University
 
+![Vladimir Dal's house in Luhansk](https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Dal's_house_in_Luhansk.jpg?)
+
+- East Ukrainian National University
+- University of Luhansk
+- Donbas State Technical University
 
 ### Specialized
- * Luhansk State Medical University
- * Luhansk National Agrarian University
- * Luhansk State University of Internal Affairs
 
+- Luhansk State Medical University
+- Luhansk National Agrarian University
+- Luhansk State University of Internal Affairs
 
 ## Points of interest
+
 ![Seleznivka](https://wikipedia.org/wiki/Special:Redirect/file/Seleznivka.jpg?)
- * The house of Dal's birth (Luhansk)
- * Fighters for the Revolution monument
- * Derkul horse factory
- * Royal Rocks (Luhansk State Preserve)
- * Chasm Steppe (Sverdlovsk Raion)
- * Ram Foreheads (limestone rocks)
- * Mścichowski Palace (Палац Мсциховського)
-The following sites were nominated for the Seven Wonders of Ukraine.
+
+- The house of Dal's birth (Luhansk)
+- Fighters for the Revolution monument
+- Derkul horse factory
+- Royal Rocks (Luhansk State Preserve)
+- Chasm Steppe (Sverdlovsk Raion)
+- Ram Foreheads (limestone rocks)
+- Mścichowski Palace (Палац Мсциховського)
+  The following sites were nominated for the Seven Wonders of Ukraine.
 
 ## Notable People
- * Dov Markus (born 1946), Israeli-American soccer player, born in Donbas.
- * Serhiy Zhadan (born 1974), writer.
 
+- Dov Markus (born 1946), Israeli-American soccer player, born in Donbas.
+- Serhiy Zhadan (born 1974), writer.
 
 ## See also
- * 2014 Donbas status referendums
 
+- 2014 Donbas status referendums
 
 ## References
 
-
 ## External links
- * Official site of Luhansk Oblast Administration
- * Information Card of the Region – official site of the Cabinet of Ministers of Ukraine
+
+- Official site of Luhansk Oblast Administration
+- Information Card of the Region – official site of the Cabinet of Ministers of Ukraine
