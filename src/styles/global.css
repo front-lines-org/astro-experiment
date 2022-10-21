@@ -17,3 +17,18 @@
   transform: scale(1);
   font-family: "Cousine", monospace;
 }
+
+.primary-color {
+  color: var(--main-bg-color);
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: white;
+  background: var(--main-bg-color);
+}
+
+::selection {
+  color: white;
+  background: var(--main-bg-color);
+}

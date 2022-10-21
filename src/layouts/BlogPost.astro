@@ -28,10 +28,7 @@ const {
 
 	<p>
 		{authorUrl && <a href={authorUrl} class="text-black">{author}</a>}
-		{!authorUrl && <span class="text-black">{author}</span>} {pubDate}  
-	  </p>
-    {img && <img width={720} height={360} src={`/images/${img}`} alt="" />}
-    {pubDate && <time>{pubDate}</time>}
+		{!authorUrl && <span class="text-black">{author}</span>} <time>{pubDate}</time>  
     {
       updatedDate && (
         <div>
@@ -39,7 +36,8 @@ const {
         </div>
       )
     }
-    <hr />
+	  </p>
+    {img && <img width={720} height={360} src={img.startsWith('http') ? img : `/images/${img}`} alt="" />}
     <slot />
   </article>
 </DefaultLayout>
