@@ -8,13 +8,13 @@ export interface Props {
     pubDate?: string;
     updatedDate?: string;
     img?: string;
-	author?: string;
-	authorUrl?: string;
+    author?: string;
+    authorUrl?: string;
   };
 }
 
 const {
-  content: { title, description, pubDate, updatedDate, img, author, authorUrl},
+  content: { title, description, pubDate, updatedDate, img, author, authorUrl },
 } = Astro.props;
 ---
 
@@ -22,22 +22,38 @@ const {
   <article class="prose prose-sm mx-auto mt-9">
     <h3 class="not-prose primary-color font-black">Ukraine</h3>
     <h1 class="title">{title}</h1>
-	<p class="font-bold">
-		{description}
-	</p>
+    <p class="font-bold">
+      {description}
+    </p>
 
-	<p>
-		{authorUrl && <a href={authorUrl} class="text-black">{author}</a>}
-		{!authorUrl && <span class="text-black">{author}</span>} <time>{pubDate}</time>  
+    <p>
+      {
+        authorUrl && (
+          <a href={authorUrl} class="text-black">
+            {author}
+          </a>
+        )
+      }
+      {!authorUrl && <span class="text-black">{author}</span>}
+      <time>{pubDate}</time>
+      {
+        updatedDate && (
+          <div>
+            Last updated on <time>{updatedDate}</time>
+          </div>
+        )
+      }
+    </p>
     {
-      updatedDate && (
-        <div>
-          Last updated on <time>{updatedDate}</time>
-        </div>
+      img && (
+        <img
+          width={720}
+          height={360}
+          src={img.startsWith("http") ? img : `/images/${img}`}
+          alt=""
+        />
       )
     }
-	  </p>
-    {img && <img width={720} height={360} src={img.startsWith('http') ? img : `/images/${img}`} alt="" />}
     <slot />
   </article>
 </DefaultLayout>

@@ -4,6 +4,8 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 import DefaultLayout from "@layouts/DefaultLayout.astro";
+import ArticlePreview from "src/components/ArticlePreview.svelte";
+import InsetBorder from "src/components/InsetBorder.svelte";
 
 const { category } = Astro.params;
 // Use Astro.glob() to fetch all posts, and then sort them by date.
@@ -15,19 +17,18 @@ const posts = (await Astro.glob("./**/*.{md,mdx}"))
   )
   .filter((post) => post.url.includes(`/${category}/`));
 
-console.log(category);
-
 export function getStaticPaths() {
   return [
     // Generates: /dogs/clifford
-    { params: { category: "ukraine" } },
-    { params: { category: "caucasus" } },
-    { params: { category: "sahel" } },
-    { params: { category: "about" } },
-    { params: { category: "asia" } },
+    { params: { category: "ukraine" }, props: { color: "#FF0000" } },
+    { params: { category: "caucasus" }, props: { color: "#FF0000" } },
+    { params: { category: "sahel" }, props: { color: "#FF0000" } },
+    { params: { category: "about" }, props: { color: "#FF0000" } },
+    { params: { category: "asia" }, props: { color: "#FF0000" } },
   ];
 }
 ---
+
 <DefaultLayout>
   <section>
     <ul>
@@ -35,14 +36,11 @@ export function getStaticPaths() {
         posts.map((post) => (
           <li>
             <time datetime={post.frontmatter.pubDate}>
-              {new Date(post.frontmatter.pubDate).toLocaleDateString(
-                "en-us",
-                {
-                  year: "numeric",
-                  month: "short",
-                  day: "numeric",
-                }
-              )}
+              {new Date(post.frontmatter.pubDate).toLocaleDateString("en-us", {
+                year: "numeric",
+                month: "short",
+                day: "numeric",
+              })}
             </time>
             <a href={post.url}>{post.frontmatter.title}</a>
           </li>
@@ -50,6 +48,20 @@ export function getStaticPaths() {
       }
     </ul>
   </section>
+  {
+    posts.map((post) => (
+      <InsetBorder>
+        <ArticlePreview
+          author={post.frontmatter.author}
+          description={post.frontmatter.shortDescription}
+          img={post.frontmatter.img}
+          url={post.url}
+          showExcerpt={true}
+          title={post.frontmatter.title}
+        />
+      </InsetBorder>
+    ))
+  }
 </DefaultLayout>
 <style>
   ul {
