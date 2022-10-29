@@ -15,16 +15,17 @@ const posts = (await Astro.glob("./**/*.{md,mdx}"))
       new Date(b.frontmatter.pubDate).valueOf() -
       new Date(a.frontmatter.pubDate).valueOf()
   )
-  .filter((post) => post.url.includes(`/${category}/`));
+  .filter((post) => !category || post.url.includes(`/${category}/`));
 
 export function getStaticPaths() {
   return [
     // Generates: /dogs/clifford
+    { params: {}, props: { color: "#FF0000" } },
     { params: { category: "ukraine" }, props: { color: "#FF0000" } },
     { params: { category: "caucasus" }, props: { color: "#FF0000" } },
     { params: { category: "sahel" }, props: { color: "#FF0000" } },
+    { params: { category: "syria" }, props: { color: "#FF0000" } },
     { params: { category: "about" }, props: { color: "#FF0000" } },
-    { params: { category: "asia" }, props: { color: "#FF0000" } },
   ];
 }
 ---
