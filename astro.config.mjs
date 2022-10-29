@@ -17,10 +17,10 @@ function defaultLayoutPlugin() {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://example.com",
+  site: "https://test.front-lines.org",
   integrations: [mdx(), sitemap(), tailwind(), image(), svelte()],
   markdown: {
     remarkPlugins: [defaultLayoutPlugin],
-    extendDefaultPlugins: true
-  }
+    extendDefaultPlugins: true,
+  },
 });
