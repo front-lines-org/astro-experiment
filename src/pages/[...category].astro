@@ -8,6 +8,7 @@ import ArticlePreview from "src/components/ArticlePreview.svelte";
 import InsetBorder from "src/components/InsetBorder.svelte";
 
 const { category } = Astro.params;
+const { categoryName, textColor } = Astro.props;
 // Use Astro.glob() to fetch all posts, and then sort them by date.
 const posts = (await Astro.glob("./**/*.{md,mdx}"))
   .sort(
@@ -19,51 +20,128 @@ const posts = (await Astro.glob("./**/*.{md,mdx}"))
 
 export function getStaticPaths() {
   return [
-    // Generates: /dogs/clifford
-    { params: {}, props: { color: "#FF0000" } },
-    { params: { category: "ukraine" }, props: { color: "#FF0000" } },
-    { params: { category: "caucasus" }, props: { color: "#FF0000" } },
-    { params: { category: "sahel" }, props: { color: "#FF0000" } },
-    { params: { category: "syria" }, props: { color: "#FF0000" } },
-    { params: { category: "about" }, props: { color: "#FF0000" } },
+    { params: {}, props: { textColor: "text-pink-300" } },
+    {
+      params: { category: "ukraine" },
+      props: { categoryName: "Ukraine", textColor: "text-pink-300" },
+    },
+    {
+      params: {
+        category: "caucasus",
+      },
+
+      props: { textColor: "text-yellow-300", categoryName: "Caucasus" },
+    },
+    {
+      params: { category: "sahel" },
+      props: { categoryName: "Sahel", textColor: "text-pink-300" },
+    },
+    {
+      params: { category: "syria" },
+      props: { categoryName: "Syria", textColor: "text-green-300" },
+    },
+    {
+      params: { category: "about" },
+      props: { categoryName: "About", textColor: "text-pink-300" },
+    },
   ];
 }
 ---
 
 <DefaultLayout>
-  <section>
-    <ul>
-      {
-        posts.map((post) => (
-          <li>
-            <time datetime={post.frontmatter.pubDate}>
-              {new Date(post.frontmatter.pubDate).toLocaleDateString("en-us", {
-                year: "numeric",
-                month: "short",
-                day: "numeric",
-              })}
-            </time>
-            <a href={post.url}>{post.frontmatter.title}</a>
-          </li>
-        ))
-      }
-    </ul>
-  </section>
-  {
-    posts.map((post) => (
-      <InsetBorder>
-        <ArticlePreview
-          author={post.frontmatter.author}
-          description={post.frontmatter.shortDescription}
-          img={post.frontmatter.img}
-          url={post.url}
-          showExcerpt={true}
-          title={post.frontmatter.title}
-        />
-      </InsetBorder>
-    ))
-  }
+  <div
+    class="grid overflow-hidden md grid-cols-3 auto-rows-auto md:grid-cols-12"
+  >
+    <div class="col-start-1 col-span-9">
+      <div
+        class="grid overflow-hidden lg grid-cols-3 md:grid-cols-12 auto-rows-auto"
+      >
+        <div class="col-span-3 order-2 md:order-1">
+          <div>
+            {
+              posts.slice(1, 8).map((post) => (
+                <InsetBorder>
+                  <ArticlePreview
+                    publishDate={post.frontmatter.pubDate}
+                    author={post.frontmatter.author}
+                    description={post.frontmatter.shortDescription}
+                    img={post.frontmatter.img}
+                    url={post.url}
+                    size="sm"
+                    showExcerpt={true}
+                    category={categoryName + ""}
+                    title={post.frontmatter.title}
+                    twColor={textColor}
+                  />
+                </InsetBorder>
+              ))
+            }
+          </div>
+        </div>
+        <div class="box col-span-9 order-1 md:order-2">
+          <div>
+            <InsetBorder>
+              <ArticlePreview
+                publishDate={posts[0].frontmatter.pubDate}
+                author={posts[0].frontmatter.author}
+                description={posts[0].frontmatter.shortDescription}
+                img={posts[0].frontmatter.img}
+                url={posts[0].url}
+                size="lg"
+                showExcerpt={true}
+                title={posts[0].frontmatter.title}
+                category={categoryName + ""}
+                twColor={textColor}
+              />
+            </InsetBorder>
+            {
+              posts.slice(8, 19).map((post) => (
+                <InsetBorder>
+                  <ArticlePreview
+                    publishDate={post.frontmatter.pubDate}
+                    author={post.frontmatter.author}
+                    description={post.frontmatter.shortDescription}
+                    img={post.frontmatter.img}
+                    url={post.url}
+                    size="md"
+                    showExcerpt={true}
+                    title={post.frontmatter.title}
+                    category={categoryName + ""}
+                    twColor={textColor}
+                  />
+                </InsetBorder>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-span-3">
+      <div>
+        {
+          posts.map((post) => (
+            <InsetBorder>
+              <ArticlePreview
+                publishDate={post.frontmatter.pubDate}
+                author={post.frontmatter.author}
+                description={post.frontmatter.shortDescription}
+                img={post.frontmatter.img}
+                url={post.url}
+                showExcerpt={true}
+                title={post.frontmatter.title}
+                size="xs"
+                category={categoryName + ""}
+                twColor={textColor}
+              />
+            </InsetBorder>
+          ))
+        }
+      </div>
+    </div>
+  </div>
 </DefaultLayout>
+
 <style>
   ul {
     list-style-type: none;

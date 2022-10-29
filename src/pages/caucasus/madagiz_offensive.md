@@ -1,4 +1,5 @@
 ---
+pubDate: "2022-02-13"
 infoboxes:
   - conflict:
       text: Madagiz offensive
@@ -97,9 +98,11 @@ author: Wikipedia
 The **Madagiz offensive**, also called the **Battle of Madagiz** (Madagiz döyüşü; Մատաղիսի ճակատամարտ), or the **Battle of Sugovushan** (Suqovuşan döyüşü), was a military operation launched by Azerbaijan against the self-proclaimed Republic of Artsakh and their Armenian allies during the 2020 Nagorno-Karabakh war. The offensive began on 28 September, when the Azerbaijani forces advanced towards Armenian positions near the abandoned village of Talish. By 3 October, the Azerbaijani forces had seized control of Talish, and the town of Madagiz.
 
 ## Timeline
-On 27 September 2020, clashes broke out in the disputed Nagorno-Karabakh region, which is *de facto* controlled by Artsakh, but *de jure* part of Azerbaijan. This was followed by an offensive launched by the Azerbaijani Armed Forces in the direction of Talish and Madagiz next day, with the Azerbaijani forces had gaining control of a "strategic high ground" around Talish. On 29 September, the Azerbaijani authorities stated that their aerial and ground forces destroyed a mixed column of Armenian military vehicles travelling from Madagiz, together with an artillery battery. They also stated that the Azerbaijani forces had destroyed an Armenian position near Talish. On 2 October, the Azerbaijani forces captured and took control of dominant heights around Madagiz, By 3 October, the Azerbaijani forces had seized control of Talish and Madagiz, as well as the latter's strategic dam. On 9 October, the Azerbaijani authorities released confirmary footage from Talish and Madagiz.
+
+On 27 September 2020, clashes broke out in the disputed Nagorno-Karabakh region, which is _de facto_ controlled by Artsakh, but _de jure_ part of Azerbaijan. This was followed by an offensive launched by the Azerbaijani Armed Forces in the direction of Talish and Madagiz next day, with the Azerbaijani forces had gaining control of a "strategic high ground" around Talish. On 29 September, the Azerbaijani authorities stated that their aerial and ground forces destroyed a mixed column of Armenian military vehicles travelling from Madagiz, together with an artillery battery. They also stated that the Azerbaijani forces had destroyed an Armenian position near Talish. On 2 October, the Azerbaijani forces captured and took control of dominant heights around Madagiz, By 3 October, the Azerbaijani forces had seized control of Talish and Madagiz, as well as the latter's strategic dam. On 9 October, the Azerbaijani authorities released confirmary footage from Talish and Madagiz.
 
 ## Aftermath
+
 On 3 October, Madagiz was renamed to Sugovushan by the decree of Ilham Aliyev, the President of Azerbaijan.
 
 Azerbaijani colonel Babak Samidli, deputy commander of the 1st Army Corps, died from a land-mine explosion on 23 November, during a post-armistice search for the bodies of missing soldiers in Madagiz.

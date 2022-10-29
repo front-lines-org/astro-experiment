@@ -1,4 +1,5 @@
 ---
+pubDate: "2022-02-13"
 infoboxes:
   - conflict:
       text: Lachin offensive
@@ -172,11 +173,13 @@ description: The Lachin offensive (Laçına hücum əməliyyatı) was a military
   corridor. The offensive began in mid-October, when the Azerbaijani forces
   advanced into Qubadlı and Laçın Districts after capturing Zəngilan.
 author: Wikipedia
+img: https://s.france24.com/media/display/9300696c-339e-11eb-aaac-005056bff430/w:1280/p:1x1/Lachin%20Karabakh%20Azerbaijan.jpg
 ---
 
 The **Lachin offensive** (Laçına hücum əməliyyatı) was a military operation launched by Azerbaijan against the unrecognized Republic of Artsakh and their Armenian allies along the Armenia–Azerbaijan border during the 2020 Nagorno-Karabakh war, with the suspected goal of taking control of the Lachin corridor. The offensive began in mid-October, when the Azerbaijani forces advanced into Qubadlı and Laçın Districts after capturing Zəngilan. On 25 October, the Azerbaijani forces seized control of the city of Qubadlı.
 
 ## Background
+
 The disputed region of Nagorno-Karabakh, with its ethnic Azerbaijan majority before the Armenian occupation, is a de jure part of Azerbaijan, but is de facto held by the self-proclaimed Republic of Artsakh, which is supported by Armenia. Ethnic violence began in the late 1980s, and exploded into a war following the dissolution of the USSR in 1991. On 20 February 1988, the Soviet of the Nagorno-Karabakh Autonomous Oblast passed a resolution requesting transfer of the oblast from the Azerbaijan SSR to the Armenia SSR; Azerbaijan rejected the request. Following the revoking of Nagorno-Karabakh's autonomous status, an independence referendum was held on 10 December 1991 which was boycotted by the Azerbaijani population which then constituted around 22.8% of Nagorno-Karabakh's population; as a result, 99.8% voted in favor. Both Armenia and Azerbaijan then became fully independent of the Soviet Union in 1992.
 
 The First Nagorno-Karabakh War resulted in the displacement of 750,000 Azerbaijanis overall, with roughly 600,000 of them being from Nagorno-Karabakh and the seven surrounding districts, which were majority-Azeri, essentially cleansing all of the occupied territories from its Azerbaijani inhabitants. Similarly, 353,000 Armenians had to flee from Azerbaijan. The war ended with a ceasefire in 1994, with the unrecognised Republic of Artsakh in control of most of the Nagorno-Karabakh region, as well as occupying the surrounding districts of Agdam, Jabrayil, Fuzuli, Kalbajar, Qubadli, Lachin and Zangilan of Azerbaijan and the Lachin Corridor - a mountain pass that links Nagorno-Karabakh with mainland Armenia.
@@ -190,10 +193,10 @@ The Azerbaijani forces started operations along the Aras River on 27 September, 
 However, the ceasefire quickly broke down with both sides accusing each other for breaking it. Following the collapse of the ceasefire, Azerbaijani advance continued. Within days Azerbaijan announced the capture of dozens of villages. The Azerbaijani forces, advancing more along the Aras River, captured the Khodaafarin Bridges and the nearby dam. On 20 October, the Azerbaijani forces took control of Zəngilan, just south of Qubadlı, and on 22 October, Ağbənd, thus taking full control over the Azerbaijan–Iran border.
 
 ## Offensive
+
 ![Vorotan, Qubadli](https://wikipedia.org/wiki/Special:Redirect/file/Vorotan%2C_Qubadli.jpg?)
 
-
-On 23 October, the clashes spilled to Qubadlı. In the evening, the Azerbaijani president Ilham Aliyev stated that Azerbaijani forces had control of Zilanlı, Kürd Mahrızlı, Muğanlı, and Alaqurşaq in Qubadli District. The Azerbaijani MoD also released supposed confirmatory footage from one of the villages. Shortly after, Artsakh authorities stated that Azerbaijani forces were attacking Laçın. The following day, clashes over Qubadlı yet again continued. At approximately midday, the Azerbaijani MoD stated that the Armenian forces were shelling Lachin District from the territory of Armenia; Armenia issued a denial and stated that Laçın was under Artsakh control. A *BBC Russian Service* correspondent confirmed that the city of Laçın was occupied by the Armenians, but was under heavy Azerbaijani shelling.
+On 23 October, the clashes spilled to Qubadlı. In the evening, the Azerbaijani president Ilham Aliyev stated that Azerbaijani forces had control of Zilanlı, Kürd Mahrızlı, Muğanlı, and Alaqurşaq in Qubadli District. The Azerbaijani MoD also released supposed confirmatory footage from one of the villages. Shortly after, Artsakh authorities stated that Azerbaijani forces were attacking Laçın. The following day, clashes over Qubadlı yet again continued. At approximately midday, the Azerbaijani MoD stated that the Armenian forces were shelling Lachin District from the territory of Armenia; Armenia issued a denial and stated that Laçın was under Artsakh control. A _BBC Russian Service_ correspondent confirmed that the city of Laçın was occupied by the Armenians, but was under heavy Azerbaijani shelling.
 
 On 25 October, the clashes continued with varying intensity, with the Azerbaijani MoD stating that its forces had seized control of further territory. At night, the Azerbaijani president stated that Azerbaijani forces had seized control of Qubadlı, the administrative center of Gubadly District; Azerbaijan released confirmary footage. Subsequently, the Armenian MoD stated that heavy clashes were occurring. In the evening, the United States announced that both sides had agreed to a humanitarian ceasefire from the morning of 26 October. In the morning, the ceasefire collapsed. According to Azerbaijan, Armenian forces started shelling at 08:05, while according to Armenia, Azerbaijani artillery commenced shelling Armenian positions at 08:45. Subsequently, the Azerbaijani MoD stated that Armenian forces were firing upon Azerbaijani positions in Səfiyan in Lachin District. The Artsakh authorities and the Armenian prime minister stated that they were "strictly observing" the ceasefire.
 
@@ -203,14 +206,14 @@ On 27 October, the Armenian MoD stated that the Azerbaijani forces were shelling
 
 ## Casualties
 
-
 ### Military casualties
+
 As of 26 October, the Azerbaijani authorities claimed that they had inflicted heavy losses on Armenian forces, but did not provide specific numbers. On 23 October, President of Azerbaijan, Ilham Aliyev, confirmed that the National Hero of Azerbaijan, Shukur Hamidov had died during the operations in Qubadli District.
 
 ### Equipment losses
+
 As of 26 October, the Azerbaijani authorities stated that their forces had downed three combat aircraft.
 
 ## Notes
-
 
 ## References
