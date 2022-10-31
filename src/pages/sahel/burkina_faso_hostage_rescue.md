@@ -134,4 +134,3 @@ The hostage rescue occurred during the night on May 9, 2019. French special forc
 ## Aftermath
 Following the rescue, the two Frenchmen and the South Korean were received by President Emmanuel Macron at Villacoublay airport. The former captives expressed their thanks to the soldiers that died and to the French and Burkinabe authorities for their roles in the rescue. On May 14, 2019, a national tribute was be held in Paris in honour of the two soldiers that died in the rescue mission.
 
-## References
