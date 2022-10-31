@@ -1,4 +1,5 @@
 ---
+import { Img } from "astro-imagetools/components";
 import DefaultLayout from "../layouts/DefaultLayout.astro";
 
 export interface Props {
@@ -46,7 +47,7 @@ const {
     </p>
     {
       img && (
-        <img
+        <Img
           width={720}
           height={360}
           src={img.startsWith("http") ? img : `/images/${img}`}
