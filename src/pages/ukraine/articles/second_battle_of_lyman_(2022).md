@@ -214,4 +214,4 @@ Ukraine regained a very important railroad hub, allowing mop-up operations in no
 
 On 7 October 2022, governor Pavlo Kyrylenko and Ukrinform stated that a mass grave containing about 180 bodies had been found in Lyman. The exact number, identities (military or civilian) and causes of death of the people were not yet known.
 
-## References
+

@@ -345,7 +345,7 @@ A survey by the Kyiv Institute of international Sociology found that 90% of the 
 - Subdivisions of Ukraine
 - Kherson Governorate
 
-## References
+
 
 ## External links
 

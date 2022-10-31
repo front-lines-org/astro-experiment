@@ -444,7 +444,7 @@ During the 1991 referendum, 83.90% of votes in Donetsk Oblast were in favour of 
 - Administrative divisions of Ukraine
 - List of cities in Donetsk Oblast
 
-## References
+
 
 ## External links
 

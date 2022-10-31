@@ -394,7 +394,7 @@ On 4 October 2019, the United States offered a $5 million bounty on Adnan Abu Wa
  * MINUSMA super camp attack
 
 
-## References
+
 
 
 ## External links

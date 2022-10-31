@@ -107,4 +107,4 @@ On 3 October, Madagiz was renamed to Sugovushan by the decree of Ilham Aliyev, t
 
 Azerbaijani colonel Babak Samidli, deputy commander of the 1st Army Corps, died from a land-mine explosion on 23 November, during a post-armistice search for the bodies of missing soldiers in Madagiz.
 
-## References
+

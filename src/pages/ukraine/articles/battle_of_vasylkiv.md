@@ -101,4 +101,4 @@ On 2 April 2022 the whole of Kyiv Oblast, where Vasylkiv is located in, was decl
 
 - Battle of Antonov Airport
 
-## References
+

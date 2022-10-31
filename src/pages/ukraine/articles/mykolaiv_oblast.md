@@ -420,7 +420,7 @@ During the 1991 referendum, 89.45% of votes in Mykolaiv Oblast were in favor of 
 - Kherson Governorate
 - Lysa Hora
 
-## References
+
 
 ## External links
 

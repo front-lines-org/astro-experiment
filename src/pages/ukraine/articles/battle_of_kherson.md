@@ -161,4 +161,4 @@ According to Mykolaiv Oblast governor, Vitaliy Kim, Russian forces began demolis
 - Battle of Mykolaiv
 - 2022 Chornobaivka attacks
 
-## References
+

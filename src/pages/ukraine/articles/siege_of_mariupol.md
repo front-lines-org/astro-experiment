@@ -530,9 +530,9 @@ _The Guardian_ observed in a piece on Mariupol published after the Russian attac
 - List of military engagements during the 2022 Russian invasion of Ukraine
 - Timeline of the 2022 Russian invasion of Ukraine
 
-## Notes
 
-## References
+
+
 
 ## External links
 

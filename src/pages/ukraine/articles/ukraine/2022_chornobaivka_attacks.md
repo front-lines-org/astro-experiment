@@ -168,4 +168,4 @@ President of Ukraine Volodymyr Zelenskyy commented that "Ukrainian Chornobaivka 
 
 - List of Russian generals killed during the 2022 invasion of Ukraine
 
-## References
+

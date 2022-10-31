@@ -101,6 +101,6 @@ Days after the 14 July bombing, at the site of four-year-old Liza Dmitrieva's de
 
 ## Gallery
 
-## References
+
 
 ## External links

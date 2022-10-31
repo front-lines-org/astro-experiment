@@ -449,4 +449,4 @@ Ukrainian authorities said that more than 300 civilian inhabitants of Bucha had 
 - Eastern Ukraine offensive
 - Southern Ukraine offensive
 
-## References
+

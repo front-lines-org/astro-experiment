@@ -492,7 +492,7 @@ The invasion received widespread public condemnation internationally, while in s
 
 ## Explanatory notes
 
-## References
+
 
 ## Further reading
 

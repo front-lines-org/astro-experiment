@@ -222,4 +222,4 @@ After the signing of the trilateral peace deal, Arayik Harutyunyan, the self-pro
 
 On 15 October, a video surfaced of two captured Armenians, 25-year-old Yuri Adamyan and 73-year-old Benik Hakobyan, being executed in Hadrut by Azerbaijani soldiers; Artsakh authorities identified Hakobyan as a civilian of Hadrut. The Armenian representation in the European Court of Human Rights stated that they were investigating filing an official complaint with the court. Bellingcat analysed the videos and concluded that the footage was real and that both the executed were Armenian combatants captured by Azerbaijani forces between 9 and 15 October and then executed. The BBC corroborated Bellingcat's investigation of the execution.
 
-## References
+

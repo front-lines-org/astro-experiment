@@ -232,7 +232,7 @@ In Armenia, prime minister Serzh Sargsyan inaugurated the naming of a square in 
 - Armenian volunteer units
 - Battle of Shusha (2020)
 
-## References
+
 
 ## External links
 

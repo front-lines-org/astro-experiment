@@ -765,10 +765,10 @@ Rallies and demonstrations intended to show solidarity with Aleppo's besieged ci
  * [List of wars and battles involving al-Qaeda](./List_of_wars_and_battles_involving_al-Qaeda)
 
 
-## Notes
 
 
-## References
+
+
 
 
 ## Bibliography

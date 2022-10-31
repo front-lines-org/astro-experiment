@@ -374,7 +374,7 @@ Most of Ukraine's oblasts are named after their capital cities, officially refer
 
 - Subdivisions of Ukraine
 
-## References
+
 
 ## External links
 

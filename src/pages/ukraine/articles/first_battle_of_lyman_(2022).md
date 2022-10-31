@@ -122,4 +122,4 @@ Russia gained a strategic railroad hub, and indirectly sped up the Battle of Sie
 
 The second battle started on 10 September during Ukraine's counteroffensive. By 30 September Ukrainian forces had closed in on the city and cut off the only road left supplying the occupying forces.
 
-## References
+

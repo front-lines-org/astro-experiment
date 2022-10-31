@@ -90,4 +90,4 @@ On 18 April, Russian forces entered Kreminna, where the Governor of Luhansk Obla
 
 Kreminna was the first city to fall during the Donbas Offensive that was announced by Russia on 18 April. The governor reported that 200 civilians were killed, but there could have been more. Ukrainian officials reported on 25 April that Russian forces were killed in an explosion in the Kreminna City Hall by a gas explosion.
 
-## References
+

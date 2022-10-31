@@ -360,7 +360,7 @@ The societal reactions to the April clashes were different in Armenia and Azerba
 - Nagorno-Karabakh conflict
 - Armenia–Azerbaijan relations
 
-## References
+
 
 **Notes**
 

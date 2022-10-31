@@ -156,4 +156,4 @@ Later, Bilohorivka was captured by Russia in the Battle of Lysychansk, but Ukrai
 - Sinking of the _Moskva_
 - Battle of Donbas (2022)
 
-## References
+

@@ -992,4 +992,4 @@ The list gives the name, the date, the present-day location of the battles, the 
  * Deployments of the French military
 
 
-## References
+

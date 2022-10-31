@@ -143,4 +143,4 @@ On 16 September, Ukrainian forces captured Kupiansk-Vuzlovyi, on the east side o
 - Russian occupation of Kharkiv Oblast
 - Battle of Kharkiv (2022)
 
-## References
+

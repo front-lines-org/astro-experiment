@@ -260,4 +260,4 @@ On 6 September 2022, Ukraine confirmed reports that the villages of Liubymivka a
 - 2022 protests in Russian-occupied Ukraine
 - Ukrainian resistance during the 2022 Russian invasion of Ukraine
 
-## References
+

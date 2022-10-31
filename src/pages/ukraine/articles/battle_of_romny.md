@@ -114,4 +114,4 @@ The Ukrainian General Staff reported on March 19 that the 1st Guards Tank Army o
 
 Russian forces began to withdraw from Romny raion on April 1, through a corridor from Kyiv and Chernihiv oblasts through Romny towards the Russian state border, following the Ukrainian victory in the Northeastern Ukraine offensive. The withdrawal ended April 4.
 
-## References
+

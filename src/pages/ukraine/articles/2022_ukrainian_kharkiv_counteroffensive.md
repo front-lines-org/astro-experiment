@@ -449,4 +449,4 @@ The counteroffensives in Kherson and Kharkiv had the effect of disrupting and ad
 - Battles of Lyman
 - Territorial control during the Russo-Ukrainian War
 
-## References
+

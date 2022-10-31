@@ -119,7 +119,7 @@ On March 20, 2000, a memorial stone was laid in Shusha on the site of the planne
 
 - List of massacres in Azerbaijan
 
-## References
+
 
 ## Further reading
 

@@ -340,9 +340,9 @@ In January 2021, the chairman of MHP, Devlet Bahçeli, after congratulating the 
 
 On 9 November, France expressed its "very strong concern over the military advance toward the town of Shushi".
 
-## Notes
 
-## References
+
+
 
 ## Bibliography
 

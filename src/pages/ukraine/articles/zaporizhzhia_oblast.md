@@ -415,7 +415,7 @@ The index of physical volume of gross value added in previous year's prices was 
 
 The main types of economic activity that form the GVA of the oblast are:
 
-## References
+
 
 ## Further reading
 

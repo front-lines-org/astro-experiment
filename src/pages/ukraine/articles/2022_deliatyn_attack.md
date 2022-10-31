@@ -53,4 +53,4 @@ US officials confirmed to CNN that Russia launched powerful hypersonic missiles 
 
 Russia posted a video of what it said was its missile strike on the arms depot in Deliatyn, a village in south-western Ukraine only 100 km from the border with Romania. On March 19 evening, _The War Zone_ received satellite images taken by the American company Planet Labs, which confirm that the video of the Russian Ministry of Defense shows a strike not on a large warehouse in western Ukraine, but on a farm or large chicken coop in southeastern Kharkiv Oblast. The pictures were taken on March 12, 2022, a week before the video was published and information about the use of the Dagger was spread. By that time, the farm had already been partially destroyed.
 
-## References
+

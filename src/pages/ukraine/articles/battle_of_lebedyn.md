@@ -124,4 +124,4 @@ Humanitarian corridors worked in Sumy region on March 18. It was possible to lea
 
 The village of Steblyanka Sumy district from March 19 to March 26 was occupied by Russian military - there were 26 units of Russian military equipment. They pushed into the house of local residents who were not at home at the time. The invaders were pulled from houses where there were no owners, everything they saw. Where they were traveled with remained piles of garbage from their drying. There was no light and water in the village.
 
-## References
+

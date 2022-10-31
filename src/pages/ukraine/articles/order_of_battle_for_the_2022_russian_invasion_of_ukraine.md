@@ -522,6 +522,6 @@ In October 2022, Army General Sergey Surovikin, previously commander of Aerospac
 - List of equipment of the Ukrainian Ground Forces
 - List of equipment of the Russian Ground Forces
 
-## References
 
-## Notes
+
+

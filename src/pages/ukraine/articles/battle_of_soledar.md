@@ -146,4 +146,4 @@ The Ukrainian General Staff reported it repelled Russian assaults near Soledar o
 
 The Institute for the Study of War (ISW), a U.S.-based think tank that has monitored the 2022 Russian invasion of Ukraine, assessed on 8 August 2022 that Russian forces were likely seeking to envelop Bakhmut by capturing Soledar, located north of the city, and Zaitseve, south of Bakhmut. The Russians wanted to set conditions to disrupt Ukrainian control over the T0513 trunk road that supports Ukrainian frontline positions in northeast Donetsk Oblast, the ISW continued.
 
-## References
+

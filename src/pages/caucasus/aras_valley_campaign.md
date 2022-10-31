@@ -284,6 +284,3 @@ As of 20 October, the Azerbaijani authorities have stated that the Azerbaijani f
 
 As of 20 October, the Azerbaijani authorities have reported that 1 Azerbaijani civilian was killed and 6 more were injured in Fuzuli.
 
-## Notes
-
-## References

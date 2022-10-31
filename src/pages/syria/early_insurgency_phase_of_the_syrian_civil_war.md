@@ -382,10 +382,10 @@ The [United Nations](./United_Nations)-backed [ceasefire](./Kofi_Annan_Syrian_pe
  * [Arab Winter](./Arab_Winter)
 
 
-## Notes
 
 
-## References
+
+
 
 
 ### Works cited

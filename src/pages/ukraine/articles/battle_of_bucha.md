@@ -216,4 +216,4 @@ Snipers fired upon civilians. Russian armed vehicles would randomly fire into bu
 
 CNN, the BBC, and _Bild_ have released video documentations of numerous dead bodies of civilians lying in the streets and backyards in Bucha, some of them with tied arms or legs. Atrocities in Bucha, including at least one case of summary execution, was also documented by the independent rights group Human Rights Watch.
 
-## References
+

@@ -108,4 +108,4 @@ Russian forces pulled out of Hlukhiv in early April after the failure of the Nor
 ![Hlukhiv shelling](https://wikipedia.org/wiki/Special:Redirect/file/Hlukhiv_shelling.jpg?)
 After Ukrainian forces regained control of Hlukhiv, pyrotechnicians discovered 1,145 explosive devices in the village of Oblozhky, near Hlukhiv. Russian forces also began shelling border communities in Sumy and Chernihiv oblasts, including Hlukhiv. The first incident in Hlukhiv was on May 9, during Victory Day, when Russian forces bombed a Jewish cemetery. On May 18, 10 explosions were heard in Hlukhiv. The next incident of shelling in Hlukhiv was on July 1, after Russian forces shelled numerous border towns including Hlukhiv. On July 18, Russian forces shelled Hlukhiv again, with no casualties.
 
-## References
+

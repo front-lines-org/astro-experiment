@@ -1368,10 +1368,10 @@ A ceasefire was agreed upon on 20 February 2015 between the Malian government an
 
 The BBC mentioned that "Mali's leaders have rejected autonomy, but are willing to consider devolved local powers."
 
-## Notes
 
 
-## References
+
+
 
 
 ## Bibliography

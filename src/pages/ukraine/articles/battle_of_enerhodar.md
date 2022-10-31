@@ -95,4 +95,4 @@ On September 22, Ukrainian special forces were spotted at the city's entrance.
 
 - Battle of Chernobyl
 
-## References
+

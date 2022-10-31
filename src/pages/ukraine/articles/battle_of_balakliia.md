@@ -142,4 +142,4 @@ On September 14, Ukrainian police officers found evidence of a torture chamber t
 - Russian occupation of Kharkiv Oblast
 - Battle of Kharkiv (2022)
 
-## References
+

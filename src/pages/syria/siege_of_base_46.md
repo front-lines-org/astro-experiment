@@ -138,4 +138,4 @@ On 21 November, the Syrian Observatory for Human Rights reported that rebels had
 
 Base 46 was recaptured by the Syrian Army on 13 February 2020, as part of a [larger offensive](./Northwestern_Syria_offensive_(December_2019–March_2020)) conducted by government forces in the region.
 
-## References
+

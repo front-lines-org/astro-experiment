@@ -127,4 +127,4 @@ Multiple people were reported to be wounded, and one pilot reportedly died later
 
 - Great Raid of 2014
 
-## References
+

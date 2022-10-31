@@ -257,4 +257,4 @@ On 13 April 2022, the warship _Moskva_ that was used in the attack and that the 
 - Raid on Porto Buso
 - Battle of Ad-Dawrah
 
-## References
+

@@ -101,7 +101,7 @@ On 12 June, the military recaptured al-Haffah and the remaining 200 FSA fighters
 ## Aftermath
 UN observers were blocked from entering the city during the battle, but received reports of civilians trapped and unable to leave. After the battle, UN monitors were met with the "smell of death", as they entered the deserted town of al-Haffah which had been shelled for eight consecutive days. The UN observers found the Sunni Muslim town completely abandoned with burned out wrecks of cars and at least one charred body lying on a street.
 
-## References
+
 
 
 ## See also

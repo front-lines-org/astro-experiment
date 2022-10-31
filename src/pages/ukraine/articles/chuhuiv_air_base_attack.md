@@ -78,4 +78,4 @@ In the opening hours of the Russian military invasion of Ukraine, a Russian miss
 
 On 10 April 2022, Russian officials claimed their forces targeted Ukrainian S-300 air defences present at Chuhuiv airbase.
 
-## References
+

@@ -106,4 +106,4 @@ On 8 April, mayor Tokar said that according to preliminary estimates, the settle
 
 On 10 July, Bridget A. Brink, the United States Ambassador to Ukraine, visited Makariv. She admitted being "deeply moved by the stories of those who suffered from the brutal Russian attacks on Makariv" and expressed pride for the humanitarian aid the United States had sent to the area for its recovery.
 
-## References
+

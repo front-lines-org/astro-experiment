@@ -144,4 +144,4 @@ On 7 January 2022, Agence France Presse reported that Malian army officials clai
  * List of coups d'état and coup attempts since 2010
 
 
-## References
+

@@ -298,4 +298,4 @@ On 24 September 2022, _The New York Times_ reported that Ukrainian commanders an
 - Battle of Mykolaiv
 - Russian occupation of Mykolaiv Oblast
 
-## References
+

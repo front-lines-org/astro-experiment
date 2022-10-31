@@ -347,7 +347,7 @@ Also in Kharkiv is the airplane plant for space controlling systems. It is a maj
 
 It has a regional federation within Ukrainian Bandy and Rink bandy Federation.
 
-## References
+
 
 ## External links
 

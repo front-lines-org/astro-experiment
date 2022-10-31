@@ -131,4 +131,4 @@ On 21 August, Chechen leader Ramzan Kadyrov claimed that Russian forces had cons
 
 On 31 August, the ISW reported that the DPR's 11th Regiment were fighting in the Pisky-Pervomaiske area, "likely seeking to push the frontline further west of Donetsk City." Russian shelling of Avdiivka continued. After securing Pisky, the Russians began advancing westward towards Pervomaiske, with the Russians capturing a hilly area in the Pisky area and the 11th Regiment capturing a bridge on the approach to the town, according to Russian sources.
 
-## References
+

@@ -109,4 +109,4 @@ At the time, the attack that sank _Saratov_ was not mentioned by Russia. On 2 Ju
 
 - Russian occupation of Zaporizhzhia Oblast
 
-## References
+

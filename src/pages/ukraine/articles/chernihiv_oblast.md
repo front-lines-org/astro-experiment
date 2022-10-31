@@ -388,7 +388,7 @@ Most of Ukraine's oblasts are named after their capital cities, officially refer
 - Subdivisions of Ukraine
 - Chernigov Governorate
 
-## References
+
 
 - Kardash, Peter. _Ukraine and Ukrainians_. Ed. Peter Lockwood. Melbourne: Fortuna Publishers, 1988.
 - (1972) Історіа міст і сіл Української CCP - Чернігівська область (History of Towns and Villages of the Ukrainian SSR - Chernihiv Oblast), Kiev.

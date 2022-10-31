@@ -165,6 +165,6 @@ On 24 August, Russian and DNR forces captured Pisky. In early September, several
 
 On 8 April, one person was killed and another injured by Russian shelling. On 13 April, one civilian was killed and 12 were wounded in Avdiivka. On 2 May, three civilians were killed due to Russian bombardment. On 3 May 2022, according to a news article on Dutch outlet Nos.nl, at least 10 people died and 15 more were injured during an attack on a coking plant. Allegedly, the attack took place after the workers had finished work and were waiting for the bus. On 23 May, Russian shelling and artillery bombarded Avdiivka all night long. Three civilians were injured and 20 houses as well as a kindergarten were damaged severely. On 30 May, one civilian was killed during a street fight in Avdiivka. 2 civilians were killed on June 12. On 5 July, 2 civilians were killed in Avdiivka. One civilian was killed and two wounded on 7 July. One civilian was killed on 6 August.
 
-## Notes
 
-## References
+
+

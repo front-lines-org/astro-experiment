@@ -493,7 +493,7 @@ There is also its regional airport Luhansk International Airport with its own ca
 
 - 2014 Donbas status referendums
 
-## References
+
 
 ## External links
 

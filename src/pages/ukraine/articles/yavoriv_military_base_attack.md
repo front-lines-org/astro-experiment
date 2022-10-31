@@ -78,4 +78,4 @@ According to the Ukrainian embassy's national coordinator for the International 
 
 Ukraine's Defence Minister Oleksii Reznikov described the strike as a "terrorist attack on peace and security near the EU-Nato border". A NATO official stated that there were no NATO personnel at the base, as all personnel had left the country prior to the invasion.
 
-## References
+

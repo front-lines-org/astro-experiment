@@ -297,4 +297,4 @@ In the later half of 2012, [Qasem Soleimani](./Qasem_Soleimani) assumed personal
  * Battle of Aleppo (2012–2016)
 
 
-## References
+

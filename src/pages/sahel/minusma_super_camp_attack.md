@@ -77,4 +77,4 @@ JNIM militants began their attack on 14 April 2018 by launching 11 rockets and m
 
 The four Americans and Malian civilians were eventually extracted by a Quick Reaction Force from Côte d’Ivoire. Two U.S. service members received Purple Hearts medals after being wounded by a car bomb. It was later reported that the disabled vehicle had been previously used by Al-Qaeda in previous attacks. An abandoned motorbike with an apparent bomb inside it was also found near the base. The United Nations announced that the attack was repelled and condemned the attack.
 
-## References
+

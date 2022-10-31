@@ -108,4 +108,4 @@ Later in the day, city authorities began negotiations with Russian forces, with 
 
 On 3 April, Ukrainian MP Olexander Kachura stated on Twitter that all Russian forces had left Konotop Raion. On 4 April 2022 Sumy Oblast's Governor Dmytro Zhyvytskyi stated that Russian troops no longer occupied any towns or villages in Sumy Oblast and had mostly withdrawn, while Ukrainian troops were working to push out the remaining units.
 
-## References
+

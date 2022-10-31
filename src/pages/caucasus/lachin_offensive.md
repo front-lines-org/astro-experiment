@@ -214,6 +214,6 @@ As of 26 October, the Azerbaijani authorities claimed that they had inflicted he
 
 As of 26 October, the Azerbaijani authorities stated that their forces had downed three combat aircraft.
 
-## Notes
 
-## References
+
+

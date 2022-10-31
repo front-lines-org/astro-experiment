@@ -352,4 +352,4 @@ Beginning on September 6, Ukrainian forces launched a counteroffensive in Kharki
 - Southern Ukraine offensive
 - 2022 Ukrainian Kharkiv counteroffensive
 
-## References
+

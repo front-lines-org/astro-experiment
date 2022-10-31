@@ -102,4 +102,4 @@ On the night of 27–28 September, Ukrainian forces crossed the Siverskyi Donets
 
 On 2 October, Ukrainian forces heavily bombarded Russian positions in Kreminna, and at the same time it advanced as far as the P-66 highway that connects Kreminna and Svatove and were attacking from the north, as well as the west. The next day, Ukrainian troops reportedly advanced to a segment of highway near Chervonopopivka and Pishchane, both in Luhansk Oblast and along the Svatove-Kreminna road within 5km north of Kreminna. Russian sources discussed these Ukrainian advances with great concern and suggested that Ukrainian troops will likely move towards the Luhansk Oblast border and attack Kreminna, 30km east of Lyman. Russian troops, including elements of the BARS-13 detachment and the 20th Combined Arms Army withdrew from the Lyman area and re-established themselves in Kreminna, where Russian sources claimed the new frontline lied.
 
-## References
+

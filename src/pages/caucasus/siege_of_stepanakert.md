@@ -184,9 +184,9 @@ Russian journalist Galina Kovalskaya
 - Maraga Massacre (1992)
 - Anti-Armenian sentiment in Azerbaijan
 
-## Notes
 
-## References
+
+
 
 ## External links
 

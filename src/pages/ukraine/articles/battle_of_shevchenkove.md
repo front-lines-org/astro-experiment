@@ -139,4 +139,4 @@ During the days after the battle, Ukrainian forces liberated Kupiansk on Septemb
 - Russian occupation of Kharkiv Oblast
 - Battle of Kharkiv (2022)
 
-## References
+

@@ -130,4 +130,4 @@ During 3-4 June, the strikes became more intense. The Ministry of Defense of the
 ![Russian weaponry destroyed in the Second Battle of Sviatohirsk](https://wikipedia.org/wiki/Special:Redirect/file/Russian_weaponry_destroyed_in_the_Second_Battle_of_Sviatohirsk.jpg?)
 On 10 September, shortly after the recapture of Izium by Ukrainian troops, Russian sources reported that an attack was being conducted by the Ukrainian Armed Forces on the town of Svyatohirsk. On the 12th, the Ukrainian National Guard reported that they had recaptured the town.
 
-## References
+

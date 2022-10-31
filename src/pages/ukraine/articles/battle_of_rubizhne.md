@@ -133,4 +133,4 @@ Ukraine reported on 3 May, that Russian aircraft bombed a grain elevator in Rubi
 
 At least 13 civilians were killed and 14 wounded due to fighting in the city.
 
-## References
+

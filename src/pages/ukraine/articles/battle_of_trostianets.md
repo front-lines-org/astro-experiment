@@ -102,4 +102,4 @@ After the fighting ceased, regional governor Dmytro Zhyvytskyi stated that some 
 
 After the occupation of the city, seven civilians were killed and at least two wounded due to traps laid by Russian soldiers across the town.
 
-## References
+

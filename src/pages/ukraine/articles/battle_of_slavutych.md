@@ -79,4 +79,4 @@ In an address at the protest rally, the mayor of Slavutych assured Russian force
 
 The mayor of Slavutych agreed to allow Russian forces to search the city for weapons in order for them to agree to withdraw from the city. This process was completed on 27 March, and Russian troops exited Slavutych. Subsequently, humanitarian corridors were established in order to allow supplies and humanitarian aid to enter the city and give civilians the opportunity to evacuate for the first time in nine days.
 
-## References
+

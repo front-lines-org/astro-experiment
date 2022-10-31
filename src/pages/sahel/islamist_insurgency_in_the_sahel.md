@@ -617,4 +617,4 @@ Having cooperated and trained alongside AQIM in the Sahel since 2006, the Nigeri
  * Sinai insurgency
 
 
-## References
+

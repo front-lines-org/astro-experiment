@@ -463,16 +463,3 @@ It was opposed by Angola, Armenia, France, India, Russia, United States, Vanuatu
 ## Ceasefire and international mediation
 
 A Russian-brokered ceasefire was signed in May 1994 and peace talks, mediated by the OSCE Minsk Group (Russia, US, France) have been held ever since by Armenia and Azerbaijan. Azerbaijan has repeatedly accused the Minsk Group (Russia, US, France) of being pro-Armenian. In 1996, when France was chosen by the OSCE to co-chair the Minsk Group, Azerbaijan asked the OSCE to reconsider the decision because France was perceived by Azerbaijan as pro-Armenian. Svante Cornell argued in 1997 that France, the US and Russia are "more or less biased towards Armenia in the conflict." argued in 1997 that France, the US and Russia are "more or less biased towards Armenia in the conflict." In 2018 Azerbaijan accused the US and France of bias for allowing Bako Sahakyan, the then president of Artsakh, to visit their countries.
-
-## See also
-
-- Armenia–Azerbaijan border
-- List of ongoing armed conflicts
-
-## Notes
-
-## References
-
-}}
-
-## Bibliography

@@ -172,4 +172,4 @@ The Russian navy was reported to have sent the salvage ship with the submersible
 
 On 30 June, Russia retreated from Snake Island, the island that _Moskva_ had attacked together with _Vasily Bykov_. The Ukrainian military set foot on Snake Island on 4 July and raised the Ukrainian flag over it.
 
-## References
+

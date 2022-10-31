@@ -113,4 +113,4 @@ On 23 July, less than a day after signing a grain export deal with Ukraine, Russ
 
 As of July 26, 2022, as a result of rocket attacks in Odesa, 11 civilians were killed: eight people (including a three-month-old girl) - as a result of an attack on the residential complex "Tiras" on April 23; 1 teenager during the attack on the dormitory on May 2, 1 employee of the warehouse during the attack on the Suvorovsky district of Odessa on May 9 and a warehouse guard on June 20.
 
-## References
+

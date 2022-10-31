@@ -427,7 +427,7 @@ In addition to general education schools, the oblast has educational institution
 
 Most of Ukraine's oblasts are named after their capital cities, officially referred to as "oblast centers". The name of each oblast is a relative adjective, formed by adding a feminine suffix to the name of respective center city: Kyiv (in transliterated Ukrainian) is the center of the _Kyivs’ka oblast_' (Kyiv Oblast). Most oblasts are also sometimes referred to in a feminine noun form, following the convention of traditional regional place names, ending with the suffix "-shchyna", as is the case with the Kyiv Oblast, _Kyivshchyna_.
 
-## Notes
+
 
 a. These neighboring settlements are practically merged into a conurbation
 
@@ -437,7 +437,7 @@ a. These neighboring settlements are practically merged into a conurbation
 - Subdivisions of Ukraine
 - Radomysl Castle
 
-## References
+
 
 - Information Card of the Region – Official site of the Cabinet of Ministers of Ukraine
 

@@ -69,7 +69,7 @@ In his televised "address concerning the events in Ukraine" before the announcem
 - Territorial control during the Russo-Ukrainian War
 - Territorial control during the Russo-Ukrainian War
 
-## References
+
 
 ## External links
 

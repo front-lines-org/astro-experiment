@@ -566,7 +566,7 @@ A 2013 Al Jazeera poll found that 96% of Malians in Bamako supported French inte
 
 
 
-## References
+
 
 
 ## External links

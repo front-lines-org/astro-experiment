@@ -211,4 +211,4 @@ On 1 April 2022, Oleksandr Pavlyuk, the head of the Kyiv Regional Military Admin
 
 On 28 September 2022, the Prosecutor General of Ukraine and National Police of Ukraine published CCTV footage showing OMON and Rosgvardiya soldiers shooting at civilians in Hostomel during the battle.
 
-## References
+

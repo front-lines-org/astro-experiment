@@ -318,7 +318,7 @@ By 2 April, Ukrainian forces had regained control of the airport following a lar
 
 - Battle of Vasylkiv
 
-## References
+
 
 ### Work cited
 

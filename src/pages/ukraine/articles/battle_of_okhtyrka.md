@@ -97,4 +97,4 @@ On 28 February, Oksana Markarova, the Ukrainian ambassador to the United States,
 
 Markarova claimed that the use of thermobaric weapons is in violation of the Geneva Conventions. The attack destroyed a Ukrainian military base, killing 70 soldiers.
 
-## References
+

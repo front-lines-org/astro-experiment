@@ -549,10 +549,10 @@ Other critics, such as Francis Fukuyama, say that "terrorism" is not an enemy bu
  * United States and state terrorism
 
 
-## Notes
 
 
-## References
+
+
 
 
 ## Further reading

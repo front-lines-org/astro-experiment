@@ -548,6 +548,6 @@ This page provides information on the most recently known control of localities 
 - Template:Russo-Ukrainian War detailed map
 - Template:Russo-Ukrainian War detailed relief map
 
-## Notes
 
-## References
+
+

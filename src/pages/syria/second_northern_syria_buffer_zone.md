@@ -212,10 +212,10 @@ The agreement reportedly included the following terms:
  * [Daraa insurgency](./Daraa_insurgency)
 
 
-## References
 
 
-## Notes
+
+
 
 
 ## External links

@@ -165,6 +165,6 @@ The exclusion zone is important for containing fallout from the Chernobyl nuclea
 - Environmental impact of the 2022 Russian invasion of Ukraine
 - Impact of the 2022 Russian invasion of Ukraine on nuclear power plants
 
-## References
+
 
 ## Further reading

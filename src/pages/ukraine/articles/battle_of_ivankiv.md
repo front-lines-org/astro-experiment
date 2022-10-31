@@ -61,4 +61,4 @@ On the morning of 27 February, a convoy of Russian vehicles more than 3 miles lo
 
 On 31 March, Ukrainian forces retook control of Ivankiv following a withdrawal by the Russian military from the town.
 
-## References
+

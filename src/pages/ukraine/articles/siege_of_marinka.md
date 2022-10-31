@@ -116,4 +116,4 @@ The ISW reported on May 20 that Russian and DPR forces focused their efforts tow
 
 Fighting around Marinka, according to ISW reports, largely stagnated in September.
 
-## References
+

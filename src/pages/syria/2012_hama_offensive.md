@@ -132,4 +132,4 @@ On 6 February, 54 government employees of a defense-related factory were killed 
 
 On 7 February, the military recaptured Kernaz, after 16 days of fighting. Two days before, the Army had also regained control of the nearby town of Mughir, securing a corridor to Alawite villages in the west of the province.
 
-## References
+

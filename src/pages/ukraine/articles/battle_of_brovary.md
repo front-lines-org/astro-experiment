@@ -96,4 +96,4 @@ On 1 April, Ukraine claimed the recapture of the villages of Rudnya, Shevchenkov
 
 On 2 April 2022 the whole of Kyiv Oblast, where Brovary is located in, was declared free of Russian troops by the Ukrainian Ministry of Defense.
 
-## References
+

@@ -804,7 +804,7 @@ A new round of meetings for the Astana summit process took place in the Kazakh c
  * [Timeline of the Syrian Civil War](./Timeline_of_the_Syrian_Civil_War)
 
 
-## References
+
  * Informational notes
  * Citations
 

@@ -425,6 +425,6 @@ On 1 October, Ukrainian forces encircled and entered Lyman. According to Russia'
 - Northeastern Ukraine offensive
 - Southern Ukraine offensive
 
-## Notes
 
-## References
+
+

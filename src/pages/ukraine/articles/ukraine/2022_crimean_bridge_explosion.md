@@ -139,7 +139,7 @@ The National Anti-Terrorism Committee of Russia has reported:
 - Kerch Strait incident, 2018
 - 2022 Russian mystery fires
 
-## References
+
 
 ## External links
 

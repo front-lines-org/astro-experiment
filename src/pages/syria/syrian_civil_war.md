@@ -438,10 +438,10 @@ In 2022, a German court sentenced [Anwar Raslan](./Anwar_Raslan), 58, a high-ran
  * [List of wars involving Syria](./List_of_wars_involving_Syria)
 
 
-## Notes
 
 
-## References
+
+
 
 
 ## Further reading

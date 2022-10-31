@@ -149,4 +149,4 @@ From the night shelling in the center of the city burned the Palace of Culture n
 
 On September 20, Alexei Nagin, a commander in Wagner Group, was killed near Bakhmut. Wagner forces on the frontlines in Bakhmut are also being bolstered by prisoners from Russia and allied breakaway states.
 
-## References
+

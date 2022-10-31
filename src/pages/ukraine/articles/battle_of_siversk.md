@@ -145,4 +145,4 @@ On July 28, the ISW stated that Russian forces may be de-emphasizing attempts to
 
 On 30 July, President Zelenskyy ordered all Ukrainian civilians in the Donetsk region to evacuate. Between 200,000 and 220,000 civilians still lived in the unoccupied area of Donetsk Oblast, according to Ukrainian estimates. According to Zelensky the evacuation responded to the lack of heat and energy needs for the incoming winter season.
 
-## References
+

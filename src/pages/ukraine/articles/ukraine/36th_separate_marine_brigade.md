@@ -93,4 +93,4 @@ On 13 April, the Ukrainian government forces stated that, as a result of a speci
 
 The 36th defended Mykolaiv — its garrison — during the Battle of Mykolaiv. Later the Brigade fought over control of the Kherson Oblast during the 2022 Ukrainian southern counteroffensive.
 
-## References
+

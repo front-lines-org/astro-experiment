@@ -437,9 +437,9 @@ On 28 April 2022, US President Joe Biden asked Congress for an additional $33 bi
 - Russian military presence in Transnistria
 - Territorial control during the Russo-Ukrainian War
 
-## Notes
 
-## References
+
+
 
 ## Further reading
 

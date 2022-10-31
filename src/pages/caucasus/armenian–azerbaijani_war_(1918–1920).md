@@ -287,9 +287,9 @@ The violence in Transcaucasia was finally settled in a friendship treaty between
 
 By this treaty, Nakhichevan was granted the status of an autonomous region under Azerbaijan's protectorate, on the condition that the rights for protectorate would never be transferred to a third state. Turkey and Russia became guarantors of Nakhichevan's status. Turkey agreed to return Alexandropol to Armenia and Batumi to Georgia.
 
-## Notes
 
-## References
+
+
 
 ## External links
 

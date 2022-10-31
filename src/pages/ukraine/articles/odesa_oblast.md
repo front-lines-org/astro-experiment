@@ -431,7 +431,7 @@ A number of other notable people were born in Odesa, including the poet Anna Akh
 - Black Sea
 - USSR
 
-## References
+
 
 ## External links
 

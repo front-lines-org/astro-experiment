@@ -286,4 +286,4 @@ On 13 June, Amnesty International published a report saying that Russian forces 
 
 - Russian occupation of Kharkiv Oblast
 
-## References
+

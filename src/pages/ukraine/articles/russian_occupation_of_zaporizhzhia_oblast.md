@@ -186,4 +186,4 @@ The table lists notable members of the administration.
 - Annexation of Crimea by the Russian Federation
 - Annexation of Southern and Eastern Ukraine
 
-## References
+

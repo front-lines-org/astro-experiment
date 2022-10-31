@@ -321,4 +321,4 @@ On 8 July, Ukraine's governor of Luhansk province, Serhiy Haidai, claimed that h
 - Battles of Sievierodonetsk (2014)
 - List of military engagements during the 2022 Russian invasion of Ukraine
 
-## References
+

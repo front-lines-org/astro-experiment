@@ -247,4 +247,4 @@ By early October, opposition activists stated that government troops had managed
 
 In mid-November, the rebels appeared to be taking the initiative with the seizure of two military bases around Damascus and attempting to cut the main highway between the capital and [Damascus International Airport](./Damascus_International_Airport), leading to a [new offensive](./Rif_Dimashq_offensive_(November_2012–present)).
 
-## References
+

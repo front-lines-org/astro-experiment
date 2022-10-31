@@ -833,7 +833,7 @@ More than a dozen of _elektrichka_ stops are located within the city allowing re
 - Outline of Ukraine
 - Yehupetz
 
-## References
+
 
 ## Further reading
 

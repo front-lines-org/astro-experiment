@@ -77,7 +77,7 @@ In 2006, President Déby responded to increasing instability by threatening to e
 
 On 1 August 2014, Operation Épervier was replaced by Operation Barkhane.
 
-## References
+
 
 
 ## External links

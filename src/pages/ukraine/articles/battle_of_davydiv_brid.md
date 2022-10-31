@@ -87,4 +87,4 @@ From August, Ukrainian forces again pushed towards Davydiv Brid during its count
 - Battle of Mykolaiv
 - 2022 Chornobaivka attacks
 
-## References
+
