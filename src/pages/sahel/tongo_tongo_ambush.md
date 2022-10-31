@@ -180,7 +180,7 @@ description: The Tongo Tongo ambush or the Niger ambush occurred on 4 October
   conducted a mission attempting to locate and capture or kill Doundou Chefou, a
   commander in the ISGS.
 author: Wikipedia
-img: https://upload.wikimedia.org/wikipedia/commons/9/9f/Tongo_Tongo_ambush_footage%2C_October_2017.webm
+vid: https://upload.wikimedia.org/wikipedia/commons/9/9f/Tongo_Tongo_ambush_footage%2C_October_2017.webm
 ---
 
 The **Tongo Tongo ambush** or the **Niger ambush** occurred on 4 October 2017, when armed militants from the Islamic State in the Greater Sahara (ISGS) attacked Nigerien and US soldiers outside the village of Tongo Tongo, Niger, while they were returning to base after a stop in the village. During the ambush, four Nigeriens, four US soldiers, and at least 21 ISGS militants were killed, and eight Nigeriens and two US soldiers including the team commander were wounded. In the day preceding the ambush, the Nigerien and US soldiers conducted a mission attempting to locate and capture or kill Doundou Chefou, a commander in the ISGS.

@@ -1,7 +1,7 @@
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
-
+import { astroImageTools } from "astro-imagetools";
 // https://astro.build/config
 import tailwind from "@astrojs/tailwind";
 
@@ -18,7 +18,7 @@ function defaultLayoutPlugin() {
 // https://astro.build/config
 export default defineConfig({
   site: "https://test.front-lines.org",
-  integrations: [mdx(), sitemap(), tailwind(), image(), svelte()],
+  integrations: [mdx(), sitemap(), tailwind(), image(), svelte(), astroImageTools],
   markdown: {
     remarkPlugins: [defaultLayoutPlugin],
     extendDefaultPlugins: true,

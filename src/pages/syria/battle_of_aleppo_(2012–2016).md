@@ -482,8 +482,8 @@ description: The Battle of Aleppo (مَعْرَكَةُ حَلَبَ) was a majo
   stalemate that had been in place for four years finally ended in July 2016,
   when Syrian government troops closed the rebels' last supply line into Aleppo
   with the support of Russian airstrikes.
+img: https://upload.wikimedia.org/wikipedia/commons/9/9f/Free_Syrian_Army_soldier_walking_among_rubble_in_Aleppo.jpg
 author: Wikipedia
-img: https://upload.wikimedia.org/wikipedia/commons/4/42/Battle_of_Aleppo.jpg%0ABattle_of_Aleppo_twin_sieges_map.png
 ---
 
 |                                   |                              |

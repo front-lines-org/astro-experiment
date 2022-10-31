@@ -361,7 +361,6 @@ description: Operation Serval (Opération Serval) was a French military operatio
   2012 and an official request by the Malian interim government for French
   military assistance.
 author: Wikipedia
-img: https://upload.wikimedia.org/wikipedia/commons/6/68/Life-of-a-mission-supporting-french-fighter-aircraft.jpg%0A%0AFrench_troops_in_Bamako.PNG
 ---
 
 **Operation Serval** (Opération Serval) was a French military operation in Mali. The aim of the operation was to oust Islamic militants from the north of Mali, who had begun a push into the center of Mali.

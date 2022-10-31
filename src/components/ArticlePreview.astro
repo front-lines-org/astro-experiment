@@ -1,0 +1,68 @@
+---
+import { Img } from "astro-imagetools/components";
+
+const {
+  title,
+  description,
+  author,
+  url,
+  img,
+  publishDate,
+  showExcerpt,
+  size = "md",
+  twColor = "text-pink-300",
+  category = "Ukraine",
+} = Astro.props;
+
+const colSpan = {
+  sm: ["col-span-12", "col-span-12"],
+  md: ["col-span-3 order-2", "col-span-9"],
+  lg: ["col-span-12", "col-span-12"],
+};
+
+const getColspan = () => {
+  return colSpan[size] || ["col-span-3", "col-span-9"];
+};
+---
+
+<a href={url} class="hover:underline">
+  <div class="grid overflow-hidden md grid-cols-12 auto-rows-auto gap-2">
+    {
+      size !== "xs"&& img && !img.endsWith('.svg') && (
+        <div class={`${getColspan()[0]}`}>
+          <Img
+            src={img && img.startsWith("http") ? img : `/images/${img}`}
+            alt=""
+            format="webp"
+            attributes={{
+              class: "w-full h-full object-cover"
+            }}
+          />
+        </div>
+      )
+    }
+    <div class={`${getColspan()[1]}`}>
+      {size !== "xs" && <p class={`font-black ${twColor}`}>{category}</p>}
+
+      <h1 class="text-gray-900 font-bold py-2 text-lg">{title}</h1>
+      {
+        description && showExcerpt && size != "xs" && (
+          <p class="font-normal text-gray-400">{description}</p>
+        )
+      }
+
+      {
+        author && size != "xs" && (
+          <p class="font-bold py-1 text-gray-600 text-sm">By {author}</p>
+        )
+      }
+      {
+        publishDate && (
+          <p class="font-normal text-gray-400">
+            {new Date(publishDate).toLocaleString()}
+          </p>
+        )
+      }
+    </div>
+  </div>
+</a>

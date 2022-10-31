@@ -163,7 +163,6 @@ description: The 2016 Nagorno-Karabakh conflict, also known as the Four-Day War,
   Nagorno-Karabakh Autonomous Oblast and surrounding areas, which are integral
   part of the Republic of Artsakh according to its Constitution.
 author: Wikipedia
-img: https://upload.wikimedia.org/wikipedia/commons/0/07/Location_Nagorno-Karabakh_en.png
 ---
 
 The **2016 Nagorno-Karabakh conflict**, also known as the **Four-Day War**, **April War**, or **April clashes**, began along the Nagorno-Karabakh line of contact on 1 April 2016 with the Artsakh Defence Army, backed by the Armenian Armed Forces on one side and the Azerbaijani Armed Forces on the other.

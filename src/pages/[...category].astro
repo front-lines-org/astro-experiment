@@ -1,11 +1,7 @@
 ---
-import BaseHead from "../components/BaseHead.astro";
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
-import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 import DefaultLayout from "@layouts/DefaultLayout.astro";
-import ArticlePreview from "src/components/ArticlePreview.svelte";
-import InsetBorder from "src/components/InsetBorder.svelte";
+import ArticlePreview from "src/components/ArticlePreview.astro";
+import InsetBorder from "src/components/InsetBorder.astro";
 
 const { category } = Astro.params;
 const { categoryName, textColor } = Astro.props;
