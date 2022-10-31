@@ -28,16 +28,24 @@ const getColspan = () => {
 <a href={url} class="hover:underline">
   <div class="grid overflow-hidden md grid-cols-12 auto-rows-auto gap-2">
     {
-      size !== "xs"&& img && !img.endsWith('.svg') && (
+      size !== "xs" && img && (
         <div class={`${getColspan()[0]}`}>
-          <Img
-            src={img && img.startsWith("http") ? img : `/images/${img}`}
-            alt=""
-            format="webp"
-            attributes={{
-              class: "w-full h-full object-cover"
-            }}
-          />
+          {!img.endsWith(".svg") ? (
+            <Img
+              src={img && img.startsWith("http") ? img : `/images/${img}`}
+              alt=""
+              format="webp"
+              attributes={{
+                class: "w-full h-full object-cover",
+              }}
+            />
+          ) : (
+            <img
+              src={img && img.startsWith("http") ? img : `/images/${img}`}
+              alt=""
+              class="w-full h-full object-cover"
+            />
+          )}
         </div>
       )
     }
