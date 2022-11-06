@@ -6,9 +6,8 @@ const cleanUrl = Astro.url.pathname.replace(/\/$/, "");
 const isActive =
   href === "/" ? "" === cleanUrl : cleanUrl.startsWith(href.toString());
 const classnames = [
-  "py-3 w-full border-b-2 mx-auto font-medium text-sm border-transparent text-gray-500 hover:text-gray-700",
-  "uppercase hover:bg-gray-100",
-  "px-2 content-evenly text-center inline-block ",
+  "text-base w-full mx-auto font-medium text-sm border-transparent text-gray-800 hover:text-gray-700",
+  "px-2 content-evenly text-center inline-block font-medium",
 ];
 
 if (isActive) {

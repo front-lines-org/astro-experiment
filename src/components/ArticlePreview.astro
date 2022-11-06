@@ -31,13 +31,10 @@ const getColspan = () => {
       size !== "xs" && img && (
         <div class={`${getColspan()[0]}`}>
           {!img.endsWith(".svg") ? (
-            <Img
+            <img
               src={img && img.startsWith("http") ? img : `/images/${img}`}
               alt=""
-              format="webp"
-              attributes={{
-                class: "w-full h-full object-cover",
-              }}
+              class="w-full h-full object-cover"
             />
           ) : (
             <img

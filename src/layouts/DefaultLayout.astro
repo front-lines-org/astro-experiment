@@ -11,18 +11,17 @@ const { color } = Astro.props;
     <BaseHead title={""} description={""} />
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;500;700&family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
-      .container {
-        max-width: 1185px;
-        margin: 0 auto;
-        padding: 1rem;
-      }
     </style>
   </head>
 
-  <body class="container">
+  <body>
     <Header />
     <main>
-      <slot />
+      <div class="grid overflow-hidden md grid-cols-12 w-auto">
+        <div class="col-start-2 col-span-10">
+          <slot />
+        </div>
+      </div>
     </main>
     <Footer />
   </body>

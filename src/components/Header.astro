@@ -1,12 +1,26 @@
 ---
 import HeaderLink from "./HeaderLink.astro";
 import Tabs from "./Tabs.astro";
-import { SITE_TITLE } from "../config";
+import { Icon } from "astro-icon";
 ---
 
 <header>
-  <div class="logo">Front Lines</div>
   <nav>
-    <Tabs />
+    <div class="grid overflow-hidden md grid-cols-12 py-6 w-auto">
+      <div>
+        <div class="w-8 m-auto">
+          <Icon pack="mdi" name="menu" />
+        </div>
+      </div>
+      <div class="col-span-1">
+        <img class="pl-5 w-48" src="/images/fn/logo.svg" />
+      </div>
+      <div class="col-span-9"><Tabs /></div>
+      <div>
+        <div class="w-8 m-auto text-base">
+          <Icon pack="mdi" name="search" />
+        </div>
+      </div>
+    </div>
   </nav>
 </header>
