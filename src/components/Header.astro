@@ -5,19 +5,26 @@ import { Icon } from "astro-icon";
 ---
 
 <header>
-  <nav>
-    <div class="grid overflow-hidden md grid-cols-12 py-6 w-auto">
-      <div>
+  <nav class="sm:p-0 p-2">
+    <div class="grid overflow-hidden grid-cols-12 py-6 w-auto">
+      <div class="col-start-1 sm:row-start-1">
         <div class="w-8 m-auto">
-          <Icon pack="mdi" name="menu" />
+          <label for="my-drawer" class="drawer-button">
+            <Icon pack="mdi" name="menu" />
+          </label>
         </div>
       </div>
-      <div class="col-span-1">
-        <img class="pl-5 w-48" src="/images/fn/logo.svg" />
+      <div class="sm:col-span-1 col-span-10 col-start-2 sm:row-start-1">
+        <img
+          class="sm:pl-0 lg:pl-2 pl-4 w-48 inline-block my-auto"
+          src="/images/fn/logo.svg"
+        />
       </div>
-      <div class="col-span-9"><Tabs /></div>
+      <div class="sm:col-span-9 col-span-12 row-start-2 sm:row-start-1">
+        <Tabs />
+      </div>
       <div>
-        <div class="w-8 m-auto text-base">
+        <div class="w-8 m-auto text-base col-end-12">
           <Icon pack="mdi" name="search" />
         </div>
       </div>

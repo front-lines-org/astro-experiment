@@ -2,6 +2,7 @@
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import Icon from "astro-icon";
 
 const { color } = Astro.props;
 ---
@@ -15,14 +16,44 @@ const { color } = Astro.props;
   </head>
 
   <body>
-    <Header />
-    <main>
-      <div class="grid overflow-hidden md grid-cols-12 w-auto">
-        <div class="col-start-2 col-span-10">
-          <slot />
+    <div class="drawer">
+      <input id="my-drawer" type="checkbox" class="drawer-toggle" />
+      <div class="drawer-content">
+        <Header />
+        <main>
+          <div class="grid overflow-hidden md grid-cols-12 w-auto">
+            <div class="col-start-2 col-span-10">
+              <slot />
+            </div>
+          </div>
+        </main>
+        <Footer />
+      </div>
+      <div class="drawer-side">
+        <label for="my-drawer" class="drawer-overlay"></label>
+        <div class="w-80 bg-base-100">
+          <div class="flex px-5 pt-5">
+            <label for="my-drawer">
+              <Icon pack="mdi" name="close" className="w-8" />
+            </label>
+
+            <img class="pl-5 w-48" src="/images/fn/logo.svg" />
+          </div>
+
+          <ul class="menu p-4 text-base-content">
+            <!-- Sidebar content here -->
+            <li><a href="/">World</a></li>
+            <li><a href="/caucasus">US</a></li>
+            <li><a href="/ukraine">Politics</a></li>
+            <li><a href="/sahel">Business</a></li>
+            <li><a href="/ukraine">Tech</a></li>
+            <li><a href="/syria">Science</a></li>
+            <li><a href="/ukraine">Sports</a></li>
+            <li><a href="/about">Travel</a></li>
+            <li><a href="/ukraine">Culture</a></li>
+          </ul>
         </div>
       </div>
-    </main>
-    <Footer />
+    </div>
   </body>
 </html>

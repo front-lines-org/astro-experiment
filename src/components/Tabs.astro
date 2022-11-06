@@ -5,10 +5,23 @@ import HeaderLink from "./HeaderLink.astro";
 <div class="relative">
   <nav class="flex overflow-x-auto" aria-label="Tabs">
     <HeaderLink href="/">#TechDesign</HeaderLink>
+    <div class="vertical_dotted_line"></div>
     <HeaderLink href="/ukraine">#Reform</HeaderLink>
+    <div class="vertical_dotted_line"></div>
     <HeaderLink href="/caucasus">#HealthcareRevolution</HeaderLink>
+    <div class="vertical_dotted_line"></div>
     <HeaderLink href="/sahel">#GreenArmy</HeaderLink>
+    <div class="vertical_dotted_line"></div>
     <HeaderLink href="/syria">#Stocks</HeaderLink>
+    <div class="vertical_dotted_line"></div>
     <HeaderLink href="/about">#Farmland</HeaderLink>
   </nav>
 </div>
+<style>
+  .vertical_dotted_line {
+    border-left: 2.5px dotted rgb(183, 183, 183);
+    height: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+</style>
