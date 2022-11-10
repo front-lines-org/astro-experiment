@@ -2,6 +2,8 @@
 import HeaderLink from "./HeaderLink.astro";
 import Tabs from "./Tabs.astro";
 import { Icon } from "astro-icon";
+
+const { hideTags } = Astro.props;
 ---
 
 <header>
@@ -14,14 +16,14 @@ import { Icon } from "astro-icon";
           </label>
         </div>
       </div>
-      <div class="sm:col-span-1 col-span-10 col-start-2 sm:row-start-1">
+      <div class="sm:col-span-2 col-span-10 col-start-2 sm:row-start-1">
         <img
           class="sm:pl-0 lg:pl-2 pl-4 w-48 inline-block my-auto"
           src="/images/fn/logo.svg"
         />
       </div>
-      <div class="sm:col-span-9 col-span-12 row-start-2 sm:row-start-1">
-        <Tabs />
+      <div class="sm:col-span-8 col-span-12 row-start-2 sm:row-start-1">
+        {!hideTags && <Tabs />}
       </div>
       <div>
         <div class="w-8 m-auto text-base col-end-12">
