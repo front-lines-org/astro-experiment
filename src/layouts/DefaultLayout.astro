@@ -20,13 +20,15 @@ const { color } = Astro.props;
       <input id="my-drawer" type="checkbox" class="drawer-toggle" />
       <div class="drawer-content">
         <Header />
-        <main>
+
           <div class="grid overflow-hidden md grid-cols-12 w-auto">
             <div class="col-start-2 col-span-10">
-              <slot />
+              <main id="swup" class="wrapper">
+                <slot />
+              </main>
             </div>
           </div>
-        </main>
+
         <Footer />
       </div>
       <div class="drawer-side">
@@ -55,5 +57,6 @@ const { color } = Astro.props;
         </div>
       </div>
     </div>
+    <script hoist>import './app.js';</script>
   </body>
 </html>
