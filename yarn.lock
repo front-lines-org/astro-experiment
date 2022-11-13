@@ -1830,6 +1830,14 @@
   "resolved" "https://registry.npmjs.org/eastasianwidth/-/eastasianwidth-0.2.0.tgz"
   "version" "0.2.0"
 
+"echarts@^5.4.0":
+  "integrity" "sha512-uPsO9VRUIKAdFOoH3B0aNg7NRVdN7aM39/OjovjO9MwmWsAkfGyeXJhK+dbRi51iDrQWliXV60/XwLA7kg3z0w=="
+  "resolved" "https://registry.npmjs.org/echarts/-/echarts-5.4.0.tgz"
+  "version" "5.4.0"
+  dependencies:
+    "tslib" "2.3.0"
+    "zrender" "5.4.0"
+
 "electron-to-chromium@^1.4.251":
   "integrity" "sha512-M8WEXFuKXMYMVr45fo8mq0wUrrJHheiKZf6BArTKk9ZBYCKJEOU5H8cdWgDT+qCVZf7Na4lVUaZsA+h6uA9+PA=="
   "resolved" "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.284.tgz"
@@ -4863,6 +4871,11 @@
   "resolved" "https://registry.npmjs.org/tslib/-/tslib-2.4.0.tgz"
   "version" "2.4.0"
 
+"tslib@2.3.0":
+  "integrity" "sha512-N82ooyxVNm6h1riLCoyS9e3fuJ3AMG2zIZs2Gd1ATcSFjSA23Q0fzjjZeh0jbJvWVDZ0cJT8yaNNaaXHzueNjg=="
+  "resolved" "https://registry.npmjs.org/tslib/-/tslib-2.3.0.tgz"
+  "version" "2.3.0"
+
 "tsm@^2.1.4":
   "integrity" "sha512-bXkt675NbbqfwRHSSn8kSNEEHvoIUFDM9G6tUENkjEKpAEbrEzieO3PxUiRJylMw8fEGpcf5lSjadzzz12pc2A=="
   "resolved" "https://registry.npmjs.org/tsm/-/tsm-2.2.2.tgz"
@@ -5267,6 +5280,13 @@
   "integrity" "sha512-LYjZsEDhCdYET9ikFu6dVPGp2YH9DegXjdJToSzD9rO6fy4qiRYFoyEYwps88OseJlPyl2NOe2iJuhEhL7IpEA=="
   "resolved" "https://registry.npmjs.org/zod/-/zod-3.19.1.tgz"
   "version" "3.19.1"
+
+"zrender@5.4.0":
+  "integrity" "sha512-rOS09Z2HSVGFs2dn/TuYk5BlCaZcVe8UDLLjj1ySYF828LATKKdxuakSZMvrDz54yiKPDYVfjdKqcX8Jky3BIA=="
+  "resolved" "https://registry.npmjs.org/zrender/-/zrender-5.4.0.tgz"
+  "version" "5.4.0"
+  dependencies:
+    "tslib" "2.3.0"
 
 "zwitch@^2.0.0":
   "integrity" "sha512-JZxotl7SxAJH0j7dN4pxsTV6ZLXoLdGME+PsjkL/DaBrVryK9kTGq06GfKrwcSOqypP+fdXGoCHE36b99fWVoA=="

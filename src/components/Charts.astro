@@ -1,0 +1,33 @@
+---
+import echarts from 'echarts';
+
+// In SSR mode the first container parameter is not required
+const chart = echarts.init(null, null, {
+  renderer: 'svg', // must use SVG rendering mode
+  ssr: true, // enable SSR
+  width: 400, // need to specify height and width
+  height: 300
+});
+
+// use setOption as normal
+chart.setOption({
+  xAxis: {
+    type: 'category',
+    data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+  },
+  yAxis: {
+    type: 'value'
+  },
+  series: [
+    {
+      data: [150, 230, 224, 218, 135, 147, 260],
+      type: 'line'
+    }
+  ]
+});
+
+// Output a string
+const svgStr = chart.renderToSVGString();
+---
+
+<div set:html={svgStr}></div>
