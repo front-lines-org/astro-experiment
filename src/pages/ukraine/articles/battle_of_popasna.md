@@ -1,4 +1,14 @@
 ---
+title: Battle of Popasna
+shortDescription: Battle in the 2022 invasion of Ukraine
+description: The battle of Popasna was a military engagement between joint
+  Russian-LPR forces and Ukrainian forces in the city of Popasna in the Luhansk
+  Oblast. The battle began on 18March and ended on 7May2022 and was part of the
+  2022 Battle of Donbas during the 2022 Russian invasion of Ukraine. A city of
+  over 22,000 people, Popasna was an important regional hub with numerous
+  roadway junctions key to the Russian advance during the eastern Ukraine
+  offensive.
+author: Wikipedia
 infoboxes:
   - conflict:
       text: Battle of Popasna
@@ -16,8 +26,7 @@ infoboxes:
     result:
       text: Russian victory
     partof:
-      text:
-        the eastern Ukraine offensive and the war in Donbas and the battle of
+      text: the eastern Ukraine offensive and the war in Donbas and the battle of
         Donbas (2022) of the 2022 Russian invasion of Ukraine
       links:
         - text: eastern Ukraine offensive
@@ -60,52 +69,30 @@ infoboxes:
         bold:
           - "Russian claim:"
     units2:
-      text: |-
-        Armed Forces of Ukraine
-        * 24th Mechanized Brigade
+      text: "* 24th Mechanized Brigade"
       links:
-        - type: internal
-          page: Armed Forces of Ukraine
         - text: 24th Mechanized Brigade
           type: internal
           page: 24th Mechanized Brigade (Ukraine)
     units1:
       text: |-
-        Russian Armed Forces
         * Kadyrovites
-        Luhansk People's Militia
-        Wagner Group
+          Luhansk People's Militia  Wagner Group
       links:
-        - type: internal
-          page: Russian Armed Forces
         - type: internal
           page: Kadyrovites
         - type: internal
           page: Luhansk People's Militia
         - type: internal
           page: Wagner Group
-title: Battle of Popasna
-shortDescription: Battle in the 2022 invasion of Ukraine
-description: The battle of Popasna was a military engagement between joint
-  Russian-LPR forces and Ukrainian forces in the city of Popasna in the Luhansk
-  Oblast. The battle began on 18March and ended on 7May2022 and was part of the
-  2022 Battle of Donbas during the 2022 Russian invasion of Ukraine. A city of
-  over 22,000 people, Popasna was an important regional hub with numerous
-  roadway junctions key to the Russian advance during the eastern Ukraine
-  offensive.
-author: Wikipedia
-pubDate: 14 Jul 2022
-img: ukraine(2).jpg
 ---
 
 The **battle of Popasna** was a military engagement between joint Russian-LPR forces and Ukrainian forces in the city of Popasna in the Luhansk Oblast. The battle began on 18March and ended on 7May2022 and was part of the 2022 Battle of Donbas during the 2022 Russian invasion of Ukraine.
 
 ## Background
-
 A city of over 22,000 people, Popasna was an important regional hub with numerous roadway junctions key to the Russian advance during the eastern Ukraine offensive.
 
 ## Battle
-
 Russian-Ukrainian clashes for the heavily fortified city began on 18 March 2022. Regionally, troops of the Luhansk People's Republic (LPR) and the Russian Armed Forces advanced and captured Kreminna farther to the north on 18 April. They later began advancing towards Popasna on the southern axis and Rubizhne along the southern axis.
 
 In mid-April, Russian and LPR troops launched artillery and air strikes on Ukrainian positions in the Popasna area. As clashes and shelling continued, civilians living in frontline areas fled to basements for shelter. However, by 18 April, according to the Institute for the Study of War, the Russian military was not making much progress on the ground. According to pro-Russian sources, Russian-LPR forces launched more artillery and missile barrages in the region on 20 April following nighttime Ukrainian counterattacks. The same day, Chechen leader Ramzan Kadyrov claimed that Hennadii Shcherbak, a "Ukrainian nationalist that collaborated with NATO instructors" was killed in Popasna.
@@ -114,10 +101,9 @@ On 21 April, Ukraine's 24th Mechanized Brigade, one of the main units defending 
 
 On 22 April, Serhiy Haidai declared that the Russian army had failed in Popasna and Rubizhne. At the same time, Haidai said that Russian and LPR troops controlled 80 percent of the territory of Luhansk. However, two weeks later on 7 May, the city was reportedly captured by Russian mercenary forces from Wagner Group. The city had been ravaged by the fighting and Chechen Kadyrovites were suspected of having participated in the last phase of the battle. Haidai confirmed that Ukrainian troops had withdrawn.
 
-On 8 May, Haidai initially said in his Telegram channel that the Russians controlled only half of the city, but later admitted Ukrainian forces had withdrawn from Popasna. Western assessments considered Popasna to be fully under Russian control. According to the publication RIA FAN, Russian and LPR forces set up a temporary Russian civil–military administration of the city and continued to advance beyond the city as part of the larger offensive.
+On 8 May, Haidai initially said in his Telegram channel that the Russians controlled only half of the city, but later admitted Ukrainian forces had withdrawn from Popasna. Western assessments considered Popasna to be fully under Russian control. According to the pro-Russian Telegram channel RIA FAN, Russian and LPR forces began setting up a new Russian-backed government in the city and continued to advance westward as part of the larger offensive.
 
 ## Aftermath
-
 On August, a video and photos of the head and hands of a Ukrainian prisoner of war stuck on poles appeared. The video showed the mutilated body of the captured soldier and then his head stuck on a wooden pole with his hands on metal spikes on either side of it, in front of the garden of a house. The footage was seemingly taken in late July and geolocation showed it was from close to the center of Popasna; a sign on a wall of one of the photos showed "21 Nahirna Street". The video and photos were published by Haidai in his Telegram channel along with the comments "They really are orcs. Twenty-first century, occupied Popasna, human skull on the fence" and "There is nothing human about the Russians. We are at war with non-humans." Reactions to the video in social media were harsh. Mikhail Khodorkovsky, an exiled Russian businessman, described the image as an example of the "Russian world", a propaganda term used by the Russian authorities to refer to a cultural and political union of Russian-speakers. Olexander Scherba, former ambassador of Ukraine to Austria, described the event as a war crime.
 
-
+## References

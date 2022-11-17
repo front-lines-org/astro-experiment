@@ -1,20 +1,30 @@
 ---
+title: Battles of Voznesensk
+shortDescription: Battle of the 2022 Russian invasion of Ukraine
+description: The battles of Voznesensk were a series of military engagements
+  between Russia and Ukraine that occurred as part of the southern Ukraine
+  campaign during the 2022 Russian invasion of Ukraine in early March 2022.
+  After capturing the city of Kherson, Russian forces advanced west towards the
+  city of Mykolaiv. While Russian forces attacked Mykolaiv, a Russian column
+  detached and pushed north, engaging Ukrainian forces twice at the small city
+  of Voznesensk.
+author: Wikipedia
 infoboxes:
   - conflict:
-      text: Battle of Voznesensk
+      text: Battles of Voznesensk
     partof:
-      text: the southern Ukraine offensive of the 2022 Russian invasion of Ukraine
+      text: the southern Ukraine campaign of the 2022 Russian invasion of Ukraine
       links:
-        - text: southern Ukraine offensive
+        - text: southern Ukraine campaign
           type: internal
-          page: southern Ukraine offensive
+          page: southern Ukraine campaign
         - text: 2022 Russian invasion of Ukraine
           type: internal
           page: 2022 Russian invasion of Ukraine
     date:
       text: |-
-        2–3 March 2022 (first phase)
-        9–13 March 2022 (second phase)
+        2–3 March 2022 (first battle)
+        9–13 March 2022 (second battle)
     place:
       text: Voznesensk, Mykolaiv Oblast, Ukraine
       links:
@@ -94,7 +104,7 @@ infoboxes:
           page: Irregular military
     casualties1:
       text: |-
-        Per Ukraine (first phase):
+        Per Ukraine (first battle):
         100 soldiers killed 10 soldiers captured 30 vehicles captured
         1 Mil Mi-24 destroyed
       links:
@@ -102,43 +112,30 @@ infoboxes:
           page: Mil Mi-24
       formatting:
         bold:
-          - Per Ukraine (first phase)
+          - Per Ukraine (first battle)
     casualties2:
       text: 12 killed
     casualties3:
       text: |-
-        Per Ukraine (first phase):
+        Per Ukraine (first battle):
         10 civilians killed
       formatting:
         bold:
-          - Per Ukraine (first phase)
+          - Per Ukraine (first battle)
     strength1:
-      text: "Per Ukraine (first phase): 400 soldiers 43 vehicles"
+      text: "Per Ukraine (first battle): 400 soldiers 43 vehicles"
       formatting:
         bold:
-          - Per Ukraine (first phase)
+          - Per Ukraine (first battle)
     strength2:
       text: 600 soldiers
-title: Battles of Voznesensk
-shortDescription: Battle of the 2022 Russian invasion of Ukraine
-description: The battles of Voznesensk were some series of military engagements
-  between Russia and Ukraine that occurred as part of the southern Ukraine
-  offensive during the 2022 Russian invasion of Ukraine in early March 2022.
-  After capturing the city of Kherson, Russian forces advanced west towards the
-  city of Mykolaiv. While Russian forces attacked Mykolaiv, a Russian column
-  detached and pushed north, engaging Ukrainian forces twice at the small city
-  of Voznesensk.
-author: Wikipedia
-pubDate: 14 Jul 2022
-img: ukraine(98).jpg
 ---
 
-The **battles of Voznesensk** were some series of military engagements between Russia and Ukraine that occurred as part of the southern Ukraine offensive during the 2022 Russian invasion of Ukraine in early March 2022.
+The **battles of Voznesensk** were a series of military engagements between Russia and Ukraine that occurred as part of the southern Ukraine campaign during the 2022 Russian invasion of Ukraine in early March 2022.
 
 After capturing the city of Kherson, Russian forces advanced west towards the city of Mykolaiv. While Russian forces attacked Mykolaiv, a Russian column detached and pushed north, engaging Ukrainian forces twice at the small city of Voznesensk. The city was considered strategically significant to Russian forces due to having a bridge across the Southern Bug river and its proximity to the South Ukraine Nuclear Power Plant.
 
 ## First battle
-
 On 2 March 2022, elements of the 126th Coastal Defence Brigade of the Russian Black Sea Fleet advanced northwest towards the city of Voznesensk from Mykolaiv, attempting to find a crossing over the Southern Bug river. The Russian column was alleged to have consisted of 400 men and 43 vehicles.
 
 In preparation, Yevgeniy Velychko, the mayor of the city and one of the Ukrainian commanders, stated that local businessmen helped Ukrainian forces create numerous roadblocks and destroyed a bridge over the in Voznesensk, as well as digging out the shoreline of the river so that Russian vehicles could not ford it.
@@ -150,9 +147,8 @@ By nightfall, Russian tanks began firing into Voznesensk, but retreated after be
 In total, 30 Russian vehicles, including some tanks, were abandoned. Among them, Ukrainian forces were able to salvage 15 tanks. Local officials stated that around 100 Russian soldiers were killed and 10 were captured. Ukrainian forces suffered some casualties, mainly among the Territorial Defense Forces. 12 civilians were killed during the battle.
 
 ## Second battle
-
 On 9 March, Russian forces conducted another attack on Voznesensk. Ukrainian forces set up a defense position near the destroyed bridge. The following day, Russian forces captured the city. Ukrainian forces recaptured Voznesensk three days later on 13 March. By 18 March, Ukrainian counterattacks around the area had pushed the Russians 120 kilometres back from the city.
 
 The local Ukrainian forces continued to fortify the city after the second assault, believing that Russian forces would continue their attacks.
 
-
+## References

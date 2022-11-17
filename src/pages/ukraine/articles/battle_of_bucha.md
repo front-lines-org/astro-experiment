@@ -1,4 +1,13 @@
 ---
+title: Battle of Bucha
+shortDescription: Engagement in the 2022 invasion of Ukraine
+description: The battle of Bucha was part of the Kyiv offensive in the 2022
+  Russian invasion of Ukraine for control of the city of Bucha. The combatants
+  were elements of the Russian Armed Forces and Ukrainian Ground Forces. The
+  battle lasted from 27 February 2022 to 31 March 2022 and ended with the
+  withdrawal of Russian forces.
+author: Wikipedia
+img: https://upload.wikimedia.org/wikipedia/commons/b/bb/Bucha_after_Russian_invasion_of_Ukraine_10.jpg
 infoboxes:
   - conflict:
       text: Battle of Bucha
@@ -29,7 +38,10 @@ infoboxes:
         27 February – 12 March 2022 (First phase)
         29–31 March 2022 (Second phase)
     result:
-      text: Ukrainian victory
+      text: >-
+        * First phase: Russian forces capture the city on 12 March 2022 
+
+        * Second phase: Russian forces withdraw from the city on 31 March 2022, with Ukrainian forces regaining control
     combatant1:
       text: 🇷🇺 Russia
       links:
@@ -69,9 +81,10 @@ infoboxes:
         *** 64th Motor Rifle Brigade 
         ** 36th Combined Arms Army
          National Guard of Russia 
+        * Pro-russian Ukrainian units.
         *SOBR
         *OMON
-        *Chechen unit(s)
+        *Kadyrovite unit(s)
       links:
         - type: internal
           page: Russian Airborne Forces
@@ -106,13 +119,13 @@ infoboxes:
           type: internal
           page: Irregular military
     casualties1:
-      text: Unknown
+      text: At least 100 pieces of military equipment
     casualties2:
       text: Unknown
     casualties3:
       text: |-
         Per Ukraine: 412 civilians killed 
-        Per United Nations: 50 civilians killed documented
+        Per United Nations: 50 civilians killed
       links:
         - type: internal
           page: United Nations
@@ -120,16 +133,6 @@ infoboxes:
         bold:
           - "Per Ukraine:"
           - "Per United Nations:"
-title: Battle of Bucha
-shortDescription: Engagement in the 2022 invasion of Ukraine
-description: The battle of Bucha was part of the Kyiv offensive in the 2022
-  Russian invasion of Ukraine for control of the city of Bucha. The combatants
-  were elements of the Russian Armed Forces and Ukrainian Ground Forces. The
-  battle lasted from 27 February 2022 to 31 March 2022 and ended with the
-  withdrawal of Russian forces.
-author: Wikipedia
-pubDate: 14 Jul 2022
-img: ukraine(1).jpg
 ---
 
 The **battle of Bucha** was part of the Kyiv offensive in the 2022 Russian invasion of Ukraine for control of the city of Bucha. The combatants were elements of the Russian Armed Forces and Ukrainian Ground Forces. The battle lasted from 27 February 2022 to 31 March 2022 and ended with the withdrawal of Russian forces. The battle was part of a larger tactic to encircle Kyiv, the capital city of Ukraine.
@@ -137,17 +140,17 @@ The **battle of Bucha** was part of the Kyiv offensive in the 2022 Russian invas
 The armed forces of Ukraine resisted the Russian advance in the capital's western suburbs of Irpin, Bucha, and Hostomel. Bucha was among the locations that the Kyiv Oblast State Administration named as the most dangerous places in the Kyiv Oblast. After Russian forces withdrew from Bucha, reports of uncovered atrocities by the Russian military attracted international attention.
 
 ## Prelude
-
 On 25 February, Russian forces advanced on the suburb of Hostomel and its airport from the northwest after partially breaking through Ukrainian defenses at Ivankiv, capturing the airport and establishing a foothold in the town. Though there was still ongoing Ukrainian resistance in Hostomel, Russian forces began to advance south to capture the neighboring cities of Irpin and Bucha with the goal of encircling Kyiv. Later that day Russian soldiers were seen looting an apartment building near Bucha.
 
 ## Battle
 
+
 ### Initial fighting
 
-#### February
 
-![Bucha main street, 2022-04-06 (0804)](<https://wikipedia.org/wiki/Special:Redirect/file/Bucha_main_street%2C_2022-04-06_(0804).jpg?>)
-![Chaiky, Bucha Raion, 3 March 2022 (1)](<https://wikipedia.org/wiki/Special:Redirect/file/Chaiky%2C_Bucha_Raion%2C_3_March_2022_(1).jpg?>)
+#### February
+![Bucha main street, 2022-04-06 (0804)](https://wikipedia.org/wiki/Special:Redirect/file/Bucha_main_street%2C_2022-04-06_(0804).jpg?)
+![Chaiky, Bucha Raion, 3 March 2022 (1)](https://wikipedia.org/wiki/Special:Redirect/file/Chaiky%2C_Bucha_Raion%2C_3_March_2022_(1).jpg?)
 On 27 February, Russian ground forces advanced into Bucha. The Russian force was composed of paratroopers, tanks, military engineering units, and reserves from the 36th Combined Arms Army. The Russian force also had units of the Special Rapid Response Unit (SOBR) and the Special Purpose Mobile Unit (OMON), two special police forces within the National Guard of Russia. Russian artillery bombarded the city, damaging several buildings and infrastructure. Some residents lost access to water, gas, and electricity due to the shelling.
 
 Some elements of the Russian force were able to breakthrough Bucha and advanced towards the neighboring city of Irpin. A Russian armored unit was recorded attacking a memorial for the War in Afghanistan memorial in Bucha; the memorial is shaped like an APC. Andriy Tsaplienko, a Ukrainian journalist, later reported that Russian forces attacked a civilian vehicle, killing a man and injuring another.
@@ -161,7 +164,6 @@ Later on 27 February, Ukrainian authorities warned the residents of Bucha not to
 On 28 February 2022, Anatoliy Fedoruk, the mayor of Bucha, published a video showing smoldering Russian vehicles. Fedoruk claimed that the Ukrainians suffered no casualties from the skirmish.
 
 #### March
-
 On 1 March, photos of destroyed and abandoned Russian equipment began circulating through Ukrainian news media, with some describing Bucha as a graveyard for the destroyed Russian equipment.
 
 On 2 March 2022, the Ukrainian government began sending humanitarian aid towards Bucha. The following day, the Kyiv Oblast State Administration announced evacuations in both Bucha and Irpin. More than 1,500 women and children were reported to have evacuated by train, while 250 were evacuated by bus. Ukrainian officials reported that the evacuations were complicated as some railway tracks had been destroyed during fighting.
@@ -181,8 +183,7 @@ On 9 March 2022, Ukrainian forces conducted a large-scale evacuation across Kyiv
 On 12 March 2022, the Bucha City Council announced that Russian forces had fully occupied the city. The council stated that the Russian force would not allow residents leave their houses and would sometimes shoot at civilians. Despite the takeover, some civilians were able to successfully evacuate from the city in a convoy of 20 buses.
 
 ### Russian control
-
-![Bucha after Russian occupation (07)](<https://wikipedia.org/wiki/Special:Redirect/file/Bucha_after_Russian_occupation_(07).jpg?>)
+![Bucha after Russian occupation (07)](https://wikipedia.org/wiki/Special:Redirect/file/Bucha_after_Russian_occupation_(07).jpg?)
 On 13 March, residents buried 67 people in a mass grave near a church in Bucha. Those buried were killed by Russian artillery, and some bodies could not be identified. Later, some Russian soldiers were seen looting houses in the city.
 
 By 15 March, Russian forces began occupying the city hall and had captured employees at the building. The civilians were released the following day. Meanwhile, Obozrevatel published a video showing abandoned Russian armored vehicles parked in residential driveways and garages.
@@ -192,19 +193,17 @@ On 16 March, according to the Ukrainian military, its forces launched a counter-
 On 22 March, the head of the Kyiv Regional Military Administration, Oleksandr Pavlyuk, stated that Bucha and Hostomel were under the control of the Russian army and that no Ukrainian offensive actions could be taken there at the time. The main task of the Ukrainian military was to prevent Russian forces from crossing the Irpin River.
 
 ### Ukraine regains control
-
 ![UkrainiansinBucha](https://wikipedia.org/wiki/Special:Redirect/file/UkrainiansinBucha.png?)
 On 29 March, Russian Deputy Defence Minister Alexander Fomin announced that the Russian military would reduce its activity near Kyiv and Chernihiv. By 31 March, Ukrainian forces were moving into Bucha amid a general Russian withdrawal in the area, resulting in heavy fighting with local Russian troops.
 
 The following day, Oleksandr Pavliuk, head of the Ukrainian military administration for the Kyiv region, announced that the Bucha district had mostly been retaken. According to him, Russian troops were trying to retreat, while the Ukrainians kept attacking them. Combat continued north of Bucha and in the Hostomel–Bucha–Vorzel axis. Meanwhile, mayor Anatolii Fedoruk and the Institute for the Study of War reported that Bucha had been fully retaken from Russian forces as of 31 March.
 
 ## Mass killings in Bucha
-
 After Ukrainian forces regained control of Bucha, reports and testimonies of war crimes committed by the Russian military began to circulate. Agence France-Presse journalists found 20 bodies lying on a street in Bucha. At least one of them had their hands tied and all of the casualties were male. According to mayor Anatoly Fedoruk around 280 people had been buried in a mass grave.
 
-_The Guardian_ reported that after Ukrainian forces recaptured Kyiv Oblast, "[they] were met with shocking devastation upon their return into the area: bodies in the streets, evidence of execution-style killings of civilians, mass graves and slain children."
+*The Guardian* reported that after Ukrainian forces recaptured Kyiv Oblast, "[they] were met with shocking devastation upon their return into the area: bodies in the streets, evidence of execution-style killings of civilians, mass graves and slain children."
 
-According to _The Times_ and _The Washington Post_, eighteen mutilated bodies of murdered men, women and children were found in a basement. The bodies showed evidence of torture; cut-off ears and teeth pulled out. Corpses of other killed civilians were left in the road, allegedly some of them booby-trapped with explosives by Russian soldiers as decoys before they retreated.
+According to *The Times* and *The Washington Post*, eighteen mutilated bodies of murdered men, women and children were found in a basement. The bodies showed evidence of torture; cut-off ears and teeth pulled out. Corpses of other killed civilians were left in the road, allegedly some of them booby-trapped with explosives by Russian soldiers as decoys before they retreated.
 
 Residents and the town mayor confirmed that the victims had been killed by Russian troops. Many of the victims appeared to have been going about their daily routines, walking dogs, or carrying shopping bags. The bodies were whole, indicating that they had been shot, rather than killed by explosive munitions. Footage showed civilians dead, with their hands bound. Other footage showed a dead man, next to his bicycle. Pets and other animals had been shot.
 
@@ -214,6 +213,6 @@ Residents, talking to Human Rights Watch following the retreat of the Russian fo
 
 Snipers fired upon civilians. Russian armed vehicles would randomly fire into buildings in the town. Russian troops refused medical aid to civilians they injured. A mass grave was dug for local victims, and the occupying troops carried out extrajudicial executions.
 
-CNN, the BBC, and _Bild_ have released video documentations of numerous dead bodies of civilians lying in the streets and backyards in Bucha, some of them with tied arms or legs. Atrocities in Bucha, including at least one case of summary execution, was also documented by the independent rights group Human Rights Watch.
+CNN, the BBC, and *Bild* have released video documentations of numerous dead bodies of civilians lying in the streets and backyards in Bucha, some of them with tied arms or legs. Atrocities in Bucha, including at least one case of summary execution, was also documented by the independent rights group Human Rights Watch.
 
-
+## References

@@ -1,4 +1,14 @@
 ---
+title: Battle of Volnovakha
+shortDescription: Engagement during the 2022 Russian invasion of Ukraine
+description: The battle of Volnovakha was a military engagement which lasted
+  from 25 February 2022 until 12 March 2022, as part of the Eastern Ukraine
+  offensive during the 2022 Russian invasion of Ukraine. Russian and DPR forces
+  engaged Ukrainian forces at the small city of Volnovakha in Donetsk Oblast,
+  which is located close to the Ukrainian-DPR border. The battle was spearheaded
+  by DPR forces and led to the widespread destruction of the town and heavy
+  casualties on both sides.
+author: Wikipedia
 infoboxes:
   - conflict:
       text: Battle of Volnovakha
@@ -85,21 +95,11 @@ infoboxes:
     commander2:
       text: 🇺🇦 Pavlo Sbytov
     casualties1:
-      text: Unknown 1 Su-25 lost 1 Mi-8 lost
+      text: |-
+        50 KIA 2 Tanks 2 BMP
+         1 Su-25 lost 1 Mi-8 lost
     casualties2:
       text: Unknown 1 Su-25 lost 1 pilot captured
-title: Battle of Volnovakha
-shortDescription: Engagement during the 2022 Russian invasion of Ukraine
-description: The battle of Volnovakha was a military engagement which lasted
-  from 25 February 2022 until 12 March 2022, as part of the Eastern Ukraine
-  offensive during the 2022 Russian invasion of Ukraine. Russian and DPR forces
-  engaged Ukrainian forces at the small city of Volnovakha in Donetsk Oblast,
-  which is located close to the Ukrainian-DPR border. The battle was spearheaded
-  by DPR forces and led to the widespread destruction of the town and heavy
-  casualties on both sides.
-author: Wikipedia
-pubDate: 14 Jul 2022
-img: ukraine(43).jpg
 ---
 
 The **battle of Volnovakha** was a military engagement which lasted from 25 February 2022 until 12 March 2022, as part of the Eastern Ukraine offensive during the 2022 Russian invasion of Ukraine. Russian and DPR forces engaged Ukrainian forces at the small city of Volnovakha in Donetsk Oblast, which is located close to the Ukrainian-DPR border.
@@ -107,8 +107,7 @@ The **battle of Volnovakha** was a military engagement which lasted from 25 Febr
 The battle was spearheaded by DPR forces and led to the widespread destruction of the town and heavy casualties on both sides.
 
 ## Battle
-
-On 25 February, the second day of the invasion, Russian forces shelled Volnovakha, hitting civilian areas. _The Guardian_ wrote that Russian bombing of Volnovakha resembled tactics that Russia had previously used on civilian targets in Syria. On February 25, DPR forces captured the nearby town of Mykolaivka according to Russian media. Ukrainian officials reported that Volnovakha was on the verge of humanitarian crisis by February 28, and was almost destroyed by March 1, with nearly 90% of its buildings either damaged or destroyed. The city was also cut off from food, water, and electricity. Following the bombardment, bodies laid uncollected in the streets, according to local MP Dmytro Lubinets.
+On 25 February, the second day of the invasion, Russian forces shelled Volnovakha, hitting civilian areas. *The Guardian* wrote that Russian bombing of Volnovakha resembled tactics that Russia had previously used on civilian targets in Syria. On February 25, DPR forces captured the nearby town of Mykolaivka according to Russian media. Ukrainian officials reported that Volnovakha was on the verge of humanitarian crisis by February 28, and was almost destroyed by March 1, with nearly 90% of its buildings either damaged or destroyed. The city was also cut off from food, water, and electricity. Following the bombardment, bodies laid uncollected in the streets, according to local MP Dmytro Lubinets.
 
 By 1 March, nearly 500 civilians were evacuated from Volnovakha by Ukrainian authorities.
 
@@ -124,4 +123,4 @@ On 12 March, Pavlo Kyrylenko, the governor of Donetsk Oblast, stated that Russia
 
 On 14 March, a Ukrainian Su-25 was shot down by Russian forces near Volnovakha. The pilot, Roman Vasyliuk, captured by Russian forces was later released on 24 April, by a Russo-Ukrainian prisoner swap.
 
-
+## References

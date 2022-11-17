@@ -1,7 +1,17 @@
 ---
+title: Battle of Sievierodonetsk (2022)
+shortDescription: Battle in the 2022 Russian invasion of Ukraine
+description: The Battle of Sievierodonetsk was a military engagement in the
+  wider battle of Donbas of the Eastern Ukraine offensive during the 2022
+  Russian invasion of Ukraine. The city of Sievierodonetsk acted as the
+  administrative center of Luhansk Oblast before the invasion. By May 2022,
+  Sievierodonetsk and the neighbouring city of Lysychansk were the only notable
+  parts of the oblast that remained under Ukrainian control.
+author: Wikipedia
+img: https://upload.wikimedia.org/wikipedia/commons/a/ae/Attack_on_the_center_of_Severodonetsk_by_Russian_forces.jpg
 infoboxes:
   - conflict:
-      text: Battle of Sievierodonetsk
+      text: First Battle of Sievierodonetsk
     partof:
       text: the battle of Donbas during the 2022 Eastern Ukraine offensive
       links:
@@ -13,8 +23,7 @@ infoboxes:
     image:
       text: Attack on the center of Severodonetsk by Russian forces.jpg
     caption:
-      text:
-        Smoke from the Azot chemical plant after being attacked by Russian forces
+      text: Smoke from the Azot chemical plant after being attacked by Russian forces
         in the city
       links:
         - text: Azot chemical plant
@@ -34,8 +43,7 @@ infoboxes:
     result:
       text: Russian victory
     territory:
-      text:
-        Russian forces capture the city of Sievierodonetsk and the settlements of
+      text: Russian forces capture the city of Sievierodonetsk and the settlements of
         Syrotyne, Voronove and Borivske.
       links:
         - text: Syrotyne
@@ -131,7 +139,8 @@ infoboxes:
         ** 81st Airmobile Brigade 
         * National Guard of Ukraine 
         ** 4th Rapid Reaction Brigade  
-        *  International Legion
+        *  International Legion 
+        *🇧🇾 Kastuś Kalinoŭski Regiment
       links:
         - text: 128th Mountain Assault Brigade
           type: internal
@@ -150,8 +159,10 @@ infoboxes:
         - text: International Legion
           type: internal
           page: International Legion of Territorial Defense of Ukraine
+        - type: internal
+          page: Kastuś Kalinoŭski Regiment
     strength1:
-      text: 12,500 (at Luhansk, per Ukraine)
+      text: 12,500 (in Luhansk, per Ukraine)
     strength2:
       text: Unknown
     casualties1:
@@ -167,7 +178,9 @@ infoboxes:
           - "Ukrainian claim:"
     casualties2:
       text: "ISW claim: Heavy Ukrainian claim: 161+ killed, wounded or captured
-        Russian claim (as of 22 May): 200+ killed"
+        Russian claim: 1,220 killed (15, 23 and 24 June
+        only);                1,000 casualties, including 800 prisoners (Zolote
+        cauldron, 23-24 June only)"
       links:
         - text: ISW
           type: internal
@@ -176,23 +189,12 @@ infoboxes:
         bold:
           - ISW claim
           - "Ukrainian claim:"
-          - "Russian claim (as of 22 May):"
+          - "Russian claim:"
     casualties3:
       text: "Ukrainian claim (13 April–26 May): 1,100 civilians killed"
       formatting:
         bold:
           - Ukrainian claim (13 April–26 May)
-title: Battle of Sievierodonetsk (2022)
-shortDescription: Battle in the 2022 Russian invasion of Ukraine
-description: The Battle of Sievierodonetsk was a military engagement in the
-  wider battle of Donbas of the Eastern Ukraine offensive during the 2022
-  Russian invasion of Ukraine. The city of Sievierodonetsk acted as the
-  administrative center of Luhansk Oblast before the invasion. By May 2022,
-  Sievierodonetsk and the neighbouring city of Lysychansk were the only notable
-  parts of the oblast that remained under Ukrainian control.
-author: Wikipedia
-pubDate: 14 Jul 2022
-img: ukraine(8).jpg
 ---
 
 The **Battle of Sievierodonetsk** was a military engagement in the wider battle of Donbas of the Eastern Ukraine offensive during the 2022 Russian invasion of Ukraine. The city of Sievierodonetsk acted as the administrative center of Luhansk Oblast before the invasion. By May 2022, Sievierodonetsk and the neighbouring city of Lysychansk were the only notable parts of the oblast that remained under Ukrainian control. By 14 June 2022, Russian forces gained control of most of the city and cut off all escape routes.
@@ -200,8 +202,7 @@ The **Battle of Sievierodonetsk** was a military engagement in the wider battle 
 On 24 June 2022, Ukrainian units were ordered to retreat from the city and the next day Russian and pro-Russian separatist forces fully captured Sievierodonetsk.
 
 ## Background
-
-![Sievierodonetsk after Russian shelling on 6 April 2022 (03)](<https://wikipedia.org/wiki/Special:Redirect/file/Sievierodonetsk_after_Russian_shelling_on_6_April_2022_(03).jpg?>)
+![Sievierodonetsk after Russian shelling on 6 April 2022 (03)](https://wikipedia.org/wiki/Special:Redirect/file/Sievierodonetsk_after_Russian_shelling_on_6_April_2022_(03).jpg?)
 The twin cities of Sievierodonetsk and Lysychansk were the site of a series of battles in 2014 between pro-Russian separatists and the Ukrainian military during the War in Donbas. Soon after the start of the 2022 Russian invasion of Ukraine, on 28 February, Russian forces began to shell Sievierodonetsk. According to Serhiy Haidai, the governor of Luhansk Oblast, one person was killed and several were injured. Gas pipelines were also hit by the shelling. On 2 March, fighting was reported in almost all the villages near Sievierodonetsk. Russian forces continued to shell the city, including a school gym that was acting as a bomb shelter. No deaths were reported. At 15:20 that day, Ukrainian officials said Russian forces tried to break through Ukrainian lines towards the city, but were repelled.
 
 A month into its invasion, Russia claimed to control 93% of Luhansk Oblast, leaving Sievierodonetsk and Lysychansk as strategically important Ukrainian holdouts in the area. Russian plans to capture Sievierodonetsk hinged upon its successes in the nearby cities of Rubizhne to the north and Popasna to the south. By 6 April, Russian forces had reportedly captured 60% of Rubizhne, and shells and rockets were landing in Sievierodonetsk on "regular, sustained intervals". The next day, forces of the 128th Mountain Assault Brigade conducted an offensive which reportedly drove Russian forces 6–10 kilometers away from the other nearby town of Kreminna.
@@ -210,9 +211,10 @@ By 9 April, elements of the Russian 4th Guards Tank Division were reportedly con
 
 ## Battle
 
-### Encirclement attempts
 
-![War in Luhansk Oblast (2022-05-02) 01](<https://wikipedia.org/wiki/Special:Redirect/file/War_in_Luhansk_Oblast_(2022-05-02)_01.jpg?>)
+### Encirclement attempts
+![War in Luhansk Oblast (2022-05-02) 01](https://wikipedia.org/wiki/Special:Redirect/file/War_in_Luhansk_Oblast_(2022-05-02)_01.jpg?)
+
 
 On 6 May, Russian and Luhansk People's Republic (LPR) forces made gains in the outskirts of Sievierodonetsk, attacking the village of Voevodivka just north of the city, while also capturing the village of Voronove to the southeast. Other villages were also attacked in an attempt to surround the city. Subsequently, it was reported by the city's mayor, Oleksandr Stryuk, that Sievierodonetsk was "virtually surrounded". Over the next days, Russian and separatist forces attacked Bilohorivka, Voevodivka, and Lysychansk, intending to cut off Sievierodonetsk from the south. They also captured Popasna.
 
@@ -221,7 +223,6 @@ On 9 May, LPR troops reportedly took control of Nyzhnie and started to attack To
 For the most part, Russia subsequently ceased its ground attacks on the surroundings of Sievierodonetsk and Lysychansk and limited itself to artillery bombardments. Pro-Russian forces instead focused on completing the encirclement of the two cities. To this end, they attacked at the northern frontline around Izium and in the south toward Bakhmut. The northern attacks made little to no progress, but in the south, Russia made limited advances over several days of heavy combat. Fighting was mainly concentrated on a number of villages, including Toshkiva, Pylpchatyne, Hirske, and Zolote.
 
 ### Attack on the city
-
 ![S. Donets by M. Naumenko](https://wikipedia.org/wiki/Special:Redirect/file/S._Donets_by_M._Naumenko.jpg?)
 On 27 May, Russia began its direct ground assault against Sievierodonetsk, despite having not yet encircled the city. Chechen Kadyrovites captured the Mir Hotel in the northern part of the city. Meanwhile, other Russian and separatist forces continued their attempts to form a pocket in the urban areas, attacking from the north near Rubizhne and southwest at Ustynivka and Borisvske. Further to the west, Russia continued to slowly advance in a number of areas such as Lyman and Siversk to disrupt the Ukrainian supply lines to Sievierodonetsk-Lysychansk. On the following day, 28 May, Russia made limited gains in Sievierodonetsk. The Institute for the Study of War (ISW) argued that the battle was already proving very costly for the Russian forces by this point, and could potentially exhaust their offensive capabilities. The ISW observed that both Russia and Ukraine were suffering heavy losses, but argued those of the pro-Russian contingents were more difficult to replace.
 
@@ -252,7 +253,6 @@ On 13 June, according to Governor Haidai, the last of three bridges connecting S
 By 14 June 2022, Ukrainian sources acknowledged that Russia controlled 80 percent of the city and had cut off all escape routes.
 
 ### Ukraine rejects surrender ultimatum
-
 By 15 June, much of Sievierodonetsk was "largely in ruins" and Russia had urged Ukrainian defenders to stop "senseless resistance and lay down arms". Russian authorities said it had opened a humanitarian corridor from the Azot plant towards Russian territory while accusing Ukraine of disrupting evacuation efforts. Mayor Oleksandr Stryuk said Russian forces were storming the city from several directions but insisted Ukrainian forces were not completely cut off and evacuation routes still existed. On 15 June, the Russian ultimatum for Ukraine to surrender the city was ignored and clashes continued.
 
 On 16 June, Ukrainian forces able to withdraw were reportedly ordered to withdraw towards Lysychansk. The Ukrainian General Staff claimed to "retain several logistics routes to Sievierodonetsk despite the destruction of four bridges". The next day, 17 June, Russian media reported that Ukrainian military personnel had "begun surrendering". The ISW argued the battle had tied down Russian forces which could have been used elsewhere in the war, observing that Russia had "concentrated the vast majority of its available combat power to capture Sievierodonetsk and Lysychansk at the expense of other axes of advance and is suffering heavy casualties to do so."
@@ -268,7 +268,6 @@ On 21 June, Haidai remarked on the battlefield superiority of the Russian forces
 On 22 June, the Ukrainians said they had lost control of the settlements of Toshkivka, Pidlisne, Luhansk Oblast and Myrna Dolyna, south of Lysychansk. On 23 June, Russian forces cut off and surrounded the towns of Hirske and Zolote, which they claimed to have fully captured by the next day.
 
 ### Fall of Sievierodonetsk
-
 On 24 June, Governor Haidai announced that Ukrainian forces were ordered to withdraw from the city, stating: "Remaining in positions that have been relentlessly shelled for months just doesn't make sense. They have received orders to retreat to new positions... and from there continue their operations. There is no point in staying in positions which have been destroyed over several months just for the sake of staying". CNN reported that amid continuing scorched earth tactics being applied by advancing Russian troops, Ukraine's armed forces were ordered to evacuate the city, leaving several hundred civilians seeking refuge in the Azot chemical plant, which was compared to the civilian refugees left at the Azovstal steelworks in Mariupol a month prior in May. Concurrently, Russian sources stated that Ukrainian forces had suffered over 1,000 casualties, including 800 prisoners, in Hirske, Zolote, and near Lysychansk over the previous two days. The withdrawal had been taking place over the previous several days. The Ukrainian retreat over the Donets river was conducted mostly at night and the locations of the crossings were constantly changed due to Russian shelling. It was thought no one was killed during the retreat.
 
 On 25 June, Russian forces took full control of Sievierodonetsk following the Ukrainian military's withdrawal. Approximately 10,000 civilians remained in the city, ten percent of the pre-war level.
@@ -276,7 +275,6 @@ On 25 June, Russian forces took full control of Sievierodonetsk following the Uk
 The settlements of Syrotyne, Voronove and Borivske were captured as well. At this time, Hanna Maliar, the Deputy Minister of Defense of Ukraine, criticized civilians for allegedly disrupting military operations during the battle by sharing military information on social media.
 
 ## Aftermath
-
 Oleksiy Arestovych, an advisor to Ukrainian president Volodymyr Zelenskyy, claimed that Ukrainian special forces remained behind in the city to direct artillery strikes. According to TASS, Ukrainian shelling prevented the evacuation of civilians from the Azot chemical plant hours after Ukrainian troops left. There was no mention of the Ukrainian special forces engaging Russian soldiers directly.
 
 On 25 June, Russian and LPR forces began encircling Lysychansk.
@@ -286,12 +284,11 @@ In late June-early July, the Associated Press interviewed Ukrainian soldiers tha
 On 8 July, two weeks after Sievierodonetsk was captured, Luhansk governor Serhiy Haidai warned that living conditions in the city continued to deteriorate and the city was "on the verge of a humanitarian catastrophe" as critical infrastructure and utilities such as water, electricity, and the sewage system remained inoperable while corpses decomposed in hot apartment buildings. Haidai said the Russians were "unable to repair anything" and continued to accuse Russian forces of using "scorched earth" tactics during their offensive. He added that 8,000 people remained in the city at this time.
 
 ## Analysis
-
 The Institute for the Study of War (ISW) judged on 28 May that the Russian military was directing a large part of its combat-effective forces into the battle of Sievierodonetsk, weakening other front lines and risking exhausting its remaining troops. The ISW cautioned that the effort invested in the capture of Sievierodonetsk did not seem fitting for the location's limited strategic value. The Ukrainian military analyst Oleh Zhdanov believes this is the last offensive Russia can undertake before Western military aid reaches Ukrainian forces. Ukrainian forces may be withdrawing to preserve their forces.
 
 On 4 June, the UK MoD said: “Ukrainian forces have counterattacked in the contested city of Sievierodonetsk in eastern Ukraine, likely blunting the operational momentum Russian forces previously gained through concentrating combat units and firepower”.
 
-According to the ISW, Ukraine seems to be maintaining a flexible defence of the city, with an aim of inflicting Russian casulties rather than holding all of Sievierodonetsk. Reportedly, following an advance on 5 June that recaptured approximately half of the city, Ukrainian forces pulled back after a Russian bombardment the next day.
+According to the ISW, Ukraine seems to be maintaining a flexible defence of the city, with an aim of inflicting Russian casualties rather than holding all of Sievierodonetsk. Reportedly, following an advance on 5 June that recaptured approximately half of the city, Ukrainian forces pulled back after a Russian bombardment the next day.
 
 On 6 June, Frederick Kagan, said that Russian forces were "crawling forward using massive artillery barrages to obliterate everything in its path allowing Russia’s demoralized and frightened soldiers to walk into the rubble."
 
@@ -304,7 +301,6 @@ ISW wrote on 20 June: "Russian forces will likely be able to seize Sievierodonet
 ISW wrote on 23 June: "Head of the Luhansk Oblast Administration Serhiy Haidai stated on June 23 that Ukrainian troops may have to retreat to avoid encirclement in Lysychansk…Ukrainian troops have succeeded for weeks in drawing substantial quantities of Russian personnel, weapons, and equipment into the area and have likely degraded Russian forces' overall capabilities while preventing Russian forces from focusing on more advantageous axes of advance."
 
 ## Casualties
-
 Numerous attacks against civilian facilities have occurred in Sievierodonetsk. On 17 March 2022, the Governor of Luhansk Oblast Serhiy Haidai reported that Russian forces had hit a shelter intended for mothers and children and declared that "there are no safe places in Luhansk Region anymore". On 22 March, Haidai said that the Russians had shelled a children's hospital and set the roof on fire, although no one was wounded. Damage to local churches was also reported. On 7 April 2022, Russian forces reportedly struck a humanitarian aid center and set 10 high-rise buildings on fire in the city.
 
 In Lysychansk, 150 civilians killed in the city due to Russian strikes were reportedly buried in a mass grave on 25 May. On 27 May, the mayor of Sievierodonetsk announced that more than 1,500 civilians had been killed since the start of the Russian invasion on 24 February 2022.
@@ -316,9 +312,9 @@ On 14 June, Zelenskyy called for more foreign military aid, calling the human co
 On 8 July, Ukraine's governor of Luhansk province, Serhiy Haidai, claimed that hundreds of Kadyrovites died during the battle for Sievierodonetsk, but did not provide an exact number. He also claimed one of the leaders of the Chechen division of Russia's National Guard was seriously wounded during clashes and "may be on the verge of life and death".
 
 ## See also
+ * Battle of Lysychansk
+ * Battles of Sievierodonetsk (2014)
+ * List of military engagements during the 2022 Russian invasion of Ukraine
 
-- Battle of Lysychansk
-- Battles of Sievierodonetsk (2014)
-- List of military engagements during the 2022 Russian invasion of Ukraine
 
-
+## References

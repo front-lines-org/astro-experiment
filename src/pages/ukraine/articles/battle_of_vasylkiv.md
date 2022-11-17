@@ -1,4 +1,14 @@
 ---
+title: Battle of Vasylkiv
+shortDescription: Battle in the 2022 Russian invasion of Ukraine
+description: The battle of Vasylkiv was a military engagement between the
+  Russian Federation and Ukraine on 26 February 2022, during the 2022 Russian
+  invasion of Ukraine. In the early morning of 26 February, paratroopers of the
+  Russian Airborne Forces began landing near the city of Vasylkiv, 40 km south
+  of Kyiv, in an attempt to secure Vasylkiv Air Base. Heavy fighting between the
+  Russian paratroopers and Ukrainian defenders occurred in the city.
+author: Wikipedia
+img: https://upload.wikimedia.org/wikipedia/commons/e/ef/Destroyed_building_of_house_No.42_on_Dekabrystiv_Street_in_Vasylkiv_(05).jpg
 infoboxes:
   - conflict:
       text: Battle of Vasylkiv
@@ -58,28 +68,16 @@ infoboxes:
           page: Ilyushin Il-76
     casualties2:
       text: Unknown killed, 200+ wounded
-title: Battle of Vasylkiv
-shortDescription: Battle in the 2022 Russian invasion of Ukraine
-description: The battle of Vasylkiv was a military engagement between the
-  Russian Federation and Ukraine on 26 February 2022, during the 2022 Russian
-  invasion of Ukraine. In the early morning of 26 February, paratroopers of the
-  Russian Airborne Forces began landing near the city of Vasylkiv, 40 km south
-  of Kyiv, in an attempt to secure Vasylkiv Air Base. Heavy fighting between the
-  Russian paratroopers and Ukrainian defenders occurred in the city.
-author: Wikipedia
-pubDate: 14 Jul 2022
-img: ukraine(88).jpg
 ---
 
 The **battle of Vasylkiv** was a military engagement between the Russian Federation and Ukraine on 26 February 2022, during the 2022 Russian invasion of Ukraine.
 
 ## Battle
-
 In the early morning of 26 February, paratroopers of the Russian Airborne Forces began landing near the city of Vasylkiv, 40 km south of Kyiv, in an attempt to secure Vasylkiv Air Base. Heavy fighting between the Russian paratroopers and Ukrainian defenders occurred in the city.
 
 According to Ukrainian officials, at 01:30, a Ukrainian Su-27 fighter jet shot down a Russian Ilyushin Il-76 carrying paratroopers. At 03:20, a second Il-76 was allegedly shot down over the nearby city of Bila Tserkva.
 
-The mayor of Vasylkiv, Natalia Balasynovych, stated that over 200 Ukrainians were wounded in the engagement. She later claimed that Ukrainian forces had repelled the assault by Russian paratroopers on the military air base near the city and the central street, with the situation in the city having calmed down. _The Wall Street Journal_ reported that Ukrainian forces patrolled the city in the morning and were searching for Russian stragglers.
+The mayor of Vasylkiv, Natalia Balasynovych, stated that over 200 Ukrainians were wounded in the engagement. She later claimed that Ukrainian forces had repelled the assault by Russian paratroopers on the military air base near the city and the central street, with the situation in the city having calmed down. *The Wall Street Journal* reported that Ukrainian forces patrolled the city in the morning and were searching for Russian stragglers.
 
 Visual confirmation of Russian Il-76 losses has yet to be produced.
 
@@ -89,16 +87,15 @@ The New York Times cited unnamed Ukrainian officials, that at least part of the 
 
 ## Aftermath
 
-### February and March
 
+### February and March
 In the early morning of 27 February, a Russian missile struck an oil depot in Vasylkiv, setting it ablaze. On 12 March, a Russian rocket attack destroyed the air base.
 
 ### April
-
 On 2 April 2022 the whole of Kyiv Oblast, where Vasylkiv is located in, was declared free of "invaders" by the Ukrainian Ministry of Defense after Russian troops had left the area.
 
 ## See also
+ * Battle of Antonov Airport
 
-- Battle of Antonov Airport
 
-
+## References
