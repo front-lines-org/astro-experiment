@@ -1,4 +1,17 @@
 ---
+title: Battle of Maarat al-Numan (2012)
+shortDescription: Military operation
+description: The Battle of Maarat Al-Numan (معركة معرة النعمان) was a battle
+  between the Syrian Army and the rebel Free Syrian Army for control of the
+  strategically important town of Maarrat al-Numan in October 2012, during the
+  Idlib Governorate clashes (June 2012–April 2013) of the Syrian Civil War. On 8
+  October, the rebels launched an offensive to capture the town of Maarrat
+  al-Nu'man, which holds a strategic position next to the M5 Highway, a key
+  route which government reinforcements from Damascus would need to use in order
+  to enter the battle in Aleppo. The city had already been captured once before
+  by the rebels, on 10 June, but was recaptured by the military in August.
+author: Wikipedia
+img: https://upload.wikimedia.org/wikipedia/commons/c/ce/Syria_M5_Highway.svg
 infoboxes:
   - conflict:
       text: Battle of Maarat al-Numan (2012)
@@ -95,49 +108,16 @@ infoboxes:
       text: 60 civilians killed
     notes:
       text: Includes 50 defectors executed by the military.
-title: Battle of Maarat al-Numan (2012)
-shortDescription: Military operation
-description: The Battle of Maarat Al-Numan (معركة معرة النعمان) was a battle
-  between the Syrian Army and the rebel Free Syrian Army for control of the
-  strategically important town of Maarrat al-Numan in October 2012, during the
-  Idlib Governorate clashes (June 2012–April 2013) of the Syrian Civil War. On 8
-  October, the rebels launched an offensive to capture the town of Maarrat
-  al-Nu'man, which holds a strategic position next to the M5 Highway, a key
-  route which government reinforcements from Damascus would need to use in order
-  to enter the battle in Aleppo. The city had already been captured once before
-  by the rebels, on 10 June, but was recaptured by the military in August.
-author: Wikipedia
-img: https://upload.wikimedia.org/wikipedia/commons/c/ce/Syria_M5_Highway.svg
 ---
 
-|                                   |                              |
-|                ---                |              ---             |
-|            **conflict**           |Battle of Maarat al-Numan (2012) |
-|             **partof**            |Idlib Governorate clashes (June 2012–April 2013) of the [Syrian Civil War](./Syrian_Civil_War) |
-|           **image_size**          |              260              |
-|              **date**             |       8–13 October 2012       |
-|             **place**             |[Maarrat al-Nu'man](./Maarrat_al-Nu'man), [Syria](./Syria) |
-|            **map_type**           |             Syria             |
-|           **map_relief**          |              yes              |
-|             **result**            |Rebel victory, * Rebel forces take control of Maarat al-Nu'man on 10 October, * Rebel forces capture a 5-kilometer stretch of highway south of the city on 11 October, * Rebel forces stop a government-counter attack on 13 October, * Rebels [lay siege to two military bases](./Siege_of_Wadi_Deif) on the outskirts of the city |
-|           **combatant1**          |[Free Syrian Army](./Free_Syrian_Army) [Al-Nusra Front](./Al-Nusra_Front) |
-|           **combatant2**          |[Syrian Armed Forces](./Syrian_Armed_Forces) |
-|           **commander1**          |Col. Heitam Afasi , ,  Lt. Col. Khaled Hmood , ,  Lt. Col. [Fares Bayoush](./Fares_Bayoush) |
-|           **commander2**          |            Unknown            |
-|             **units1**            |Maarrat al-Nu'man Martyrs Brigade , [Farouq Brigades](./Farouq_Brigades) |
-|             **units2**            |5th Armoured Division, *17th Armoured Brigade |
-|          **casualties1**          |          108 killed           |
-|          **casualties2**          |190 killed, 19 captured , (by 12 October), Two [Su-22](./Sukhoi_Su-17) jet shot down |
-|          **casualties3**          |      60 civilians killed      |
-|             **notes**             |Includes 50 defectors executed by the military. |
-The **Battle of Maarat Al-Numan** (معركة معرة النعمان) was a battle between the Syrian Army and the rebel Free Syrian Army for control of the strategically important town of [Maarrat al-Numan](./Maarrat_al-Numan) in October 2012, during the Idlib Governorate clashes (June 2012–April 2013) of the [Syrian Civil War](./Syrian_Civil_War).
+The **Battle of Maarat Al-Numan** (معركة معرة النعمان) was a battle between the Syrian Army and the rebel Free Syrian Army for control of the strategically important town of Maarrat al-Numan in October 2012, during the Idlib Governorate clashes (June 2012–April 2013) of the Syrian Civil War.
 
 ## Battle
 
 
 ### Rebel offensive
 ![MaaratNuman museum](https://wikipedia.org/wiki/Special:Redirect/file/MaaratNuman_museum.jpg?)
-On 8 October, the rebels launched an offensive to capture the town of [Maarrat al-Nu'man](./Maarrat_al-Nu'man), which holds a strategic position next to the M5 Highway, a key route which government reinforcements from Damascus would need to use in order to enter the [battle in Aleppo](./Battle_of_Aleppo_(2012)). The city had already been captured once before by the rebels, on 10 June, but was recaptured by the military in August. During the evening, the Air Force started conducting air-strikes against the town in an attempt to stop the rebel attack.
+On 8 October, the rebels launched an offensive to capture the town of Maarrat al-Nu'man, which holds a strategic position next to the M5 Highway, a key route which government reinforcements from Damascus would need to use in order to enter the battle in Aleppo. The city had already been captured once before by the rebels, on 10 June, but was recaptured by the military in August. During the evening, the Air Force started conducting air-strikes against the town in an attempt to stop the rebel attack.
 
 By the next day, rebels seized eight of the military checkpoints around Maarrat al-Nu'man, leaving only one under government control at the entrance to the town. The rebels set up a headquarters in the town's mosaic museum, which was previously occupied by government troops. During the takeover, the rebels captured a government detention facility at the Arabic Cultural Center. As they entered the facility, a land mine explosion killed 16 rebel fighters. At the center, they reportedly found the corpses of 25 detainees, including 2 defecting soldiers, according to the opposition activist group SOHR. Later, a rebel media official said the number of executed people found was 65, with 50 of them being defecting soldiers according to an activist. Overall, not counting fatalities among government forces, more than 60 people were killed in the fighting for the town. At least 40 of the dead were civilians, while the rest were rebels.
 
@@ -156,4 +136,4 @@ The battle was seen as a strategic victory for opposition forces. The capture of
 ## See also
 
 
-
+## References

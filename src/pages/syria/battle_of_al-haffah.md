@@ -1,4 +1,13 @@
 ---
+title: Battle of al-Haffah
+shortDescription: 2012 battle in Syria
+description: The Battle of al-Haffah (معركة الحفة) was a battle between the
+  Syrian Army and the rebel Free Syrian Army (FSA) in Latakia Governorate,
+  primarily in the area around the town of Al-Haffah. The battle resulted in the
+  ousting of the rebels from Al-Haffah. Haffah is a Sunni Muslim town that lies
+  in the foothills of the coastal mountains that form the heartland of Assad's
+  Alawi sect.
+author: Wikipedia
 infoboxes:
   - conflict:
       text: Battle of al-Haffah معركة الحفة
@@ -52,34 +61,9 @@ infoboxes:
       text: 68 killed 200 wounded
     casualties3:
       text: 29 civilians killed
-title: Battle of al-Haffah
-shortDescription: 2012 battle in Syria
-description: The Battle of al-Haffah (معركة الحفة) was a battle between the
-  Syrian Army and the rebel Free Syrian Army (FSA) in Latakia Governorate,
-  primarily in the area around the town of Al-Haffah. The battle resulted in the
-  ousting of the rebels from Al-Haffah. Haffah is a Sunni Muslim town that lies
-  in the foothills of the coastal mountains that form the heartland of Assad's
-  Alawi sect.
-author: Wikipedia
 ---
 
-|                                   |                              |
-|                ---                |              ---             |
-|            **conflict**           |Battle of al-Haffah معركة الحفة |
-|             **partof**            |the [Syrian Civil War](./Syrian_Civil_War) |
-|              **date**             |        5–13 June 2012         |
-|             **place**             |[Al-Haffah](./Al-Haffah), [Latakia Governorate](./Latakia_Governorate), Syria |
-|             **result**            |      Syrian Army victory      |
-|           **combatant1**          |[Free Syrian Army](./Free_Syrian_Army) |
-|           **combatant2**          |Flag of Syria.svg [Syrian Arab Republic](./Syrian_Arab_Republic), * [Syrian Armed Forces](./Syrian_Armed_Forces) |
-|             **units1**            |            Unknown            |
-|             **units2**            |[10th Mechanized Division](./10th_Mechanized_Division_(Syria)), *56th Armoured Brigade |
-|           **strength1**           |         300+ fighters         |
-|           **strength2**           |         780 soldiers          |
-|          **casualties1**          |           23 killed           |
-|          **casualties2**          |     68 killed 200 wounded     |
-|          **casualties3**          |      29 civilians killed      |
-The **Battle of al-Haffah** (معركة الحفة) was a battle between the [Syrian Army](./Syrian_Army) and the rebel [Free Syrian Army](./Free_Syrian_Army) (FSA) in [Latakia Governorate](./Latakia_Governorate), primarily in the area around the town of [Al-Haffah](./Al-Haffah). The battle resulted in the ousting of the rebels from Al-Haffah.
+The **Battle of al-Haffah** (معركة الحفة) was a battle between the Syrian Army and the rebel Free Syrian Army (FSA) in Latakia Governorate, primarily in the area around the town of Al-Haffah. The battle resulted in the ousting of the rebels from Al-Haffah.
 
 ## Background
 Haffah is a Sunni Muslim town that lies in the foothills of the coastal mountains that form the heartland of Assad's Alawi sect. It is strategically located close to the port city of Latakia, as well as the Turkish border which has been used by the rebels to smuggle people and supplies.
@@ -101,9 +85,9 @@ On 12 June, the military recaptured al-Haffah and the remaining 200 FSA fighters
 ## Aftermath
 UN observers were blocked from entering the city during the battle, but received reports of civilians trapped and unable to leave. After the battle, UN monitors were met with the "smell of death", as they entered the deserted town of al-Haffah which had been shelled for eight consecutive days. The UN observers found the Sunni Muslim town completely abandoned with burned out wrecks of cars and at least one charred body lying on a street.
 
-
+## References
 
 
 ## See also
- * [Houla massacre](./Houla_massacre)
- * [Al-Kubeir massacre](./Al-Kubeir_massacre)
+ * Houla massacre
+ * Al-Kubeir massacre

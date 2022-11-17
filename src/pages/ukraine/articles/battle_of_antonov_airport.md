@@ -12,7 +12,7 @@ description: The Battle of Antonov Airport, also known as the Battle of Hostomel
   Kyiv, which would allow Russian troops to airlift more troops and heavier
   equipment to directly threaten the city.
 author: Wikipedia
-img: https://upload.wikimedia.org/wikipedia/commons/7/74/%D0%92%D0%B7%D1%8F%D1%82%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B4_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%D0%BD%D0%B0_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B_004.png
+img: https://upload.wikimedia.org/wikipedia/commons/7/74/Взятие_под_контроль_аэродрома_на_территории_Украины_004.png
 infoboxes:
   - conflict:
       text: Battle of Antonov Airport
@@ -264,7 +264,7 @@ As Hostomel is located just outside Kyiv, around 10 km away, and could give quic
 
 
 ### 24 February 2022
-![Взятие под контроль аэродрома на территории Украины 003](https://wikipedia.org/wiki/Special:Redirect/file/%D0%92%D0%B7%D1%8F%D1%82%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B4_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%D0%BD%D0%B0_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B_003.png?)
+![Взятие под контроль аэродрома на территории Украины 003](https://upload.wikimedia.org/wikipedia/commons/5/54/Взятие_под_контроль_аэродрома_на_территории_Украины_003.png)
 ![Ка-52 в боях за аэропорт Антонов](https://wikipedia.org/wiki/Special:Redirect/file/%D0%9A%D0%B0-52_%D0%B2_%D0%B1%D0%BE%D1%8F%D1%85_%D0%B7%D0%B0_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2.png?)
 
 

@@ -9,7 +9,7 @@ description: The Russian withdrawal from Kherson and subsequent Liberation of
   liberation of the city by the Armed Forces of Ukraine (ZSU) were a result of
   the 2022 Ukrainian southern counteroffensive.
 author: Wikipedia
-img: https://upload.wikimedia.org/wikipedia/commons/4/4c/Clockwise_from_top_left%3A_Column_of_Ukrainian_tanks_in_Kherson_Oblast%0A%0ACivilians_of_Kherson_welcoming_Ukrainian_forces%0A%0ACivilians_lifting_female_ZSU_soldier_on_shoulders%0A%0AZSU_soldier_placing_flag_on_%22Kherson_Oblast%22_sign
+img: https://upload.wikimedia.org/wikipedia/commons/7/7e/Kherson_Counteroffensive_Tanks_%28Cropped%29.png
 infoboxes:
   - conflict:
       text: |-
