@@ -27,7 +27,7 @@ const getColspan = () => {
 
 <a href={url} class="hover:underline">
   <div class="grid overflow-hidden md grid-cols-12 auto-rows-auto gap-2">
-    {
+    <!-- {
       size !== "xs" && img && (
         <div class={`${getColspan()[0]}`}>
           {!img.endsWith(".svg") ? (
@@ -45,7 +45,7 @@ const getColspan = () => {
           )}
         </div>
       )
-    }
+    } -->
     <div class={`${getColspan()[1]}`}>
       {size !== "xs" && <p class={`font-black ${twColor}`}>{category}</p>}
 

@@ -15,7 +15,7 @@ export interface Props {
 }
 
 const {
-  content: { title, description, pubDate, updatedDate, img, author, authorUrl },
+  content: { title, description, pubDate, updatedDate, img, author, authorUrl, localImg },
 } = Astro.props;
 ---
 
@@ -46,20 +46,9 @@ const {
       }
     </p>
     {
-      img &&
-        (!img.endsWith(".svg") ? (
-          <Img
-            src={img && img.startsWith("http") ? img : `/images/${img}`}
-            alt=""
-            format="webp"
-          />
-        ) : (
-          <img
-            src={img && img.startsWith("http") ? img : `/images/${img}`}
-            alt=""
-            class="w-full h-full object-cover"
-          />
-        ))
+      !localImg && (
+        <Img src={import(`./${localImg}.png`)} />
+      )
     }
     <slot />
   </article>
